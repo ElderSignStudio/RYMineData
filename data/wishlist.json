@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-13T21:05:41.595Z",
+  "lastScrapedAt": "2026-06-15T10:17:32.013Z",
   "source": "rym",
   "albums": [
     {
@@ -851,6 +851,89 @@
       "enrichedAt": "2026-05-20T23:53:04.217Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/boards-of-canada/inferno",
+      "title": "Inferno",
+      "artist": "Boards of Canada",
+      "year": 2026,
+      "genres": [
+        "Downtempo",
+        "Hauntology"
+      ],
+      "dateAdded": "2026-06-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/4d971a24e15bee4348b8050cb62cda19/14532480",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4aa48e4b0e3e961985dd50951498ed53/14532480",
+      "rymRating": 3.9,
+      "primaryGenres": [
+        "Downtempo",
+        "Hauntology"
+      ],
+      "secondaryGenres": [
+        "Ambient",
+        "Progressive Electronic",
+        "Neo-Psychedelia",
+        "Synthwave",
+        "Hauntology",
+        "IDM"
+      ],
+      "descriptors": [
+        "cryptic",
+        "vocal chops",
+        "ominous",
+        "atmospheric",
+        "sampling",
+        "mysterious",
+        "psychedelic",
+        "hazy",
+        "occult",
+        "surreal",
+        "spiritual",
+        "afterlife",
+        "religious",
+        "ritualistic",
+        "rhythmic",
+        "hypnotic",
+        "ethereal",
+        "dark",
+        "pitched-down vocals",
+        "existential",
+        "dense",
+        "bittersweet",
+        "eclectic",
+        "science",
+        "progressive",
+        "memory",
+        "repetitive",
+        "lush",
+        "paranormal",
+        "apocalyptic",
+        "nocturnal",
+        "melancholic",
+        "instrumental",
+        "desolate",
+        "warm",
+        "concept album",
+        "suspenseful",
+        "death",
+        "philosophical",
+        "futuristic",
+        "time",
+        "melodic",
+        "decay",
+        "fire",
+        "sombre",
+        "space",
+        "nostalgia",
+        "nature",
+        "conscious"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p",
+        "appleMusic": "https://geo.music.apple.com/us/album/inferno/1890015523",
+        "bandcamp": "https://boardsofcanada.bandcamp.com/album/inferno"
+      },
+      "enrichedAt": "2026-06-15T10:17:20.478Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/bon-iver/volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band",
       "title": "Volumes: One (Selections From Music Concerts 2019-2023 Bon Iver 6 Piece Band)",
       "artist": "Bon Iver",
@@ -1537,6 +1620,123 @@
         "appleMusic": "https://geo.music.apple.com/us/album/los-delirios-del-mariscal/479213943"
       },
       "enrichedAt": "2026-05-21T00:00:01.749Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/cruel-force/haneda",
+      "title": "Haneda",
+      "artist": "Cruel Force",
+      "year": 2026,
+      "genres": [
+        "Speed Metal",
+        "Thrash Metal"
+      ],
+      "dateAdded": "2026-06-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/5397c7701b61e20ece12b15ff7535aa9/14474561",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7b30a2c670a269f404154a4c35fb7696/14474561",
+      "rymRating": 3.63,
+      "primaryGenres": [
+        "Speed Metal",
+        "Thrash Metal"
+      ],
+      "descriptors": [
+        "aggressive",
+        "male vocalist",
+        "energetic",
+        "mythology",
+        "violence",
+        "heavy",
+        "melodic",
+        "dense",
+        "war",
+        "antireligious",
+        "technical"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3hqS1fRt6EKFvNykfdsFxe",
+        "appleMusic": "https://geo.music.apple.com/nz/album/haneda/1884850798",
+        "youtube": "https://www.youtube.com/watch?v=HDbuyp9XT0Y",
+        "bandcamp": "https://cruelforce.bandcamp.com/album/haneda"
+      },
+      "enrichedAt": "2026-06-15T10:17:28.297Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/cryptic-shift/overspace-and-supertime",
+      "title": "Overspace & Supertime",
+      "artist": "Cryptic Shift",
+      "year": 2026,
+      "genres": [
+        "Technical Thrash Metal",
+        "Progressive Metal",
+        "Technical Death Metal"
+      ],
+      "dateAdded": "2026-06-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/11adacb8316a851ffc1a731d2700941a/14332487",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/308bf7f270c2c0aec0e8c5495be677fe/14332487",
+      "rymRating": 3.63,
+      "primaryGenres": [
+        "Technical Thrash Metal",
+        "Progressive Metal",
+        "Technical Death Metal"
+      ],
+      "secondaryGenres": [
+        "Avant-Garde Metal",
+        "Jazz Fusion"
+      ],
+      "descriptors": [
+        "science fiction",
+        "progressive",
+        "complex",
+        "technical",
+        "space",
+        "dissonant",
+        "uncommon time signatures",
+        "energetic",
+        "concept album",
+        "harsh vocals",
+        "male vocalist",
+        "heavy",
+        "dense",
+        "abstract",
+        "futuristic",
+        "technology",
+        "angular",
+        "maximalist",
+        "aggressive",
+        "blast beats",
+        "cryptic",
+        "epic",
+        "manic",
+        "atmospheric",
+        "aliens",
+        "avant-garde",
+        "travel",
+        "ominous",
+        "hypnotic",
+        "eclectic",
+        "suspenseful",
+        "surreal",
+        "mysterious",
+        "through-composed",
+        "war",
+        "stream of consciousness",
+        "narrative",
+        "psychedelic",
+        "rhythmic",
+        "chaotic",
+        "fantasy",
+        "theatrical",
+        "poetic",
+        "punchy",
+        "philosophical",
+        "piercing"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/55BX8eXi3Z80NpZ8O7ZOKa",
+        "appleMusic": "https://geo.music.apple.com/de/album/overspace-supertime/1853911321",
+        "youtube": "https://www.youtube.com/watch?v=jXT_VsLlvVw",
+        "bandcamp": "https://cryptic-shift.bandcamp.com/album/overspace-supertime-2"
+      },
+      "enrichedAt": "2026-06-15T10:17:32.013Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/daal/dodecahedron",
@@ -6335,7 +6535,7 @@
       "dateAdded": "2024-08-01",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/1d880ca82b3c375cd3563d1667692f37/4261540",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8ca6635ba56749f5407ba8c4f9517f1f/4261540",
-      "rymRating": 3.68,
+      "rymRating": 3.69,
       "primaryGenres": [
         "Progressive Rock",
         "Jazz-Rock",
@@ -6374,7 +6574,10 @@
         "appleMusic": "https://geo.music.apple.com/us/album/maps-of-non-existent-places/1459366862",
         "bandcamp": "https://thankyouscientist.bandcamp.com/album/maps-of-non-existent-places-2"
       },
-      "enrichedAt": "2026-05-21T12:07:20.183Z"
+      "enrichedAt": "2026-06-15T10:16:40.029Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-15T10:01:18.730Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/thank-you-scientist/terraformer",
