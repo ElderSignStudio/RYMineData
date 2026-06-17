@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-17T13:53:09.454Z",
+  "lastScrapedAt": "2026-06-17T15:48:40.612Z",
   "source": "rym",
   "albums": [
     {
@@ -1119,7 +1119,53 @@
         "Neo-Psychedelia"
       ],
       "dateAdded": "2025-10-15",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e97641a3bf64530d2ea6c89316360901/8053277",
+      "rymRating": 3.7,
+      "primaryGenres": [
+        "Art Punk",
+        "Progressive Rock",
+        "Neo-Psychedelia"
+      ],
+      "secondaryGenres": [
+        "Progressive Pop",
+        "Zolo",
+        "Art Pop",
+        "Psychedelic Pop",
+        "Britpop",
+        "Experimental Rock"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "quirky",
+        "playful",
+        "uncommon time signatures",
+        "space",
+        "complex",
+        "male vocalist",
+        "female vocalist",
+        "progressive",
+        "energetic",
+        "surreal",
+        "humorous",
+        "eclectic",
+        "aquatic",
+        "manic",
+        "melodic",
+        "futuristic",
+        "maximalist",
+        "Wall of Sound",
+        "animals",
+        "uplifting",
+        "bittersweet",
+        "chaotic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3NEKuUhH5UIsPGgFCtD87k",
+        "appleMusic": "https://geo.music.apple.com/us/album/guns/336779427",
+        "bandcamp": "https://alphabet-business-concern.bandcamp.com/album/guns"
+      },
+      "enrichedAt": "2026-06-17T15:48:31.688Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/carpenter-brut/leather-temple",
@@ -2460,7 +2506,31 @@
         "IDM"
       ],
       "dateAdded": "2026-06-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a597acddb7d3da08bba8bc6ab1dd359a/14632170"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/a597acddb7d3da08bba8bc6ab1dd359a/14632170",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/25f1636bf5f72475e59a480ada160b7b/14632170",
+      "rymRating": 3.41,
+      "primaryGenres": [
+        "Video Game Music",
+        "IDM"
+      ],
+      "secondaryGenres": [
+        "Electroacoustic",
+        "Modern Classical",
+        "Industrial Techno"
+      ],
+      "descriptors": [
+        "playful",
+        "instrumental",
+        "mechanical",
+        "urban"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3bvo38cWAZukBPyyag90ed",
+        "appleMusic": "https://geo.music.apple.com/us/album/phonopolis-original-game-soundtrack/1896247847",
+        "youtube": "https://www.youtube.com/watch?v=XbIpGE9fL8g",
+        "bandcamp": "https://innerfx.bandcamp.com/album/phonopolis-original-game-soundtrack"
+      },
+      "enrichedAt": "2026-06-17T15:48:40.612Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/floex/papetura",
