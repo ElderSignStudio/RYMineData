@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-17T13:19:06.136Z",
+  "lastScrapedAt": "2026-06-17T13:53:09.454Z",
   "source": "rym",
   "albums": [
     {
@@ -224,32 +224,6 @@
         "bandcamp": "https://sonhostomamconta.bandcamp.com/album/no-ritmo-da-terra"
       },
       "enrichedAt": "2026-06-13T21:05:25.056Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/anubis/anthromorphicide",
-      "title": "Anthromorphicide",
-      "artist": "Anubis",
-      "year": 2026,
-      "genres": [
-        "US Power Metal"
-      ],
-      "dateAdded": "2026-05-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/3c2e50519892c9ccba42824e64c0a35a/14042125",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b4f52a06dc996d77acaee59bddc26cec/14042125",
-      "rymRating": 3.17,
-      "primaryGenres": [
-        "US Power Metal"
-      ],
-      "secondaryGenres": [
-        "Power Metal",
-        "Thrash Metal"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1cvaJRu0HpmxTOj2DGKthN",
-        "bandcamp": "https://anubis10.bandcamp.com/album/anthromorphicide"
-      },
-      "enrichedAt": "2026-06-17T13:19:06.136Z",
-      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/anyones-daughter/adonis",
@@ -741,52 +715,6 @@
       "onDeckAt": "2026-06-16T10:27:10.931Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/bill-callahan/my-days-of-58",
-      "title": "My Days of 58",
-      "artist": "Bill Callahan",
-      "year": 2026,
-      "genres": [
-        "Singer-Songwriter",
-        "Americana"
-      ],
-      "dateAdded": "2026-05-15",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/71d6d43827daa3ba255906eb2f681e86/13944096",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/be77eae4c25d1eb470e7019633bc7cc2/13944096",
-      "rymRating": 3.57,
-      "primaryGenres": [
-        "Singer-Songwriter",
-        "Americana"
-      ],
-      "secondaryGenres": [
-        "Alt-Country",
-        "Country Folk",
-        "Folk Rock",
-        "Progressive Country"
-      ],
-      "descriptors": [
-        "introspective",
-        "male vocalist",
-        "pastoral",
-        "mellow",
-        "talk-singing",
-        "everyday life",
-        "ageing",
-        "about music",
-        "existential",
-        "acoustic",
-        "poetic",
-        "warm",
-        "melancholic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl",
-        "appleMusic": "https://geo.music.apple.com/us/album/my-days-of-58/1846471021",
-        "bandcamp": "https://billcallahan.bandcamp.com/album/my-days-of-58"
-      },
-      "enrichedAt": "2026-06-17T11:18:42.247Z",
-      "myRating": 3.5
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/billy-oskay-and-micheal-o-domhnaill/nightnoise",
       "title": "Nightnoise",
       "artist": "Billy Oskay and Mīcheāl Ō Domhnaill",
@@ -1188,58 +1116,10 @@
       "genres": [
         "Art Punk",
         "Progressive Rock",
-        "Neo-Psychedelia",
-        "Zolo"
+        "Neo-Psychedelia"
       ],
       "dateAdded": "2025-10-15",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e97641a3bf64530d2ea6c89316360901/8053277",
-      "rymRating": 3.7,
-      "primaryGenres": [
-        "Art Punk",
-        "Progressive Rock",
-        "Neo-Psychedelia",
-        "Zolo"
-      ],
-      "secondaryGenres": [
-        "Progressive Pop",
-        "Zolo",
-        "Psychedelic Pop",
-        "Art Pop",
-        "Britpop",
-        "Experimental Rock"
-      ],
-      "descriptors": [
-        "psychedelic",
-        "quirky",
-        "playful",
-        "uncommon time signatures",
-        "space",
-        "complex",
-        "male vocalist",
-        "female vocalist",
-        "progressive",
-        "energetic",
-        "surreal",
-        "humorous",
-        "eclectic",
-        "aquatic",
-        "manic",
-        "melodic",
-        "futuristic",
-        "maximalist",
-        "Wall of Sound",
-        "animals",
-        "uplifting",
-        "bittersweet",
-        "chaotic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3NEKuUhH5UIsPGgFCtD87k",
-        "appleMusic": "https://geo.music.apple.com/us/album/guns/336779427",
-        "bandcamp": "https://alphabet-business-concern.bandcamp.com/album/guns"
-      },
-      "enrichedAt": "2026-06-13T21:05:31.792Z"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277"
     },
     {
       "url": "https://rateyourmusic.com/release/album/carpenter-brut/leather-temple",
@@ -1271,42 +1151,6 @@
         "bandcamp": "https://carpenterbrut.bandcamp.com/album/leather-temple"
       },
       "enrichedAt": "2026-05-20T23:54:02.009Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/cartoon/cartoon",
-      "title": "Cartoon",
-      "artist": "Cartoon",
-      "year": 1981,
-      "genres": [
-        "Avant-Prog",
-        "Zolo"
-      ],
-      "dateAdded": "2024-08-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/baf8fe340de1cf414edb367c789eefb8/3281381",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/5f54dec474fe13f545058c27c0874108/3281381/cartoon-cartoon-Cover-Art.jpg",
-      "rymRating": 3.52,
-      "primaryGenres": [
-        "Avant-Prog",
-        "Zolo"
-      ],
-      "secondaryGenres": [
-        "Jazz-Rock"
-      ],
-      "descriptors": [
-        "instrumental",
-        "progressive",
-        "quirky",
-        "anxious",
-        "eclectic",
-        "manic",
-        "free rhythm",
-        "uncommon time signatures"
-      ],
-      "streamingLinks": {
-        "youtube": "https://www.youtube.com/watch?v=NJnRHc7tp10"
-      },
-      "enrichedAt": "2026-06-15T13:47:21.631Z",
-      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -1625,125 +1469,6 @@
         "appleMusic": "https://geo.music.apple.com/us/album/los-delirios-del-mariscal/479213943"
       },
       "enrichedAt": "2026-05-21T00:00:01.749Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/cruel-force/haneda",
-      "title": "Haneda",
-      "artist": "Cruel Force",
-      "year": 2026,
-      "genres": [
-        "Speed Metal",
-        "Thrash Metal"
-      ],
-      "dateAdded": "2026-06-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5397c7701b61e20ece12b15ff7535aa9/14474561",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7b30a2c670a269f404154a4c35fb7696/14474561",
-      "rymRating": 3.63,
-      "primaryGenres": [
-        "Speed Metal",
-        "Thrash Metal"
-      ],
-      "descriptors": [
-        "aggressive",
-        "male vocalist",
-        "energetic",
-        "mythology",
-        "violence",
-        "heavy",
-        "melodic",
-        "dense",
-        "war",
-        "antireligious",
-        "technical"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3hqS1fRt6EKFvNykfdsFxe",
-        "appleMusic": "https://geo.music.apple.com/nz/album/haneda/1884850798",
-        "youtube": "https://www.youtube.com/watch?v=HDbuyp9XT0Y",
-        "bandcamp": "https://cruelforce.bandcamp.com/album/haneda"
-      },
-      "enrichedAt": "2026-06-16T13:29:32.908Z",
-      "myRating": 3
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/cryptic-shift/overspace-and-supertime",
-      "title": "Overspace & Supertime",
-      "artist": "Cryptic Shift",
-      "year": 2026,
-      "genres": [
-        "Technical Thrash Metal",
-        "Progressive Metal",
-        "Technical Death Metal"
-      ],
-      "dateAdded": "2026-06-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/11adacb8316a851ffc1a731d2700941a/14332487",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/308bf7f270c2c0aec0e8c5495be677fe/14332487",
-      "rymRating": 3.63,
-      "primaryGenres": [
-        "Technical Thrash Metal",
-        "Progressive Metal",
-        "Technical Death Metal"
-      ],
-      "secondaryGenres": [
-        "Avant-Garde Metal",
-        "Jazz Fusion"
-      ],
-      "descriptors": [
-        "science fiction",
-        "progressive",
-        "complex",
-        "technical",
-        "space",
-        "dissonant",
-        "uncommon time signatures",
-        "energetic",
-        "concept album",
-        "harsh vocals",
-        "male vocalist",
-        "heavy",
-        "dense",
-        "abstract",
-        "futuristic",
-        "technology",
-        "angular",
-        "maximalist",
-        "aggressive",
-        "blast beats",
-        "cryptic",
-        "epic",
-        "manic",
-        "atmospheric",
-        "aliens",
-        "avant-garde",
-        "travel",
-        "ominous",
-        "hypnotic",
-        "eclectic",
-        "suspenseful",
-        "surreal",
-        "mysterious",
-        "through-composed",
-        "war",
-        "stream of consciousness",
-        "narrative",
-        "psychedelic",
-        "rhythmic",
-        "chaotic",
-        "fantasy",
-        "theatrical",
-        "poetic",
-        "punchy",
-        "philosophical",
-        "piercing"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/55BX8eXi3Z80NpZ8O7ZOKa",
-        "appleMusic": "https://geo.music.apple.com/de/album/overspace-supertime/1853911321",
-        "youtube": "https://www.youtube.com/watch?v=jXT_VsLlvVw",
-        "bandcamp": "https://cryptic-shift.bandcamp.com/album/overspace-supertime-2"
-      },
-      "enrichedAt": "2026-06-17T13:19:02.989Z",
-      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/daal/dodecahedron",
@@ -2732,36 +2457,10 @@
       "year": 2026,
       "genres": [
         "Video Game Music",
-        "Electronic",
         "IDM"
       ],
       "dateAdded": "2026-06-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a597acddb7d3da08bba8bc6ab1dd359a/14632170",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/25f1636bf5f72475e59a480ada160b7b/14632170",
-      "rymRating": 3.39,
-      "primaryGenres": [
-        "Video Game Music",
-        "Electronic",
-        "IDM"
-      ],
-      "secondaryGenres": [
-        "Electroacoustic",
-        "Modern Classical",
-        "Industrial Techno"
-      ],
-      "descriptors": [
-        "playful",
-        "instrumental",
-        "mechanical",
-        "urban"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3bvo38cWAZukBPyyag90ed",
-        "appleMusic": "https://geo.music.apple.com/us/album/phonopolis-original-game-soundtrack/1896247847",
-        "youtube": "https://www.youtube.com/watch?v=XbIpGE9fL8g",
-        "bandcamp": "https://innerfx.bandcamp.com/album/phonopolis-original-game-soundtrack"
-      },
-      "enrichedAt": "2026-06-05T09:55:06.203Z"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/a597acddb7d3da08bba8bc6ab1dd359a/14632170"
     },
     {
       "url": "https://rateyourmusic.com/release/album/floex/papetura",
@@ -6532,63 +6231,6 @@
       "enrichedAt": "2026-05-21T12:07:15.344Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/thank-you-scientist/maps-of-non-existent-places",
-      "title": "Maps of Non-Existent Places",
-      "artist": "Thank You Scientist",
-      "year": 2012,
-      "genres": [
-        "Progressive Rock",
-        "Jazz-Rock",
-        "Swancore"
-      ],
-      "dateAdded": "2024-08-01",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1d880ca82b3c375cd3563d1667692f37/4261540",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8ca6635ba56749f5407ba8c4f9517f1f/4261540",
-      "rymRating": 3.69,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Jazz-Rock",
-        "Swancore"
-      ],
-      "secondaryGenres": [
-        "Jazz Fusion",
-        "Math Rock",
-        "Progressive Metal",
-        "Funk Rock"
-      ],
-      "descriptors": [
-        "technical",
-        "male vocalist",
-        "complex",
-        "uncommon time signatures",
-        "energetic",
-        "melodic",
-        "eclectic",
-        "triumphant",
-        "progressive",
-        "uplifting",
-        "passionate",
-        "playful",
-        "philosophical",
-        "anthemic",
-        "rhythmic",
-        "quirky",
-        "avant-garde",
-        "bittersweet",
-        "maximalist",
-        "sentimental"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4jJYAaWdl3DJsFpUWfyPNM",
-        "appleMusic": "https://geo.music.apple.com/us/album/maps-of-non-existent-places/1459366862",
-        "bandcamp": "https://thankyouscientist.bandcamp.com/album/maps-of-non-existent-places-2"
-      },
-      "enrichedAt": "2026-06-15T10:16:40.029Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-15T10:01:18.730Z",
-      "myRating": 3.5
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/thank-you-scientist/terraformer",
       "title": "Terraformer",
       "artist": "Thank You Scientist",
@@ -7150,79 +6792,6 @@
         "bandcamp": "https://thereticent.bandcamp.com/album/the-oubliette"
       },
       "enrichedAt": "2026-05-21T12:24:07.277Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/the-tangent/not-as-good-as-the-book",
-      "title": "Not as Good as the Book",
-      "artist": "The Tangent",
-      "year": 2008,
-      "genres": [
-        "Progressive Rock"
-      ],
-      "dateAdded": "2024-08-01",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/73582e2d818bcb90610f21fb52ede2eb/2168789",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/61b80fa54608e4fd0daa34fa11a7f36e/2168789",
-      "rymRating": 3.49,
-      "primaryGenres": [
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Symphonic Prog",
-        "Jazz-Rock",
-        "Neo-Prog"
-      ],
-      "descriptors": [
-        "uncommon time signatures",
-        "energetic",
-        "melodic",
-        "introspective",
-        "eclectic",
-        "male vocalist",
-        "progressive",
-        "existential"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4qoewxx7rJKCTEU4GzkVQH"
-      },
-      "enrichedAt": "2026-06-15T10:46:21.976Z",
-      "myRating": 3
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/the_tea_club/grappling",
-      "title": "Grappling",
-      "artist": "The Tea Club",
-      "year": 2015,
-      "genres": [
-        "Progressive Rock"
-      ],
-      "dateAdded": "2024-08-01",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/d7fccf08e3f60749b8625e37f6c62568/6039933",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5c1d03a7434f357a8b11f35b984f8a46/6039933",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Art Rock",
-        "Symphonic Prog"
-      ],
-      "descriptors": [
-        "lush",
-        "autumn",
-        "psychedelic",
-        "male vocalist",
-        "progressive",
-        "uncommon time signatures",
-        "winter",
-        "epic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/69V2p52lAtyrLEWRqHIUdw",
-        "appleMusic": "https://geo.music.apple.com/us/album/grappling/1066628852",
-        "bandcamp": "https://theteaclub.bandcamp.com/album/grappling"
-      },
-      "enrichedAt": "2026-06-15T11:23:22.227Z",
-      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-windmill/tribus",
