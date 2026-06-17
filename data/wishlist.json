@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-15T10:17:32.013Z",
+  "lastScrapedAt": "2026-06-17T13:19:06.136Z",
   "source": "rym",
   "albums": [
     {
@@ -236,19 +236,20 @@
       "dateAdded": "2026-05-18",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/3c2e50519892c9ccba42824e64c0a35a/14042125",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b4f52a06dc996d77acaee59bddc26cec/14042125",
-      "rymRating": 3.21,
+      "rymRating": 3.17,
       "primaryGenres": [
         "US Power Metal"
       ],
       "secondaryGenres": [
-        "Thrash Metal",
-        "Power Metal"
+        "Power Metal",
+        "Thrash Metal"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/1cvaJRu0HpmxTOj2DGKthN",
         "bandcamp": "https://anubis10.bandcamp.com/album/anthromorphicide"
       },
-      "enrichedAt": "2026-05-20T23:46:04.671Z"
+      "enrichedAt": "2026-06-17T13:19:06.136Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/anyones-daughter/adonis",
@@ -735,7 +736,9 @@
         "appleMusic": "https://geo.music.apple.com/gb/album/woodcut/1846169290",
         "bandcamp": "https://bigbigtrain.bandcamp.com/album/woodcut-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-05-20T23:52:43.410Z"
+      "enrichedAt": "2026-05-20T23:52:43.410Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-16T10:27:10.931Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/bill-callahan/my-days-of-58",
@@ -749,7 +752,7 @@
       "dateAdded": "2026-05-15",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/71d6d43827daa3ba255906eb2f681e86/13944096",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/be77eae4c25d1eb470e7019633bc7cc2/13944096",
-      "rymRating": 3.58,
+      "rymRating": 3.57,
       "primaryGenres": [
         "Singer-Songwriter",
         "Americana"
@@ -780,7 +783,8 @@
         "appleMusic": "https://geo.music.apple.com/us/album/my-days-of-58/1846471021",
         "bandcamp": "https://billcallahan.bandcamp.com/album/my-days-of-58"
       },
-      "enrichedAt": "2026-05-20T23:52:48.598Z"
+      "enrichedAt": "2026-06-17T11:18:42.247Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/billy-oskay-and-micheal-o-domhnaill/nightnoise",
@@ -1301,7 +1305,8 @@
       "streamingLinks": {
         "youtube": "https://www.youtube.com/watch?v=NJnRHc7tp10"
       },
-      "enrichedAt": "2026-05-20T23:54:07.966Z"
+      "enrichedAt": "2026-06-15T13:47:21.631Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -1657,7 +1662,8 @@
         "youtube": "https://www.youtube.com/watch?v=HDbuyp9XT0Y",
         "bandcamp": "https://cruelforce.bandcamp.com/album/haneda"
       },
-      "enrichedAt": "2026-06-15T10:17:28.297Z"
+      "enrichedAt": "2026-06-16T13:29:32.908Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/cryptic-shift/overspace-and-supertime",
@@ -1736,7 +1742,8 @@
         "youtube": "https://www.youtube.com/watch?v=jXT_VsLlvVw",
         "bandcamp": "https://cryptic-shift.bandcamp.com/album/overspace-supertime-2"
       },
-      "enrichedAt": "2026-06-15T10:17:32.013Z"
+      "enrichedAt": "2026-06-17T13:19:02.989Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/daal/dodecahedron",
@@ -3099,7 +3106,9 @@
         "spotify": "https://open.spotify.com/album/6isAfMikYZPwCctgr9mG5W",
         "appleMusic": "https://geo.music.apple.com/be/album/please-be-quiet-deluxe-edition/1364545075"
       },
-      "enrichedAt": "2026-05-21T08:56:52.713Z"
+      "enrichedAt": "2026-05-21T08:56:52.713Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-15T14:06:09.212Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gungfly/on-her-journey-to-the-sun",
@@ -7153,7 +7162,7 @@
       "dateAdded": "2024-08-01",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/73582e2d818bcb90610f21fb52ede2eb/2168789",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/61b80fa54608e4fd0daa34fa11a7f36e/2168789",
-      "rymRating": 3.5,
+      "rymRating": 3.49,
       "primaryGenres": [
         "Progressive Rock"
       ],
@@ -7175,7 +7184,8 @@
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/4qoewxx7rJKCTEU4GzkVQH"
       },
-      "enrichedAt": "2026-05-21T12:24:15.122Z"
+      "enrichedAt": "2026-06-15T10:46:21.976Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/the_tea_club/grappling",
@@ -7211,7 +7221,8 @@
         "appleMusic": "https://geo.music.apple.com/us/album/grappling/1066628852",
         "bandcamp": "https://theteaclub.bandcamp.com/album/grappling"
       },
-      "enrichedAt": "2026-05-21T12:24:18.855Z"
+      "enrichedAt": "2026-06-15T11:23:22.227Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-windmill/tribus",
