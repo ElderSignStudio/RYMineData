@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-17T15:48:40.612Z",
+  "lastScrapedAt": "2026-06-19T17:03:11.778Z",
   "source": "rym",
   "albums": [
     {
@@ -863,7 +863,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/inferno/1890015523",
         "bandcamp": "https://boardsofcanada.bandcamp.com/album/inferno"
       },
-      "enrichedAt": "2026-06-15T10:17:20.478Z"
+      "enrichedAt": "2026-06-15T10:17:20.478Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-19T14:33:27.562Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/bon-iver/volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band",
@@ -1942,7 +1944,9 @@
         "appleMusic": "https://geo.music.apple.com/es/album/vox-occulta/1859985673",
         "bandcamp": "https://einarsolberg.bandcamp.com/album/vox-occulta-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-05-21T08:49:37.435Z"
+      "enrichedAt": "2026-05-21T08:49:37.435Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-19T11:10:21.330Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/el-efecto/memorias-do-fogo",
@@ -2054,7 +2058,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/through-zero/1883162521",
         "bandcamp": "https://bluesfuneralrecordings.bandcamp.com/album/through-zero"
       },
-      "enrichedAt": "2026-06-05T09:55:02.085Z"
+      "enrichedAt": "2026-06-05T09:55:02.085Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-18T11:20:48.243Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/eluveitie/slania",
@@ -2530,7 +2536,9 @@
         "youtube": "https://www.youtube.com/watch?v=XbIpGE9fL8g",
         "bandcamp": "https://innerfx.bandcamp.com/album/phonopolis-original-game-soundtrack"
       },
-      "enrichedAt": "2026-06-17T15:48:40.612Z"
+      "enrichedAt": "2026-06-17T15:48:40.612Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-17T15:52:41.899Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/floex/papetura",
@@ -2734,7 +2742,9 @@
         "spotify": "https://open.spotify.com/album/5sxBSdrWYHSJUKiGUoD8FW",
         "appleMusic": "https://geo.music.apple.com/us/album/soulbound/1854973210"
       },
-      "enrichedAt": "2026-05-21T08:56:34.053Z"
+      "enrichedAt": "2026-05-21T08:56:34.053Z",
+      "onDeck": true,
+      "onDeckAt": "2026-06-19T15:47:49.191Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gleb-kolyadin/the-outland",
@@ -2848,7 +2858,8 @@
         "appleMusic": "https://geo.music.apple.com/us/album/warriors-of-greyhawk/1866696849",
         "bandcamp": "https://greyhawkmetal.bandcamp.com/album/warriors-of-greyhawk"
       },
-      "enrichedAt": "2026-05-21T08:56:45.460Z"
+      "enrichedAt": "2026-06-19T17:03:11.778Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/gungfly/please-be-quiet",
