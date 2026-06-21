@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-06-19T17:03:11.778Z",
+  "lastScrapedAt": "2026-06-21T12:30:57.563Z",
   "source": "rym",
   "albums": [
     {
@@ -231,31 +231,10 @@
       "artist": "Anyone's Daughter",
       "year": 1979,
       "genres": [
-        "Progressive Rock",
-        "Neo-Prog"
+        "Progressive Rock"
       ],
       "dateAdded": "2026-04-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ef981ad00e91ba56c37524c898eab586/5725373",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c179bf7a6b91f806f040b70c376d720e/5725373",
-      "rymRating": 3.65,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Neo-Prog"
-      ],
-      "secondaryGenres": [
-        "Symphonic Prog"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "progressive",
-        "technical",
-        "melodic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/7HF6N1LAGNe5kSgomg4K7F",
-        "appleMusic": "https://geo.music.apple.com/us/album/adonis-remastered/383009666"
-      },
-      "enrichedAt": "2026-05-20T23:46:19.777Z"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ef981ad00e91ba56c37524c898eab586/5725373"
     },
     {
       "url": "https://rateyourmusic.com/release/album/apoteosi/apoteosi",
@@ -2828,38 +2807,6 @@
         "bandcamp": "https://gloryhammer.bandcamp.com/album/space-1992-rise-of-the-chaos-wizards"
       },
       "enrichedAt": "2026-05-28T08:39:40.101Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/greyhawk/warriors-of-greyhawk",
-      "title": "Warriors of Greyhawk",
-      "artist": "Greyhawk",
-      "year": 2026,
-      "genres": [
-        "Power Metal",
-        "Heavy Metal"
-      ],
-      "dateAdded": "2026-05-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/7afbab68b5edd280eb63c813238c4031/14317840",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/256cd9a2925549dce5f6be66e83f1658/14317840",
-      "rymRating": 3.28,
-      "primaryGenres": [
-        "Power Metal",
-        "Heavy Metal"
-      ],
-      "secondaryGenres": [
-        "Neoclassical Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "heavy"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2qbS4WJhp5USb5lYEEGmL8",
-        "appleMusic": "https://geo.music.apple.com/us/album/warriors-of-greyhawk/1866696849",
-        "bandcamp": "https://greyhawkmetal.bandcamp.com/album/warriors-of-greyhawk"
-      },
-      "enrichedAt": "2026-06-19T17:03:11.778Z",
-      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/gungfly/please-be-quiet",
@@ -6278,40 +6225,6 @@
       "enrichedAt": "2026-05-21T12:07:03.672Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/tailgunner/midnight-blitz",
-      "title": "Midnight Blitz",
-      "artist": "Tailgunner",
-      "year": 2026,
-      "genres": [
-        "Heavy Metal"
-      ],
-      "dateAdded": "2026-05-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/b8c241bca0731dc1dbc1e9ac35bcb405/14141798",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1e477fa30b1b2c7a891f909f2ce72765/14141798",
-      "rymRating": 3.41,
-      "primaryGenres": [
-        "Heavy Metal"
-      ],
-      "secondaryGenres": [
-        "Power Metal"
-      ],
-      "descriptors": [
-        "energetic",
-        "male vocalist",
-        "anthemic",
-        "melodic",
-        "heavy",
-        "punchy",
-        "aggressive"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4cQlO0Sje61R9cTm9TVe23",
-        "appleMusic": "https://geo.music.apple.com/us/album/midnight-blitz/1845392811",
-        "bandcamp": "https://tailgunnerhq.bandcamp.com/album/midnight-blitz"
-      },
-      "enrichedAt": "2026-05-21T12:07:15.344Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/thank-you-scientist/terraformer",
       "title": "Terraformer",
       "artist": "Thank You Scientist",
@@ -6462,7 +6375,7 @@
       "enrichedAt": "2026-05-21T12:08:12.593Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/the_family_crest/beneath_the_brine",
+      "url": "https://rateyourmusic.com/release/album/the-family-crest/beneath-the-brine",
       "title": "Beneath the Brine",
       "artist": "The Family Crest",
       "year": 2014,
@@ -6471,27 +6384,7 @@
         "Indie Rock"
       ],
       "dateAdded": "2024-08-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/fcebaf699d443505d0a932e6e99889dd/5084512",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ec960295cd5f951b4d7a80b6d99799d3/5084512",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Chamber Pop",
-        "Indie Rock"
-      ],
-      "secondaryGenres": [
-        "Rock Opera"
-      ],
-      "descriptors": [
-        "dark",
-        "melodic",
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5Vr0HJnNJoZAvLwnI7dhZl",
-        "appleMusic": "https://geo.music.apple.com/us/album/beneath-the-brine/789173040",
-        "bandcamp": "https://thefamilycrest.bandcamp.com/album/beneath-the-brine-3"
-      },
-      "enrichedAt": "2026-05-21T12:08:16.747Z"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/fcebaf699d443505d0a932e6e99889dd/5084512"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-fierce-and-the-dead/spooky-action",
@@ -7381,30 +7274,6 @@
         "appleMusic": "https://geo.music.apple.com/gb/album/for-unlawful-carnal-knowledge/368011586"
       },
       "enrichedAt": "2026-05-21T12:29:04.323Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/vandor/the-ember-eye-part-ii-the-portal-of-truth",
-      "title": "The Ember Eye Part II: The Portal of Truth",
-      "artist": "Vandor",
-      "year": 2026,
-      "genres": [
-        "Power Metal"
-      ],
-      "dateAdded": "2026-05-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/cfb9f1d3e92c37fd7169d465defbe3a7/14195435",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f7514ec36cee634d0d2b9a0627378728/14195435",
-      "rymRating": 3.33,
-      "primaryGenres": [
-        "Power Metal"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5mn63fB7MWHrWtQ6AVxZTm",
-        "bandcamp": "https://vandorband.bandcamp.com/album/the-ember-eye-part-ii-the-portal-of-truth"
-      },
-      "enrichedAt": "2026-05-21T12:29:10.471Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/verbal-delirium/conundrum",
