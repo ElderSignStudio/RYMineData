@@ -1,7 +1,35 @@
 {
-  "lastScrapedAt": "2026-06-21T12:30:57.563Z",
+  "lastScrapedAt": "2026-07-08T13:26:51.616Z",
   "source": "rym",
   "albums": [
+    {
+      "url": "https://rateyourmusic.com/release/album/a_l_i_s_o_n/space-station",
+      "title": "Space Station",
+      "artist": "A.L.I.S.O.N",
+      "year": 2018,
+      "genres": [
+        "Chillsynth"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/287dbea6e3c1e51d0bff2536dbf534cb/7206617",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/43ffafa9c42f89fac1d14c37c00940fb/7206617",
+      "rymRating": 3.37,
+      "primaryGenres": [
+        "Chillsynth"
+      ],
+      "descriptors": [
+        "calm",
+        "mellow",
+        "warm",
+        "space"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4P37rs1585bEw5G0OCO2tW",
+        "appleMusic": "https://geo.music.apple.com/us/album/space-station/1655338565",
+        "bandcamp": "https://alison4.bandcamp.com/album/space-station"
+      },
+      "enrichedAt": "2026-07-08T13:25:44.738Z"
+    },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
       "title": "The Abyss",
@@ -149,15 +177,16 @@
       "year": 2026,
       "genres": [
         "Post-Rock",
-        "Afoxé"
+        "Afoxé",
+        "Post-Metal"
       ],
       "dateAdded": "2026-03-25",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/a4697f114a2aa3488309ee37119d1a79/14437767",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/deff9fb6b9fd9a67e56feeacaf0450b1/14437767/antropoceno-no-ritmo-da-terra-Cover-Art.jpg",
-      "rymRating": 3.68,
+      "rymRating": 3.69,
       "primaryGenres": [
         "Post-Rock",
         "Afoxé",
+        "Post-Metal",
         "Nova vanguarda paulistana"
       ],
       "secondaryGenres": [
@@ -168,8 +197,8 @@
         "Capoeira Music",
         "Samba",
         "Experimental Rock",
-        "Avant-Garde Metal",
-        "Folk Metal"
+        "Folk Metal",
+        "Avant-Garde Metal"
       ],
       "descriptors": [
         "lush",
@@ -181,31 +210,31 @@
         "psychedelic",
         "avant-garde",
         "ritualistic",
-        "anticolonialism",
         "environmentalism",
         "spiritual",
         "natural",
+        "anticolonialism",
         "female vocalist",
         "maximalist",
         "progressive",
         "warm",
+        "religious",
         "rhythmic",
         "tropical",
-        "religious",
         "noisy",
         "indigeneity",
-        "political",
         "passionate",
-        "aggressive",
-        "protest",
         "complex",
+        "protest",
+        "political",
         "twinkling",
         "tribal",
+        "aggressive",
         "concept album",
-        "bright",
         "rebellious",
-        "epic",
+        "bright",
         "antidiscrimination",
+        "epic",
         "ethereal",
         "eclectic",
         "energetic",
@@ -213,17 +242,20 @@
         "conscious",
         "heavy",
         "surreal",
-        "animals",
+        "hypnotic",
         "hazy",
+        "animals",
+        "grassland",
         "abstract"
       ],
+      "enrichedAt": "2026-07-08T13:25:51.966Z",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/deff9fb6b9fd9a67e56feeacaf0450b1/14437767/antropoceno-no-ritmo-da-terra-Cover-Art.jpg",
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/53D5gJmRULnIXeI6vFRahB",
         "appleMusic": "https://geo.music.apple.com/us/album/no-ritmo-da-terra/1880014897",
         "youtube": "https://www.youtube.com/watch?v=7dXZ86U5hd8",
         "bandcamp": "https://sonhostomamconta.bandcamp.com/album/no-ritmo-da-terra"
-      },
-      "enrichedAt": "2026-06-13T21:05:25.056Z"
+      }
     },
     {
       "url": "https://rateyourmusic.com/release/album/anyones-daughter/adonis",
@@ -234,7 +266,26 @@
         "Progressive Rock"
       ],
       "dateAdded": "2026-04-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ef981ad00e91ba56c37524c898eab586/5725373"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ef981ad00e91ba56c37524c898eab586/5725373",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c179bf7a6b91f806f040b70c376d720e/5725373",
+      "rymRating": 3.65,
+      "primaryGenres": [
+        "Progressive Rock"
+      ],
+      "secondaryGenres": [
+        "Symphonic Prog"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "progressive",
+        "technical",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7HF6N1LAGNe5kSgomg4K7F",
+        "appleMusic": "https://geo.music.apple.com/us/album/adonis-remastered/383009666"
+      },
+      "enrichedAt": "2026-06-21T12:31:08.470Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/apoteosi/apoteosi",
@@ -705,7 +756,7 @@
       "dateAdded": "2025-08-31",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/172d2c7e63304f2f1634d2731984b9f3/14049550",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e83289336bb875ce7ff9109f67912074/14049550",
-      "rymRating": 3.53,
+      "rymRating": 3.51,
       "primaryGenres": [
         "Celtic Folk Music",
         "Celtic New Age"
@@ -726,7 +777,7 @@
         "spotify": "https://open.spotify.com/album/50gqvbraGMfPvMrE0r1QMC",
         "youtube": "https://www.youtube.com/watch?v=gVj52hfvaAE"
       },
-      "enrichedAt": "2026-05-20T23:52:56.003Z"
+      "enrichedAt": "2026-06-23T19:51:07.297Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/blackmores-night/ghost-of-a-rose",
@@ -845,44 +896,6 @@
       "enrichedAt": "2026-06-15T10:17:20.478Z",
       "onDeck": true,
       "onDeckAt": "2026-06-19T14:33:27.562Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/bon-iver/volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band",
-      "title": "Volumes: One (Selections From Music Concerts 2019-2023 Bon Iver 6 Piece Band)",
-      "artist": "Bon Iver",
-      "year": 2026,
-      "genres": [
-        "Art Pop",
-        "Art Rock"
-      ],
-      "dateAdded": "2026-03-10",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/50a9f45671f9f3521df278d502948f72/14320470",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cf5b6de7aee19ff5f52dad3a59923fe4/14320470",
-      "rymRating": 3.81,
-      "primaryGenres": [
-        "Art Pop",
-        "Art Rock"
-      ],
-      "secondaryGenres": [
-        "Glitch Pop",
-        "Folktronica",
-        "Singer-Songwriter"
-      ],
-      "descriptors": [
-        "lush",
-        "male vocalist",
-        "complex",
-        "cozy",
-        "mellow",
-        "warm",
-        "melodic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr",
-        "appleMusic": "https://geo.music.apple.com/nz/album/volumes-one-selections-from-music-concerts-2019-2023/1874965819",
-        "bandcamp": "https://boniver.bandcamp.com/album/volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band"
-      },
-      "enrichedAt": "2026-05-20T23:53:17.010Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/brymir/wings-of-fire",
@@ -1696,7 +1709,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-moth-deluxe-edition/1879554321",
         "bandcamp": "https://devintownsend.bandcamp.com/album/the-moth-deluxe-edition-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-06-13T21:05:37.546Z"
+      "enrichedAt": "2026-06-13T21:05:37.546Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-08T13:27:07.574Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/diablo_swing_orchestra/pandoras_pinata",
@@ -1781,6 +1796,25 @@
         "bandcamp": "https://dimhav.bandcamp.com/album/ondine"
       },
       "enrichedAt": "2026-05-28T08:39:24.872Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/droid-bishop/frontiers",
+      "title": "Frontiers",
+      "artist": "Droid Bishop",
+      "year": 2026,
+      "genres": [
+        "Synthwave"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/0c1c6e73b73f64c726077753a0a531fc/14749060",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/fb17613d16a0348bd157b01be2ac3a15/14749060",
+      "rymRating": 3.5,
+      "primaryGenres": [
+        "Synthwave"
+      ],
+      "enrichedAt": "2026-07-08T13:25:55.821Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-08T13:27:10.362Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
@@ -2002,7 +2036,7 @@
         "Heavy Psych"
       ],
       "dateAdded": "2026-06-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/4907fc64bfc48fcafc250db98edc56d9/14438246",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9873ece232b4926581f5345edcfe7a8a/14780440",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f7843c8877e46ce7bc92353d27ef92f9/14438246",
       "rymRating": 3.72,
       "primaryGenres": [
@@ -2114,7 +2148,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/elevation/1858331552",
         "bandcamp": "https://enshine.bandcamp.com/album/elevation"
       },
-      "enrichedAt": "2026-05-21T08:49:49.356Z"
+      "enrichedAt": "2026-05-21T08:49:49.356Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-08T13:22:33.208Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/esa-holopainen/silver-lake",
@@ -2482,44 +2518,6 @@
       "enrichedAt": "2026-05-21T08:50:23.582Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/floex/phonopolis",
-      "title": "Phonopolis",
-      "artist": "Floex",
-      "year": 2026,
-      "genres": [
-        "Video Game Music",
-        "IDM"
-      ],
-      "dateAdded": "2026-06-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a597acddb7d3da08bba8bc6ab1dd359a/14632170",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/25f1636bf5f72475e59a480ada160b7b/14632170",
-      "rymRating": 3.41,
-      "primaryGenres": [
-        "Video Game Music",
-        "IDM"
-      ],
-      "secondaryGenres": [
-        "Electroacoustic",
-        "Modern Classical",
-        "Industrial Techno"
-      ],
-      "descriptors": [
-        "playful",
-        "instrumental",
-        "mechanical",
-        "urban"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3bvo38cWAZukBPyyag90ed",
-        "appleMusic": "https://geo.music.apple.com/us/album/phonopolis-original-game-soundtrack/1896247847",
-        "youtube": "https://www.youtube.com/watch?v=XbIpGE9fL8g",
-        "bandcamp": "https://innerfx.bandcamp.com/album/phonopolis-original-game-soundtrack"
-      },
-      "enrichedAt": "2026-06-17T15:48:40.612Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-17T15:52:41.899Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/floex/papetura",
       "title": "Papetura",
       "artist": "Floex",
@@ -2571,6 +2569,46 @@
         "bandcamp": "https://fonderia.bandcamp.com/album/fonderia"
       },
       "enrichedAt": "2026-05-21T08:50:31.579Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/forhill/figments",
+      "title": "Figments",
+      "artist": "Forhill",
+      "year": 2019,
+      "genres": [
+        "Synthwave",
+        "Chillwave",
+        "Chillsynth"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/187f573d5df7db0e66805cdcef825a0b/7467944",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9bea67dcf09fa272c536b3ab8792427e/7467944",
+      "rymRating": 3.24,
+      "primaryGenres": [
+        "Synthwave",
+        "Chillwave",
+        "Chillsynth"
+      ],
+      "secondaryGenres": [
+        "Ambient",
+        "Downtempo"
+      ],
+      "descriptors": [
+        "lo-fi",
+        "spring",
+        "warm",
+        "melodic",
+        "atmospheric",
+        "ethereal",
+        "lush",
+        "soothing",
+        "instrumental"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0LPBRqGk7q7MEs1dzj6nrt",
+        "bandcamp": "https://forhill.bandcamp.com/album/figments"
+      },
+      "enrichedAt": "2026-07-08T13:26:00.051Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gandalfs-fist/the-clockwork-fable",
@@ -3177,61 +3215,49 @@
       "enrichedAt": "2026-05-21T08:57:28.957Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/hemlocke-springs/the-apple-tree-under-the-sea",
-      "title": "The Apple Tree Under the Sea",
-      "artist": "hemlocke springs",
-      "year": 2026,
+      "url": "https://rateyourmusic.com/release/album/home/odyssey",
+      "title": "Odyssey",
+      "artist": "HOME",
+      "year": 2014,
       "genres": [
-        "Synthpop",
-        "Dance-Pop"
+        "Chillsynth"
       ],
-      "dateAdded": "2026-02-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/c28fd9cabee4e7811bf16ddbc71a2dec/13873408",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a86de932e211afc63a1c567c9bb66d3c/13873408",
-      "rymRating": 3.5,
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/7ffbd68bbdb1d0669be286540de38500/14349420",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5026f7fcf3c24386c17be3317c926b6d/14349420",
+      "rymRating": 3.53,
       "primaryGenres": [
-        "Synthpop",
-        "Dance-Pop"
+        "Chillsynth"
       ],
       "secondaryGenres": [
-        "Alternative Dance",
-        "Art Pop",
-        "Darkwave"
+        "Dreamwave"
       ],
       "descriptors": [
-        "quirky",
-        "theatrical",
-        "female vocalist",
-        "melodic",
-        "playful",
-        "rhythmic",
-        "bouncy",
-        "passionate",
-        "Biblical",
-        "poetic",
-        "concept album",
-        "fantasy",
-        "lyrical dissonance",
-        "existential",
-        "energetic",
-        "uplifting",
-        "bright",
-        "epic",
-        "love",
-        "eclectic",
-        "triumphant",
+        "instrumental",
         "lush",
+        "atmospheric",
+        "warm",
+        "mellow",
+        "psychedelic",
+        "melodic",
+        "soothing",
+        "futuristic",
         "ethereal",
-        "ageing",
-        "alienation",
-        "nocturnal"
+        "space",
+        "summer",
+        "repetitive",
+        "lo-fi",
+        "nocturnal",
+        "melancholic",
+        "hypnotic"
       ],
       "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm",
-        "appleMusic": "https://geo.music.apple.com/nz/album/the-apple-tree-under-the-sea/1846462383",
-        "bandcamp": "https://hemlockesprings.bandcamp.com/album/the-apple-tree-under-the-sea"
+        "spotify": "https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx",
+        "appleMusic": "https://geo.music.apple.com/us/album/odyssey/1790486926",
+        "youtube": "https://www.youtube.com/watch?v=ZJ2RydH1EbE",
+        "bandcamp": "https://midwestcollective.bandcamp.com/album/odyssey"
       },
-      "enrichedAt": "2026-05-21T08:57:32.576Z"
+      "enrichedAt": "2026-07-08T13:26:04.860Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/horrendous/anareta",
@@ -3586,7 +3612,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/superbloom/1869414259",
         "youtube": "https://www.youtube.com/watch?v=sKPlBa5lkF4"
       },
-      "enrichedAt": "2026-05-21T08:58:22.275Z"
+      "enrichedAt": "2026-05-21T08:58:22.275Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-08T13:27:13.662Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/jethro-tull/crest-of-a-knave",
@@ -3779,51 +3807,45 @@
       "enrichedAt": "2026-05-21T10:48:38.598Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/karnivool/in-verses",
-      "title": "In Verses",
-      "artist": "Karnivool",
-      "year": 2026,
+      "url": "https://rateyourmusic.com/release/album/kalax/iii",
+      "title": "III",
+      "artist": "Kalax",
+      "year": 2019,
       "genres": [
-        "Alternative Metal",
-        "Progressive Metal",
-        "Progressive Rock"
+        "Synthwave",
+        "Synthpop",
+        "Dreamwave"
       ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a7081c7a1d01728715d4b815ab61da27/13760041",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b47e02af1a54e53b8dcedca8052b0171/13760041",
-      "rymRating": 3.52,
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/64b46b0eaaa0a890fb3053343bb01550/7438986",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dd80ec6e9cfe6d72b3a80a5e5efa4647/7438986",
+      "rymRating": 3.4,
       "primaryGenres": [
-        "Alternative Metal",
-        "Progressive Metal",
-        "Progressive Rock"
+        "Synthwave",
+        "Synthpop",
+        "Dreamwave"
       ],
       "secondaryGenres": [
-        "Alternative Rock",
-        "Art Rock"
+        "Chillwave",
+        "Ambient Trance"
       ],
       "descriptors": [
-        "passionate",
-        "atmospheric",
-        "progressive",
-        "male vocalist",
+        "rhythmic",
+        "nocturnal",
+        "urban",
         "melodic",
-        "introspective",
-        "heavy",
-        "escapism",
-        "dark",
-        "existential",
-        "uncommon time signatures",
-        "death",
-        "anthemic",
-        "melancholic",
-        "complex",
-        "regret"
+        "male vocalist",
+        "futuristic",
+        "ethereal",
+        "atmospheric",
+        "sentimental"
       ],
       "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2QJhJYgrwIL5C8x7FphmVk",
-        "appleMusic": "https://geo.music.apple.com/de/album/in-verses/1832618049"
+        "spotify": "https://open.spotify.com/album/4tteTazT567N7srYWOwTG2",
+        "appleMusic": "https://geo.music.apple.com/us/album/iii/1457459532",
+        "bandcamp": "https://kalax.bandcamp.com/album/iii"
       },
-      "enrichedAt": "2026-05-21T10:48:43.060Z"
+      "enrichedAt": "2026-07-08T13:26:08.774Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/kenn-nardi/dancing-with-the-past",
@@ -4484,6 +4506,46 @@
       "enrichedAt": "2026-05-21T10:50:51.145Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/miami-nights-1984/turbulence",
+      "title": "Turbulence",
+      "artist": "Miami Nights 1984",
+      "year": 2012,
+      "genres": [
+        "Synthwave",
+        "Electro-Disco",
+        "Outrun"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/7fe1f5dc066d21699e869c4e21ecdf58/5607042",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6c276eb0e33e7464eeea5d5a86a8a971/5607042",
+      "rymRating": 3.23,
+      "primaryGenres": [
+        "Synthwave",
+        "Electro-Disco",
+        "Outrun"
+      ],
+      "secondaryGenres": [
+        "Spacesynth",
+        "Dreamwave"
+      ],
+      "descriptors": [
+        "instrumental",
+        "futuristic",
+        "nocturnal",
+        "science fiction",
+        "happy",
+        "urban",
+        "playful",
+        "rhythmic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU",
+        "appleMusic": "https://geo.music.apple.com/us/album/turbulence/1278142384",
+        "bandcamp": "https://miaminights1984.bandcamp.com/album/turbulence"
+      },
+      "enrichedAt": "2026-07-08T13:26:12.890Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/michael-kamen/the-adventures-of-baron-munchausen",
       "title": "The Adventures of Baron Munchausen",
       "artist": "Michael Kamen",
@@ -4577,6 +4639,50 @@
         "bandcamp": "https://mirthkon.bandcamp.com/album/vehicle"
       },
       "enrichedAt": "2026-05-21T10:51:21.357Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/mitch-murder/then-again",
+      "title": "Then Again",
+      "artist": "Mitch Murder",
+      "year": 2021,
+      "genres": [
+        "Synthwave",
+        "FM Synthesis"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/d7ec7bd88ed31fc55ff5aa9ed783e735/12276308",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e7790ff7d39495787b933a9a96b20ab4/12276308",
+      "rymRating": 3.32,
+      "primaryGenres": [
+        "Synthwave",
+        "FM Synthesis"
+      ],
+      "secondaryGenres": [
+        "Synth Funk",
+        "Utopian Virtual"
+      ],
+      "descriptors": [
+        "instrumental",
+        "rhythmic",
+        "warm",
+        "melodic",
+        "summer",
+        "uplifting",
+        "calm",
+        "urban",
+        "peaceful",
+        "ethereal",
+        "atmospheric",
+        "bittersweet",
+        "mellow",
+        "lush"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3",
+        "appleMusic": "https://geo.music.apple.com/us/album/then-again/1560760405",
+        "bandcamp": "https://mitchmurder.bandcamp.com/album/then-again"
+      },
+      "enrichedAt": "2026-07-08T13:26:16.749Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/monobody/raytracing",
@@ -5363,45 +5469,6 @@
       "enrichedAt": "2026-05-21T11:06:14.526Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/plini/an-unnameable-desire",
-      "title": "An Unnameable Desire",
-      "artist": "Plini",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Djent"
-      ],
-      "dateAdded": "2026-04-23",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/dcc05f93523d392be40a040c94a5e6b7/14450677",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b84e4a11bc9d5155368724070d6170aa/14450677",
-      "rymRating": 3.35,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Djent"
-      ],
-      "secondaryGenres": [
-        "Jazz Fusion"
-      ],
-      "descriptors": [
-        "technical",
-        "melodic",
-        "progressive",
-        "instrumental",
-        "suspenseful",
-        "heavy",
-        "futuristic",
-        "dense",
-        "complex",
-        "uplifting"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2xo56fFD2xGwGQLXDXdYaS",
-        "appleMusic": "https://geo.music.apple.com/ru/album/an-unnameable-desire/1893487344",
-        "bandcamp": "https://plini.bandcamp.com/album/an-unnameable-desire"
-      },
-      "enrichedAt": "2026-05-21T11:06:18.595Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
       "title": "Ugisiunsi",
       "artist": "Quantum Fantay",
@@ -5621,7 +5688,8 @@
       "year": 1988,
       "genres": [
         "US Power Metal",
-        "Heavy Metal"
+        "Heavy Metal",
+        "Power Metal"
       ],
       "dateAdded": "2024-09-28",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/28eec0f6d35207c3ec2aadaf23ceaa2f/2700678",
@@ -5629,7 +5697,8 @@
       "rymRating": 3.85,
       "primaryGenres": [
         "US Power Metal",
-        "Heavy Metal"
+        "Heavy Metal",
+        "Power Metal"
       ],
       "secondaryGenres": [
         "Speed Metal"
@@ -5659,7 +5728,7 @@
         "spotify": "https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM",
         "appleMusic": "https://geo.music.apple.com/ru/album/thundersteel/158643963"
       },
-      "enrichedAt": "2026-06-13T21:05:41.595Z"
+      "enrichedAt": "2026-07-08T13:26:21.044Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/riversea/the-tide",
@@ -6384,7 +6453,27 @@
         "Indie Rock"
       ],
       "dateAdded": "2024-08-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/fcebaf699d443505d0a932e6e99889dd/5084512"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/fcebaf699d443505d0a932e6e99889dd/5084512",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ec960295cd5f951b4d7a80b6d99799d3/5084512",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Chamber Pop",
+        "Indie Rock"
+      ],
+      "secondaryGenres": [
+        "Rock Opera"
+      ],
+      "descriptors": [
+        "dark",
+        "melodic",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5Vr0HJnNJoZAvLwnI7dhZl",
+        "appleMusic": "https://geo.music.apple.com/us/album/beneath-the-brine/789173040",
+        "bandcamp": "https://thefamilycrest.bandcamp.com/album/beneath-the-brine-3"
+      },
+      "enrichedAt": "2026-06-21T12:31:16.418Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-fierce-and-the-dead/spooky-action",
@@ -6541,6 +6630,78 @@
       "enrichedAt": "2026-05-21T12:08:35.835Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/the-midnight/heroes",
+      "title": "Heroes",
+      "artist": "The Midnight",
+      "year": 2022,
+      "genres": [
+        "Synthpop"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/3251f31a1c1ad784896fec8f87f3a44b/10248320",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e3231852d122a773456e99d1af85e0fc/10248320",
+      "rymRating": 3.1,
+      "primaryGenres": [
+        "Synthpop"
+      ],
+      "secondaryGenres": [
+        "Pop Rock",
+        "AOR",
+        "Dreamwave"
+      ],
+      "descriptors": [
+        "nocturnal",
+        "sentimental",
+        "male vocalist",
+        "anthemic",
+        "warm",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4oW03FMm0t1yYIa0RjBl12",
+        "appleMusic": "https://geo.music.apple.com/us/album/heroes/1616018923",
+        "bandcamp": "https://themidnight.bandcamp.com/album/heroes"
+      },
+      "enrichedAt": "2026-07-08T13:26:25.982Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/the-midnight/syndicate",
+      "title": "Syndicate",
+      "artist": "The Midnight",
+      "year": 2025,
+      "genres": [
+        "Synthwave",
+        "Synthpop"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/d4be3bd938be33f9ecab4dea738f5535/13613660",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b467e7993e65b3ee823419ed1bd1dec0/13613660",
+      "rymRating": 3.48,
+      "primaryGenres": [
+        "Synthwave",
+        "Synthpop"
+      ],
+      "secondaryGenres": [
+        "Electro House",
+        "Dreamwave"
+      ],
+      "descriptors": [
+        "nocturnal",
+        "male vocalist",
+        "futuristic",
+        "urban",
+        "summer",
+        "melodic",
+        "cyberpunk",
+        "pastiche"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/58ZdIUja7imZmFqOSoI6b7",
+        "appleMusic": "https://geo.music.apple.com/ca/album/syndicate/1828485047"
+      },
+      "enrichedAt": "2026-07-08T13:26:30.048Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/the-most-serene-republic/population",
       "title": "Population",
       "artist": "The Most Serene Republic",
@@ -6624,7 +6785,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/l-i-f-t/1854512647",
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/l-i-f-t-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-05-21T12:08:44.541Z"
+      "enrichedAt": "2026-05-21T12:08:44.541Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-07T13:52:26.425Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-notwist/neon-golden",
@@ -6888,6 +7051,43 @@
         "appleMusic": "https://geo.music.apple.com/us/album/allium-una-storia/1579505748"
       },
       "enrichedAt": "2026-05-21T12:27:24.339Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/timecop1983/night-drive",
+      "title": "Night Drive",
+      "artist": "Timecop1983",
+      "year": 2018,
+      "genres": [
+        "Synthwave",
+        "Dreamwave",
+        "Outrun"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/7f032f9bd4fb1d2cecafb3d59e782aac/6977974",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3b0db08292dd3592d5852636a762b4ae/6977974",
+      "rymRating": 3.37,
+      "primaryGenres": [
+        "Synthwave",
+        "Dreamwave",
+        "Outrun"
+      ],
+      "secondaryGenres": [
+        "Synthpop",
+        "Chillsynth"
+      ],
+      "descriptors": [
+        "nocturnal",
+        "ethereal",
+        "male vocalist",
+        "futuristic",
+        "mechanical"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i",
+        "appleMusic": "https://geo.music.apple.com/us/album/night-drive/1373807924",
+        "bandcamp": "https://timecop1983.bandcamp.com/album/night-drive"
+      },
+      "enrichedAt": "2026-07-08T13:26:34.015Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/titan-force/titan-force-3",
@@ -7210,6 +7410,38 @@
       "enrichedAt": "2026-05-21T12:28:47.108Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/ubiquity/the-ascendant-travels-among-the-stars",
+      "title": "The Ascendant Travels Among the Stars",
+      "artist": "Ubiquity",
+      "year": 2024,
+      "genres": [
+        "Progressive Metal",
+        "Death Metal"
+      ],
+      "dateAdded": "2026-07-01",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9703e9423ded6ac90ff1b8e5218ac708/12520900",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e040eb39eb6ab741b6dc5238291cd6c2/12520900",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Death Metal"
+      ],
+      "descriptors": [
+        "heavy",
+        "dark",
+        "melancholic",
+        "progressive",
+        "uncommon time signatures",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/71DFVqWjWvRSV6idpTwEhc",
+        "appleMusic": "https://geo.music.apple.com/gb/album/the-ascendant-travels-among-the-stars/1763722043",
+        "bandcamp": "https://ubiquitybe.bandcamp.com/album/the-ascendant-travels-among-the-stars"
+      },
+      "enrichedAt": "2026-07-08T13:26:38.599Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/unitopia/seven-chambers",
       "title": "Seven Chambers",
       "artist": "Unitopia",
@@ -7462,6 +7694,48 @@
       "enrichedAt": "2026-05-21T12:35:08.908Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/wolfclub/infinity",
+      "title": "Infinity",
+      "artist": "Wolfclub",
+      "year": 2018,
+      "genres": [
+        "Synthwave",
+        "Synthpop",
+        "Dreamwave",
+        "Outrun"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/db1a6adda92ef9c7d685cc2394fd304c/7255452",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cc6049c1927e4be2cbfcf0e2839814d7/7255452",
+      "rymRating": 3.47,
+      "primaryGenres": [
+        "Synthwave",
+        "Synthpop",
+        "Dreamwave",
+        "Outrun"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "repetitive",
+        "romantic",
+        "uplifting",
+        "melodic",
+        "love",
+        "longing",
+        "lush",
+        "rhythmic",
+        "nocturnal",
+        "energetic",
+        "urban",
+        "tropical"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4ZZvoPh5Qk1ynqclUbl8G4",
+        "bandcamp": "https://newretrowave.bandcamp.com/album/infinity"
+      },
+      "enrichedAt": "2026-07-08T13:26:43.233Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/worm/necropalace",
       "title": "Necropalace",
       "artist": "Worm",
@@ -7518,6 +7792,53 @@
       "enrichedAt": "2026-05-21T12:35:13.153Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/wormlust/the-feral-wisdom",
+      "title": "The Feral Wisdom",
+      "artist": "Wormlust",
+      "year": 2013,
+      "genres": [
+        "Atmospheric Black Metal",
+        "Dissonant Black Metal"
+      ],
+      "dateAdded": "2026-07-01",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9c6f47202e9fba0eabf9281741f98a9f/5064545",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/294319102da1a2337b7019cbd9fac827/5064545",
+      "rymRating": 3.48,
+      "primaryGenres": [
+        "Atmospheric Black Metal",
+        "Dissonant Black Metal"
+      ],
+      "secondaryGenres": [
+        "Black Ambient",
+        "Space Rock",
+        "Psychedelia"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "hypnotic",
+        "death",
+        "melancholic",
+        "atmospheric",
+        "dense",
+        "chaotic",
+        "dissonant",
+        "heavy",
+        "dark",
+        "surreal",
+        "abstract",
+        "disturbing",
+        "cavernous",
+        "harsh vocals"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4FkL5Itv5Cgt3doRL6nz22",
+        "appleMusic": "https://geo.music.apple.com/ru/album/the-feral-wisdom/1604538479",
+        "youtube": "https://www.youtube.com/watch?v=ym4BRDMDqe4",
+        "bandcamp": "https://wrmlst.bandcamp.com/album/the-feral-wisdom"
+      },
+      "enrichedAt": "2026-07-08T13:26:47.432Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/xandria/neverworlds-end",
       "title": "Neverworld's End",
       "artist": "Xandria",
@@ -7550,6 +7871,40 @@
         "spotify": "https://open.spotify.com/album/2NfcgbEjC2jh0CcmYsqg95"
       },
       "enrichedAt": "2026-05-28T08:40:26.995Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/ep/xenia/esfera",
+      "title": "Esfera",
+      "artist": "Xenia",
+      "year": 2021,
+      "genres": [
+        "Synthpop",
+        "Synthwave"
+      ],
+      "dateAdded": "2026-07-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/f028d51afc7d5a7a91a07fe384679e00/8948722",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6124dcbdc4c24b6f2bdad89d18dd921f/8948722",
+      "rymRating": 3.51,
+      "primaryGenres": [
+        "Synthpop",
+        "Synthwave"
+      ],
+      "secondaryGenres": [
+        "Dream Pop",
+        "Bedroom Pop",
+        "New Wave"
+      ],
+      "descriptors": [
+        "lo-fi",
+        "female vocalist",
+        "bittersweet"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4M35BGAOnLvqBuK3vZdhoB",
+        "appleMusic": "https://geo.music.apple.com/us/album/esfera-ep/1554607662",
+        "youtube": "https://www.youtube.com/watch?v=RQKhUWcVxnA"
+      },
+      "enrichedAt": "2026-07-08T13:26:51.616Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/yeule/serotonin-ii",
@@ -7648,61 +8003,6 @@
         "Progressive Folk"
       ],
       "enrichedAt": "2026-05-21T12:35:31.108Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/%E7%9B%97%E4%BD%9C",
-      "title": "盗作 [Plagiarism]",
-      "artist": "ヨルシカ [Yorushika]",
-      "year": 2020,
-      "genres": [
-        "Pop Rock",
-        "Shimokita-kei",
-        "Yakousei",
-        "Indie Rock"
-      ],
-      "dateAdded": "2024-07-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/59cb1298241d002e0ea095c7f59f636b/8228904",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7c927ba17cdb4aebeab3a84595937a77/8228904",
-      "rymRating": 3.61,
-      "primaryGenres": [
-        "Pop Rock",
-        "Shimokita-kei",
-        "Yakousei",
-        "Indie Rock"
-      ],
-      "secondaryGenres": [
-        "Jazz Fusion"
-      ],
-      "descriptors": [
-        "bittersweet",
-        "melodic",
-        "female vocalist",
-        "warm",
-        "anxious",
-        "sentimental",
-        "energetic",
-        "sad",
-        "lonely",
-        "rhythmic",
-        "poetic",
-        "summer",
-        "love",
-        "passionate",
-        "eclectic",
-        "introspective",
-        "about music",
-        "misanthropic",
-        "existential",
-        "concept album",
-        "melancholic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy",
-        "appleMusic": "https://geo.music.apple.com/jp/album/plagiarism/1519740112"
-      },
-      "enrichedAt": "2026-05-21T13:02:55.452Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-08T09:26:46.961Z"
     }
   ]
 }
