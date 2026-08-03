@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-03T12:44:55.047Z",
+  "lastScrapedAt": "2026-08-03T15:13:10.686Z",
   "source": "rym",
   "albums": [
     {
@@ -159,6 +159,52 @@
         "bandcamp": "https://alcest.bandcamp.com/album/spiritual-instinct",
         "appleMusic": "https://geo.music.apple.com/au/album/spiritual-instinct/1474788010"
       }
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/alex-cameron/late-to-set",
+      "title": "Late to Set",
+      "artist": "Alex Cameron",
+      "year": 2026,
+      "genres": [
+        "Pop Rock",
+        "Minimal Synth"
+      ],
+      "dateAdded": "2026-08-03",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/732ce6d219527d172f48ba7d3bbf4889/14619064",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8f00552a9f73d1e180b87eaca6a26ed0/14619064",
+      "rymRating": 3.18,
+      "primaryGenres": [
+        "Pop Rock",
+        "Minimal Synth"
+      ],
+      "secondaryGenres": [
+        "Synthpop",
+        "Soft Rock",
+        "Sophisti-Pop",
+        "Blue-Eyed Soul",
+        "Art Pop"
+      ],
+      "descriptors": [
+        "dark humor",
+        "hazy",
+        "cynical",
+        "melancholic",
+        "manhood",
+        "family",
+        "entertainment industry",
+        "love",
+        "drugs",
+        "satirical",
+        "mellow",
+        "male vocalist",
+        "introspective",
+        "infidelity"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0qbSHm1NgNqr441POZacaa",
+        "appleMusic": "https://geo.music.apple.com/us/album/late-to-set/1890280512"
+      },
+      "enrichedAt": "2026-08-03T15:13:10.686Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alvvays/blue-rev",
@@ -2658,7 +2704,8 @@
         "appleMusic": "https://geo.music.apple.com/us/album/circadian-promise/1886727001",
         "bandcamp": "https://firesinthedistance.bandcamp.com/album/circadian-promise"
       },
-      "enrichedAt": "2026-07-27T08:56:18.029Z"
+      "enrichedAt": "2026-08-03T15:10:25.065Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/floex/papetura",
