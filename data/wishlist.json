@@ -1,7 +1,55 @@
 {
-  "lastScrapedAt": "2026-07-27T08:57:34.802Z",
+  "lastScrapedAt": "2026-08-03T12:44:55.047Z",
   "source": "rym",
   "albums": [
+    {
+      "url": "https://rateyourmusic.com/release/album/%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B_%E0%BE%80%E2%97%9E-%E0%BC%8E%E0%BA%B6-%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96-%EA%89%BA%E1%83%9A/%CA%85-%E2%97%8F-o-%E2%97%8F-o-%E2%97%8F-%D2%88%D2%88%D2%88%D2%88%D2%88-",
+      "title": "ʅ():: ● o ● o ● ҈҈҈҈҈ :()(",
+      "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+      "year": 2026,
+      "genres": [
+        "Microhouse",
+        "IDM"
+      ],
+      "dateAdded": "2026-07-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/b1de5b30029a3e8d87a52b6cc276b48f/14783504",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f21f33096a9aaa0fd19a6ec5f7d182a8/14783504",
+      "rymRating": 3.53,
+      "primaryGenres": [
+        "Microhouse",
+        "IDM"
+      ],
+      "secondaryGenres": [
+        "Tech House",
+        "Ambient House",
+        "Folktronica",
+        "Deep Tech"
+      ],
+      "descriptors": [
+        "rhythmic",
+        "playful",
+        "twinkling",
+        "surreal",
+        "quirky",
+        "atmospheric",
+        "repetitive",
+        "progressive",
+        "instrumental",
+        "mysterious",
+        "sampling",
+        "ethereal",
+        "hypnotic",
+        "psychedelic",
+        "bright"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6OxEdoTceemiC0d7GgdXEz",
+        "appleMusic": "https://geo.music.apple.com/gb/album/%CA%85-l-%C9%B5%CA%85/6772134164",
+        "youtube": "https://www.youtube.com/watch?v=U1UqDWVVKAs",
+        "bandcamp": "https://00000ooooo.bandcamp.com/album/--5"
+      },
+      "enrichedAt": "2026-08-03T12:44:28.073Z"
+    },
     {
       "url": "https://rateyourmusic.com/release/album/a_l_i_s_o_n/space-station",
       "title": "Space Station",
@@ -1863,60 +1911,15 @@
       "onDeckAt": "2026-06-12T13:56:06.145Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/dimhav/ondine",
-      "title": "Ondine",
-      "artist": "Dimhav",
+      "url": "https://rateyourmusic.com/release/album/dragonland/prophecies",
+      "title": "Prophecies",
+      "artist": "Dragonland",
       "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Power Metal"
-      ],
-      "dateAdded": "2026-05-27",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/aafcdc2d80f59a3a87fa83ac1cd1db8a/14630923",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dfb6acf55fa31359dc001814ef76fa50/14630923",
-      "rymRating": 3.55,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Power Metal"
-      ],
-      "secondaryGenres": [
-        "Symphonic Metal"
-      ],
-      "descriptors": [
-        "heavy",
-        "aquatic",
-        "concept album",
-        "progressive",
-        "energetic",
-        "melodic",
-        "epic",
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/10ZRxGApgBtK5yh35OzfoM",
-        "appleMusic": "https://geo.music.apple.com/us/album/ondine/6766759188",
-        "bandcamp": "https://dimhav.bandcamp.com/album/ondine"
-      },
-      "enrichedAt": "2026-05-28T08:39:24.872Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/droid-bishop/frontiers",
-      "title": "Frontiers",
-      "artist": "Droid Bishop",
-      "year": 2026,
-      "genres": [
-        "Synthwave"
-      ],
-      "dateAdded": "2026-07-07",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/0c1c6e73b73f64c726077753a0a531fc/14749060",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/fb17613d16a0348bd157b01be2ac3a15/14749060",
-      "rymRating": 3.5,
-      "primaryGenres": [
-        "Synthwave"
-      ],
-      "enrichedAt": "2026-07-08T13:25:55.821Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-08T13:27:10.362Z"
+      "genres": [],
+      "dateAdded": "2026-08-03",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/13e86ebd9bc113fb203102447ce9d1cd/14885130",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e0e04c50b79c61af62e6df08651dfdd3/14885130",
+      "enrichedAt": "2026-08-03T12:44:41.384Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
@@ -2751,6 +2754,71 @@
       "enrichedAt": "2026-07-08T13:26:00.051Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/four-tet/there-is-love-in-you",
+      "title": "There Is Love in You",
+      "artist": "Four Tet",
+      "year": 2010,
+      "genres": [
+        "Microhouse"
+      ],
+      "dateAdded": "2026-07-29",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/636a05aee5878006e558da2eea90fbed/5929735",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6fedb15a1fccf6f68ff8b825d9283d8d/5929735",
+      "rymRating": 3.66,
+      "primaryGenres": [
+        "Microhouse"
+      ],
+      "secondaryGenres": [
+        "IDM",
+        "Organic House",
+        "Minimal Techno"
+      ],
+      "descriptors": [
+        "warm",
+        "repetitive",
+        "rhythmic",
+        "playful",
+        "atmospheric",
+        "hypnotic",
+        "calm",
+        "instrumental",
+        "sampling",
+        "mellow",
+        "lush",
+        "soothing",
+        "uplifting",
+        "ethereal",
+        "spring",
+        "love",
+        "peaceful",
+        "summer",
+        "psychedelic",
+        "melodic",
+        "progressive",
+        "spiritual",
+        "bouncy",
+        "happy",
+        "minimalistic",
+        "sentimental",
+        "natural",
+        "cozy",
+        "meditative",
+        "dense",
+        "soft",
+        "vocal chops",
+        "four on the floor",
+        "pastoral",
+        "polyphonic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr",
+        "appleMusic": "https://geo.music.apple.com/us/album/there-is-love-in-you-expanded-edition/1286314406",
+        "youtube": "https://www.youtube.com/watch?v=zbhafEipo6c",
+        "bandcamp": "https://fourtet.bandcamp.com/album/there-is-love-in-you"
+      },
+      "enrichedAt": "2026-08-03T12:44:45.261Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/gandalfs-fist/the-clockwork-fable",
       "title": "The Clockwork Fable",
       "artist": "Gandalf's Fist",
@@ -3089,7 +3157,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/panorama/1850608228",
         "bandcamp": "https://haellas.bandcamp.com/album/panorama"
       },
-      "enrichedAt": "2026-05-21T08:56:59.743Z"
+      "enrichedAt": "2026-05-21T08:56:59.743Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-31T11:17:34.168Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/happy-the-man/happy-the-man",
@@ -3201,7 +3271,9 @@
         "spotify": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS",
         "appleMusic": "https://geo.music.apple.com/us/album/big-disgrace/1862829699"
       },
-      "enrichedAt": "2026-07-27T08:56:26.034Z"
+      "enrichedAt": "2026-07-27T08:56:26.034Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-30T15:16:27.812Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/hawkwind/warrior-on-the-edge-of-time",
@@ -3958,54 +4030,6 @@
       "enrichedAt": "2026-05-20T23:07:35.600Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/k-wata/give-u-space",
-      "title": "Give U Space",
-      "artist": "K Wata",
-      "year": 2026,
-      "genres": [
-        "Ambient Dub"
-      ],
-      "dateAdded": "2026-07-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/19f7101e191d568037fea27973125e01/14532008",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e16f715bf8a094058e2559ee2e01a376/14532008",
-      "rymRating": 3.53,
-      "primaryGenres": [
-        "Ambient Dub"
-      ],
-      "secondaryGenres": [
-        "UK Bass",
-        "IDM",
-        "Dub Techno",
-        "Dubstep"
-      ],
-      "descriptors": [
-        "cavernous",
-        "atmospheric",
-        "instrumental",
-        "hypnotic",
-        "bassy",
-        "surreal",
-        "mysterious",
-        "nocturnal",
-        "urban",
-        "mechanical",
-        "mellow",
-        "repetitive",
-        "sampling",
-        "sparse",
-        "rhythmic",
-        "suspenseful",
-        "dark",
-        "calm"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1mFJyEMLd5aAtcVr3SyGQX",
-        "appleMusic": "https://geo.music.apple.com/ca/album/give-u-space/1895910310",
-        "bandcamp": "https://kwata.bandcamp.com/album/give-u-space"
-      },
-      "enrichedAt": "2026-07-27T08:56:34.125Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/kaataira/caminhos-de-agua",
       "title": "Caminhos de água",
       "artist": "Kaátaìra",
@@ -4192,8 +4216,7 @@
       "year": 2014,
       "genres": [
         "Shibuya-kei",
-        "Sophisti-Pop",
-        "Soft Rock"
+        "Sophisti-Pop"
       ],
       "dateAdded": "2025-02-08",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/8fb7788701e1813b93c365476142eef5/14241423",
@@ -4201,8 +4224,7 @@
       "rymRating": 3.78,
       "primaryGenres": [
         "Shibuya-kei",
-        "Sophisti-Pop",
-        "Soft Rock"
+        "Sophisti-Pop"
       ],
       "secondaryGenres": [
         "Chamber Pop",
@@ -4241,7 +4263,7 @@
         "appleMusic": "https://geo.music.apple.com/es/album/%E3%82%86%E3%82%81/805520623",
         "youtube": "https://www.youtube.com/watch?v=blHz6_8HqpE"
       },
-      "enrichedAt": "2026-07-27T08:56:45.539Z"
+      "enrichedAt": "2026-08-03T12:44:49.798Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/les-discrets/ariettes-oubliees",
@@ -4735,68 +4757,6 @@
       "enrichedAt": "2026-05-21T10:50:17.931Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/maria-bc/marathon",
-      "title": "Marathon",
-      "artist": "Maria BC",
-      "year": 2026,
-      "genres": [
-        "Indie Folk",
-        "Singer-Songwriter",
-        "Psychedelic Folk"
-      ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/2e70e43730cdfb8468d7d91154e68d4a/14140257",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1d6c3135b292318e67aed4a8deb30923/14140257",
-      "rymRating": 3.47,
-      "primaryGenres": [
-        "Indie Folk",
-        "Singer-Songwriter",
-        "Psychedelic Folk"
-      ],
-      "secondaryGenres": [
-        "Slowcore",
-        "Avant-Folk",
-        "Psychedelic Folk",
-        "Electroacoustic"
-      ],
-      "descriptors": [
-        "atmospheric",
-        "nonbinary vocalist",
-        "psychedelic",
-        "hazy",
-        "ethereal",
-        "fuzzy",
-        "longing",
-        "poetic",
-        "rain",
-        "melancholic",
-        "whispering",
-        "twinkling",
-        "dense",
-        "soft",
-        "cryptic",
-        "calm",
-        "existential",
-        "nocturnal",
-        "abstract",
-        "urban",
-        "progressive",
-        "lush",
-        "sentimental",
-        "polyphonic",
-        "bittersweet",
-        "soothing",
-        "hypnotic",
-        "introspective"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6DygEWTpUZOaQWSugKs4mk",
-        "appleMusic": "https://geo.music.apple.com/nz/album/marathon/1851555420",
-        "bandcamp": "https://mariabc.bandcamp.com/album/marathon"
-      },
-      "enrichedAt": "2026-05-21T10:50:28.952Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/mason-lindahl/kissing-rosy-in-the-rain",
       "title": "Kissing Rosy in the Rain",
       "artist": "Mason Lindahl",
@@ -5281,7 +5241,9 @@
         "appleMusic": "https://geo.music.apple.com/nz/album/my-new-band-believe/1866890640",
         "bandcamp": "https://mynewbandbelieve.bandcamp.com/album/my-new-band-believe"
       },
-      "enrichedAt": "2026-05-21T11:05:11.102Z"
+      "enrichedAt": "2026-05-21T11:05:11.102Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-31T10:32:54.286Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/nailed-to-obscurity/king-delusion",
@@ -5368,7 +5330,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/my-skyscraper/6769192019",
         "bandcamp": "https://ulyssa.bandcamp.com/album/my-skyscraper"
       },
-      "enrichedAt": "2026-07-27T08:57:00.181Z"
+      "enrichedAt": "2026-07-27T08:57:00.181Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-27T10:05:16.462Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
@@ -5506,70 +5470,6 @@
         "bandcamp": "https://numenor-kingdom.bandcamp.com/album/runes-of-power"
       },
       "enrichedAt": "2026-05-28T08:39:51.392Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/olivia-rodrigo/you-seem-pretty-sad-for-a-girl-so-in-love",
-      "title": "You Seem Pretty Sad for a Girl So in Love",
-      "artist": "Olivia Rodrigo",
-      "year": 2026,
-      "genres": [
-        "Pop Rock",
-        "Singer-Songwriter"
-      ],
-      "dateAdded": "2026-07-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/2324eef0582d57d819d36f4b9fc7cee7/14461690",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/54753df802c1a2c7c4cf9f7723df842b/14461690",
-      "rymRating": 3.67,
-      "primaryGenres": [
-        "Pop Rock",
-        "Singer-Songwriter"
-      ],
-      "secondaryGenres": [
-        "New Wave",
-        "Post-Punk Revival",
-        "Jangle Pop",
-        "Big Music"
-      ],
-      "descriptors": [
-        "bittersweet",
-        "love",
-        "melodic",
-        "insecure",
-        "romantic",
-        "sentimental",
-        "regret",
-        "lush",
-        "concept album",
-        "breakup",
-        "female vocalist",
-        "mental health",
-        "obsession",
-        "longing",
-        "introspective",
-        "passionate",
-        "narrative",
-        "self-hatred",
-        "anxious",
-        "melancholic",
-        "bright",
-        "anthemic",
-        "playful",
-        "nostalgia",
-        "ballad",
-        "energetic",
-        "womanhood",
-        "urban",
-        "alienation",
-        "envy",
-        "pessimistic",
-        "talk-singing"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
-        "appleMusic": "https://geo.music.apple.com/us/album/you-seem-pretty-sad-for-a-girl-so-in-love/1889992111",
-        "bandcamp": "https://oliviarodrigosongs.bandcamp.com/album/you-seem-pretty-sad-for-a-girl-so-in-love"
-      },
-      "enrichedAt": "2026-07-27T08:57:04.368Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/orphaned-land/mabool-the-story-of-the-three-sons-of-seven",
@@ -5749,7 +5649,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-boys-of-dungeon-lane/1887402919",
         "bandcamp": "https://paulmccartneymusics.bandcamp.com/album/the-boys-of-dungeon-lane"
       },
-      "enrichedAt": "2026-07-27T08:57:08.369Z"
+      "enrichedAt": "2026-07-27T08:57:08.369Z",
+      "onDeck": true,
+      "onDeckAt": "2026-07-27T08:59:07.999Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
@@ -5972,53 +5874,6 @@
         "bandcamp": "https://planningforburial.bandcamp.com/album/below-the-house-2"
       },
       "enrichedAt": "2026-05-21T11:06:14.526Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/protest-the-hero/within",
-      "title": "Within",
-      "artist": "Protest the Hero",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-07-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1621d154ec4df8ce146056d770309c12/14689335",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a00893f753f931b23ebc7d4f151939d1/14689335",
-      "rymRating": 3.56,
-      "primaryGenres": [
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Melodic Metalcore"
-      ],
-      "descriptors": [
-        "uncommon time signatures",
-        "technical",
-        "male vocalist",
-        "energetic",
-        "political",
-        "heavy",
-        "philosophical",
-        "progressive",
-        "uplifting",
-        "introspective",
-        "gang vocals",
-        "aggressive",
-        "anti-authoritarian",
-        "conscious",
-        "passionate",
-        "harsh vocals",
-        "anticonsumerism",
-        "complex",
-        "nostalgia"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5f6sKV5KCpWbhTepdwruwJ",
-        "appleMusic": "https://geo.music.apple.com/it/album/within/6771811141",
-        "youtube": "https://www.youtube.com/watch?v=QDbd2EdwGAc",
-        "bandcamp": "https://protestthehero.bandcamp.com/album/within"
-      },
-      "enrichedAt": "2026-07-27T08:57:12.484Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
@@ -7039,57 +6894,6 @@
       "enrichedAt": "2026-05-21T12:08:21.196Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/the-lemon-twigs/look-for-your-mind",
-      "title": "Look for Your Mind!",
-      "artist": "The Lemon Twigs",
-      "year": 2026,
-      "genres": [
-        "Power Pop",
-        "Pop Rock"
-      ],
-      "dateAdded": "2026-05-15",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ae81af68a647f2d2792c2a092f392f47/14377490",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/237bb71c2ece5f8f18084bb90e84fb5c/14377490",
-      "rymRating": 3.54,
-      "primaryGenres": [
-        "Power Pop",
-        "Pop Rock"
-      ],
-      "secondaryGenres": [
-        "Jangle Pop",
-        "Psychedelic Pop",
-        "Beat",
-        "Sunshine Pop"
-      ],
-      "descriptors": [
-        "pastiche",
-        "male vocalist",
-        "melodic",
-        "psychedelic",
-        "bittersweet",
-        "playful",
-        "energetic",
-        "love",
-        "rhythmic",
-        "bright",
-        "warm",
-        "introspective",
-        "nocturnal",
-        "existential",
-        "romantic",
-        "sentimental",
-        "longing",
-        "regret",
-        "breakup"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2wKJGzZd7wQFRi8oK3Gatg",
-        "appleMusic": "https://geo.music.apple.com/nz/album/look-for-your-mind/1876938155",
-        "bandcamp": "https://thelemontwigs.bandcamp.com/album/look-for-your-mind?from=fanpub_fnb&utm_source=album_release&utm_medium=email&utm_content=fanpub_fnb&utm_campaign=thelemontwigs+album+look-for-your-mind"
-      },
-      "enrichedAt": "2026-05-21T12:08:27.737Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/the-lord-weird-slough-feg/traveller",
       "title": "Traveller",
       "artist": "The Lord Weird Slough Feg",
@@ -7381,8 +7185,7 @@
       "year": 2009,
       "genres": [
         "Twee Pop",
-        "Noise Pop",
-        "Indie Pop"
+        "Noise Pop"
       ],
       "dateAdded": "2025-08-15",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/27df0162eb9df732db532ec4272a6349/9902880",
@@ -7390,8 +7193,7 @@
       "rymRating": 3.49,
       "primaryGenres": [
         "Twee Pop",
-        "Noise Pop",
-        "Indie Pop"
+        "Noise Pop"
       ],
       "secondaryGenres": [
         "Jangle Pop",
@@ -7421,7 +7223,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-pains-of-being-pure-at-heart/1321216180",
         "bandcamp": "https://slumberlandrecs.bandcamp.com/album/the-pains-of-being-pure-at-heart"
       },
-      "enrichedAt": "2026-05-21T12:24:03.363Z"
+      "enrichedAt": "2026-08-03T12:44:55.047Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-reticent/the-oubliette",
@@ -8307,62 +8109,6 @@
         "bandcamp": "https://newretrowave.bandcamp.com/album/infinity"
       },
       "enrichedAt": "2026-07-27T08:57:30.268Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/worm/necropalace",
-      "title": "Necropalace",
-      "artist": "Worm",
-      "year": 2026,
-      "genres": [
-        "Symphonic Black Metal"
-      ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/d29ffebf844a6273c4bd4d4d9db97779/14073913",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bf96ccb1aaefe1b1a5bb1b2a7b62e75a/14073913",
-      "rymRating": 3.59,
-      "primaryGenres": [
-        "Symphonic Black Metal"
-      ],
-      "secondaryGenres": [
-        "Gothic Metal",
-        "Melodic Black Metal",
-        "Progressive Metal",
-        "Neoclassical Metal",
-        "Death Doom Metal"
-      ],
-      "descriptors": [
-        "vampires",
-        "dark",
-        "male vocalist",
-        "technical",
-        "epic",
-        "mysterious",
-        "heavy",
-        "harsh vocals",
-        "cold",
-        "dense",
-        "nocturnal",
-        "fantasy",
-        "progressive",
-        "aggressive",
-        "infernal",
-        "melodic",
-        "sombre",
-        "atmospheric",
-        "triumphant",
-        "maximalist",
-        "ethereal",
-        "lush",
-        "theatrical",
-        "concept album",
-        "horror"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4zI7O4eE92cRjGLwXc3Y1c",
-        "appleMusic": "https://geo.music.apple.com/us/album/necropalace/1849662961",
-        "bandcamp": "https://wormgloom.bandcamp.com/album/necropalace-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-05-21T12:35:13.153Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/wormlust/the-feral-wisdom",
