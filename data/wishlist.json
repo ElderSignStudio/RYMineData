@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-19T11:15:58.234Z",
+  "lastScrapedAt": "2026-08-19T13:20:55.818Z",
   "source": "rym",
   "albums": [
     {
@@ -3017,13 +3017,14 @@
       "dateAdded": "2026-03-19",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/724ae696bc128959fb62d65047f2c53e/13873659",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bb9a0027443b5988c5a7c15a8d984e56/13873659",
-      "rymRating": 3.48,
+      "rymRating": 3.47,
       "primaryGenres": [
         "Progressive Rock",
         "Hard Rock"
       ],
       "secondaryGenres": [
-        "Symphonic Prog"
+        "Symphonic Prog",
+        "AOR"
       ],
       "descriptors": [
         "male vocalist",
@@ -3033,16 +3034,16 @@
         "complex",
         "melodic",
         "fantasy",
-        "nature",
-        "space",
-        "psychedelic",
         "eclectic",
-        "uplifting",
+        "space",
+        "nature",
+        "psychedelic",
         "daytime",
         "introspective",
-        "mellow",
         "poetic",
+        "uplifting",
         "energetic",
+        "mellow",
         "orchestral"
       ],
       "streamingLinks": {
@@ -3050,9 +3051,10 @@
         "appleMusic": "https://geo.music.apple.com/it/album/panorama/1850608228",
         "bandcamp": "https://haellas.bandcamp.com/album/panorama"
       },
-      "enrichedAt": "2026-05-21T08:56:59.743Z",
+      "enrichedAt": "2026-08-19T13:20:55.818Z",
       "onDeck": true,
-      "onDeckAt": "2026-07-31T11:17:34.168Z"
+      "onDeckAt": "2026-07-31T11:17:34.168Z",
+      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/happy-the-man/happy-the-man",
@@ -3939,31 +3941,33 @@
         "soothing",
         "atmospheric",
         "melodic",
-        "twinkling",
         "peaceful",
+        "twinkling",
         "spring",
         "bright",
-        "soft",
         "pastoral",
         "warm",
         "spiritual",
         "meditative",
-        "daytime",
-        "smooth",
-        "minimalistic",
+        "soft",
         "calm",
+        "daytime",
         "lush",
         "forest",
+        "smooth",
+        "minimalistic",
         "fairy tale",
         "cozy",
-        "surreal"
+        "surreal",
+        "grassland"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm",
         "appleMusic": "https://geo.music.apple.com/us/album/tragic-magic/1843854211",
         "bandcamp": "https://marylattimoreharpist.bandcamp.com/album/tragic-magic"
       },
-      "enrichedAt": "2026-05-20T23:07:35.600Z"
+      "enrichedAt": "2026-08-19T12:13:40.778Z",
+      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/kaataira/caminhos-de-agua",
