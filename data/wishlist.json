@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-19T09:33:10.761Z",
+  "lastScrapedAt": "2026-08-19T11:15:58.234Z",
   "source": "rym",
   "albums": [
     {
@@ -2379,30 +2379,31 @@
         "cryptic",
         "female vocalist",
         "buzzy",
-        "bittersweet",
-        "vocal chops",
         "hypnotic",
+        "bittersweet",
+        "surreal",
+        "introspective",
+        "vocal chops",
         "money",
         "shopping",
         "noisy",
         "hazy",
-        "surreal",
         "fashion",
-        "introspective",
-        "sentimental",
+        "abstract",
         "phones",
         "travel",
         "anxious",
-        "abstract",
+        "bright",
         "cosmetics",
-        "bright"
+        "sentimental"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ",
         "appleMusic": "https://geo.music.apple.com/gb/album/bitknot/1892136714",
         "bandcamp": "https://feeblelittlehorse.bandcamp.com/album/bitknot"
       },
-      "enrichedAt": "2026-08-04T15:05:08.976Z"
+      "enrichedAt": "2026-08-19T11:15:58.234Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/fiction/lucifer-%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%81%8A%E4%BA%BA%E5%BD%A2",
@@ -6815,7 +6816,7 @@
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/79dd98ddabced51fd4e6e9b589550dbb/14166356",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3fcba7940b0ef851dbb7ea28781157d7/14166356",
-      "rymRating": 3.42,
+      "rymRating": 3.44,
       "primaryGenres": [
         "Dream Pop",
         "Indie Pop"
@@ -6836,7 +6837,8 @@
         "appleMusic": "https://geo.music.apple.com/jp/album/one-dream-one-star/1879987459",
         "bandcamp": "https://kilikilivilla.bandcamp.com/album/one-dream-one-star"
       },
-      "enrichedAt": "2026-08-04T15:05:42.065Z"
+      "enrichedAt": "2026-08-19T09:55:58.499Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/sumner-mckane/allot-upon-mostly-solo-electric-guitar",
