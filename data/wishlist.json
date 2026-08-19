@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-04T15:05:52.391Z",
+  "lastScrapedAt": "2026-08-19T09:22:46.299Z",
   "source": "rym",
   "albums": [
     {
@@ -124,6 +124,32 @@
         "bandcamp": "https://alison4.bandcamp.com/album/space-station"
       },
       "enrichedAt": "2026-07-08T13:25:44.738Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/adam-ben-ezra-trio/cant-stop-running",
+      "title": "Can't Stop Running",
+      "artist": "Adam Ben Ezra Trio",
+      "year": 2015,
+      "genres": [
+        "Chamber Jazz"
+      ],
+      "dateAdded": "2026-08-11",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ab63fc2764849dd4a9aa861f489b40c2/6533963",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6bc972fd4d75d8227d98982ab6ec5964/6533963",
+      "rymRating": 3.73,
+      "primaryGenres": [
+        "Chamber Jazz"
+      ],
+      "secondaryGenres": [
+        "Flamenco nuevo",
+        "ECM Style Jazz",
+        "Jewish Music"
+      ],
+      "myRating": 3.5,
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3bISOs3G2Skjswxe3e7aOd"
+      },
+      "enrichedAt": "2026-08-19T09:22:14.311Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
@@ -561,40 +587,6 @@
         "appleMusic": "https://geo.music.apple.com/it/album/negative-space/1369809530"
       },
       "enrichedAt": "2026-05-20T23:46:44.166Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/atavistia/old-gods-awaken",
-      "title": "Old Gods Awaken",
-      "artist": "Atavistia",
-      "year": 2026,
-      "genres": [
-        "Melodic Death Metal",
-        "Folk Metal"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1bba789444ffbc6f7e9667a7f70ad2e7/14276353",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bde3ded228ee0ad9328504d315e9e1d0/14276353",
-      "rymRating": 3.42,
-      "primaryGenres": [
-        "Melodic Death Metal",
-        "Folk Metal"
-      ],
-      "secondaryGenres": [
-        "Symphonic Metal"
-      ],
-      "descriptors": [
-        "heavy",
-        "energetic",
-        "melodic",
-        "epic",
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6c9BElMZYvZ9RII2anvp8N",
-        "appleMusic": "https://geo.music.apple.com/de/album/old-gods-awaken/1870544471",
-        "bandcamp": "https://atavistia.bandcamp.com/album/old-gods-awaken"
-      },
-      "enrichedAt": "2026-08-04T15:04:55.375Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/autumns-grey-solace/within-the-depths-of-a-darkened-forest",
@@ -1071,223 +1063,6 @@
         "bandcamp": "https://caladanbrood.bandcamp.com/album/echoes-of-battle"
       },
       "enrichedAt": "2026-05-20T23:53:31.774Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/candlemass/candlemass",
-      "title": "Candlemass",
-      "artist": "Candlemass",
-      "year": 2005,
-      "genres": [
-        "Epic Doom Metal",
-        "Doom Metal"
-      ],
-      "dateAdded": "2024-09-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/dec4b23a149385bf0ee541114f178c52/1645653",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/56832b14a80bdfa2a6e2a1d82dac8939/1645653",
-      "rymRating": 3.68,
-      "primaryGenres": [
-        "Epic Doom Metal",
-        "Doom Metal"
-      ],
-      "secondaryGenres": [
-        "Heavy Metal"
-      ],
-      "descriptors": [
-        "heavy",
-        "dark",
-        "fantasy",
-        "male vocalist",
-        "sombre",
-        "pessimistic",
-        "melodic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2YQUw9RIHb5K4I2cDD452f",
-        "appleMusic": "https://geo.music.apple.com/ru/album/candlemass/1460470925"
-      },
-      "enrichedAt": "2026-05-20T23:53:39.697Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/candy-claws/ceres-and-calypso-in-the-deep-time",
-      "title": "Ceres & Calypso in the Deep Time",
-      "artist": "Candy Claws",
-      "year": 2013,
-      "genres": [
-        "Dream Pop",
-        "Neo-Psychedelia",
-        "Shoegaze",
-        "Indie Pop"
-      ],
-      "dateAdded": "2025-10-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1bb97cf3c2d7c26a85d424b94140892d/11033201",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b5903c7090cf176fc7a6990f96c0792d/11033201",
-      "rymRating": 3.87,
-      "primaryGenres": [
-        "Dream Pop",
-        "Neo-Psychedelia",
-        "Shoegaze",
-        "Indie Pop"
-      ],
-      "secondaryGenres": [
-        "Psychedelic Pop",
-        "Noise Pop",
-        "Exotica",
-        "Indie Surf",
-        "Indietronica"
-      ],
-      "descriptors": [
-        "psychedelic",
-        "lush",
-        "tropical",
-        "dense",
-        "warm",
-        "Wall of Sound",
-        "fantasy",
-        "playful",
-        "ethereal",
-        "atmospheric",
-        "concept album",
-        "summer",
-        "surreal",
-        "melodic",
-        "nature",
-        "male vocalist",
-        "nonbinary vocalist",
-        "forest",
-        "uplifting",
-        "spring",
-        "hypnotic",
-        "noisy",
-        "aquatic",
-        "rhythmic",
-        "poetic",
-        "progressive",
-        "history",
-        "optimistic",
-        "bright",
-        "epic",
-        "female vocalist",
-        "hazy",
-        "prehistory",
-        "mysterious",
-        "maximalist",
-        "animals",
-        "romantic",
-        "twinkling",
-        "love",
-        "travel",
-        "complex",
-        "time",
-        "fuzzy",
-        "plants",
-        "escapism",
-        "triumphant",
-        "androgynous vocals",
-        "mellow",
-        "narrative",
-        "spiritual"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU",
-        "appleMusic": "https://geo.music.apple.com/us/album/ceres-calypso-in-the-deep-time/1198188125",
-        "bandcamp": "https://candyclaws.bandcamp.com/album/ceres-calypso-in-the-deep-time"
-      },
-      "enrichedAt": "2026-07-27T08:56:01.917Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/cannons/everything-glows",
-      "title": "Everything Glows",
-      "artist": "Cannons",
-      "year": 2026,
-      "genres": [
-        "Synthpop",
-        "Dream Pop"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/de1fe7ecef781db46388fc771d8cfcb7/14244741",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a19803c0fbee0ef6ce8f4731b65cc612/14244741",
-      "rymRating": 3.25,
-      "primaryGenres": [
-        "Synthpop",
-        "Dream Pop"
-      ],
-      "secondaryGenres": [
-        "Dance-Pop",
-        "Electropop"
-      ],
-      "descriptors": [
-        "hazy",
-        "love",
-        "female vocalist",
-        "pastiche",
-        "melodic",
-        "mellow",
-        "atmospheric"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr",
-        "appleMusic": "https://geo.music.apple.com/ca/album/everything-glows/1870989672"
-      },
-      "enrichedAt": "2026-08-04T15:04:59.530Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/cardiacs/guns",
-      "title": "Guns",
-      "artist": "Cardiacs",
-      "year": 1999,
-      "genres": [
-        "Art Punk",
-        "Progressive Rock",
-        "Neo-Psychedelia"
-      ],
-      "dateAdded": "2025-10-15",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e97641a3bf64530d2ea6c89316360901/8053277",
-      "rymRating": 3.7,
-      "primaryGenres": [
-        "Art Punk",
-        "Progressive Rock",
-        "Neo-Psychedelia"
-      ],
-      "secondaryGenres": [
-        "Progressive Pop",
-        "Zolo",
-        "Art Pop",
-        "Psychedelic Pop",
-        "Britpop",
-        "Experimental Rock"
-      ],
-      "descriptors": [
-        "psychedelic",
-        "quirky",
-        "playful",
-        "uncommon time signatures",
-        "space",
-        "complex",
-        "male vocalist",
-        "female vocalist",
-        "progressive",
-        "energetic",
-        "surreal",
-        "humorous",
-        "eclectic",
-        "aquatic",
-        "manic",
-        "melodic",
-        "futuristic",
-        "maximalist",
-        "Wall of Sound",
-        "animals",
-        "uplifting",
-        "bittersweet",
-        "chaotic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3NEKuUhH5UIsPGgFCtD87k",
-        "appleMusic": "https://geo.music.apple.com/us/album/guns/336779427",
-        "bandcamp": "https://alphabet-business-concern.bandcamp.com/album/guns"
-      },
-      "enrichedAt": "2026-06-17T15:48:31.688Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -2109,7 +1884,7 @@
         "Progressive Rock"
       ],
       "dateAdded": "2025-11-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/54992ce61182d8b5ed1baf50ac19990a/6894144",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/320ee3931987d2d5f52e212b1f2d7097/14915422",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/423160fa259c73f9ddbfd2034a2b397f/6894144",
       "rymRating": 3.68,
       "primaryGenres": [
@@ -2752,35 +2527,6 @@
         "appleMusic": "https://geo.music.apple.com/il/album/idler-wheel-is-wiser-than-driver-screw-whipping-cords/1462213924"
       },
       "enrichedAt": "2026-05-21T08:50:23.582Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/floex/papetura",
-      "title": "Papetura",
-      "artist": "Floex",
-      "year": 2021,
-      "genres": [
-        "Video Game Music",
-        "Ambient"
-      ],
-      "dateAdded": "2026-06-05",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/6058e18ebea7d855e4d26396b14a8115/9002316",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d46db14273a991a00f6c3919b234f886/9002316",
-      "rymRating": 3.51,
-      "primaryGenres": [
-        "Video Game Music",
-        "Ambient"
-      ],
-      "secondaryGenres": [
-        "Chamber Music"
-      ],
-      "descriptors": [
-        "instrumental"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6GGH4AF4EGa0PnlTiB1PXP",
-        "appleMusic": "https://geo.music.apple.com/us/album/papetura-original-game-soundtrack/1564134636"
-      },
-      "enrichedAt": "2026-06-05T20:01:31.285Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/fonderia/fonderia",
@@ -3633,6 +3379,49 @@
       "enrichedAt": "2026-05-21T08:57:28.957Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/hermanos-gutierrez/sonido-cosmico",
+      "title": "Sonido Cósmico",
+      "artist": "Hermanos Gutiérrez",
+      "year": 2024,
+      "genres": [
+        "Ambient Americana"
+      ],
+      "dateAdded": "2026-08-13",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/af777839adc3313d926515a1caf73b7c/11807583",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a4f664a754bad37b7b85795b2dac11e1/11807583",
+      "rymRating": 3.5,
+      "primaryGenres": [
+        "Ambient Americana"
+      ],
+      "secondaryGenres": [
+        "Spaghetti Western",
+        "Mexican Folk Music"
+      ],
+      "descriptors": [
+        "instrumental",
+        "mellow",
+        "atmospheric",
+        "warm",
+        "soothing",
+        "desert",
+        "Wild West",
+        "mysterious",
+        "calm",
+        "soft",
+        "pastoral",
+        "lonely",
+        "psychedelic",
+        "minimalistic",
+        "epic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t",
+        "appleMusic": "https://geo.music.apple.com/us/album/sonido-c%C3%B3smico/1728320036",
+        "bandcamp": "https://hermanosgutierrez.bandcamp.com/album/sonido-c-smico"
+      },
+      "enrichedAt": "2026-08-19T09:22:22.984Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/hesse-kassel/morir-saltando",
       "title": "Morir saltando",
       "artist": "Hesse Kassel",
@@ -4058,16 +3847,14 @@
       "artist": "Jethro Tull",
       "year": 1987,
       "genres": [
-        "Progressive Rock",
-        "AOR"
+        "Progressive Rock"
       ],
       "dateAdded": "2024-12-24",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/6c0e7979ba51d35684af8d68a9cfa17b/1698469",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/080eb0f226dcdd4e3ceafc26dd5ada4d/1698469",
-      "rymRating": 3.19,
+      "rymRating": 3.2,
       "primaryGenres": [
-        "Progressive Rock",
-        "AOR"
+        "Progressive Rock"
       ],
       "secondaryGenres": [
         "Folk Rock",
@@ -4085,7 +3872,7 @@
         "spotify": "https://open.spotify.com/album/7alK1pZj8wz5sg2Wm0nIYG",
         "appleMusic": "https://geo.music.apple.com/gb/album/crest-of-a-knave/699616724"
       },
-      "enrichedAt": "2026-05-21T08:58:25.991Z"
+      "enrichedAt": "2026-08-19T09:22:30.985Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/john-raymond-s-carey/shadowlands",
@@ -4583,70 +4370,6 @@
         "appleMusic": "https://geo.music.apple.com/ca/album/electric-pentagram/1498240324"
       },
       "enrichedAt": "2026-05-28T08:39:44.103Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/lula-cortes-e-ze-ramalho/paebiru",
-      "title": "Paêbirú",
-      "artist": "Lula Côrtes e Zé RamalhoLula CôrtesZé Ramalho",
-      "year": 1975,
-      "genres": [
-        "Udigrudi",
-        "Psychedelic Folk"
-      ],
-      "dateAdded": "2026-07-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/3b65cc99c19b0ac0a4b071d76c79088a/1592399",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4c1b7b223f456caca94230d85ff48655/1592399",
-      "rymRating": 3.83,
-      "primaryGenres": [
-        "Udigrudi",
-        "Psychedelic Folk"
-      ],
-      "secondaryGenres": [
-        "Baião",
-        "Avant-Folk",
-        "Progressive Folk",
-        "Jongo",
-        "Cantoria",
-        "Avant-Garde Jazz",
-        "Experimental Rock"
-      ],
-      "descriptors": [
-        "surreal",
-        "psychedelic",
-        "tribal",
-        "folklore",
-        "eclectic",
-        "nature",
-        "avant-garde",
-        "mysterious",
-        "natural",
-        "male vocalist",
-        "concept album",
-        "aquatic",
-        "poetic",
-        "spiritual",
-        "hypnotic",
-        "mythology",
-        "dense",
-        "religious",
-        "improvisation",
-        "energetic",
-        "forest",
-        "tropical",
-        "progressive",
-        "atmospheric",
-        "hallucinogens",
-        "fire",
-        "occult",
-        "grassland"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0o3ZYaMU4BIrJ8ofWkMQ5q",
-        "appleMusic": "https://geo.music.apple.com/us/album/paebiru/781188525",
-        "youtube": "https://www.youtube.com/watch?v=INGuWsZ8oN4",
-        "bandcamp": "https://mrbongo.bandcamp.com/album/pa-bir"
-      },
-      "enrichedAt": "2026-07-27T08:56:51.402Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/lycia/cold",
@@ -5501,16 +5224,16 @@
       "artist": "Mydreamfever",
       "year": 2026,
       "genres": [
-        "Ambient",
-        "Drone"
+        "Drone",
+        "Ambient"
       ],
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/4acf8a5aae5b52b12e2d05cee9c3699b/14361748",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/76ed5122711475c36a0f77fcb4cd58b3/14361748",
-      "rymRating": 3.5,
+      "rymRating": 3.52,
       "primaryGenres": [
-        "Ambient",
-        "Drone"
+        "Drone",
+        "Ambient"
       ],
       "secondaryGenres": [
         "Field Recording"
@@ -5529,7 +5252,7 @@
         "youtube": "https://www.youtube.com/watch?v=lq1CTtEoKlw",
         "bandcamp": "https://mydreamfever.bandcamp.com/album/5-in-the-same-light"
       },
-      "enrichedAt": "2026-08-04T15:05:27.842Z"
+      "enrichedAt": "2026-08-19T09:22:34.330Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/nailed-to-obscurity/king-delusion",
@@ -5758,8 +5481,8 @@
       "enrichedAt": "2026-05-28T08:39:51.392Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/ok-goodnight/stop_go",
-      "title": "Stop/Go",
+      "url": "https://rateyourmusic.com/release/album/ok-goodnight/stop-go",
+      "title": "Stop / Go",
       "artist": "Ok Goodnight",
       "year": 2026,
       "genres": [
@@ -5769,7 +5492,7 @@
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/639b8aba1963f7f31ed4e1a6e88e6637/14622382",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3238253fc91e502ad6db09544a89d350/14622382",
-      "rymRating": 3.56,
+      "rymRating": 3.53,
       "primaryGenres": [
         "Progressive Metal",
         "Progressive Rock"
@@ -5777,7 +5500,8 @@
       "secondaryGenres": [
         "Math Rock",
         "Djent",
-        "Art Rock"
+        "Art Rock",
+        "Alternative Metal"
       ],
       "descriptors": [
         "eclectic",
@@ -5811,7 +5535,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/stop-go/6769273489",
         "bandcamp": "https://okgoodnight.bandcamp.com/album/stop-go"
       },
-      "enrichedAt": "2026-08-04T15:05:32.226Z"
+      "enrichedAt": "2026-08-19T09:22:38.273Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/orphaned-land/mabool-the-story-of-the-three-sons-of-seven",
@@ -6623,6 +6347,37 @@
       }
     },
     {
+      "url": "https://rateyourmusic.com/release/ep/s-carey/watercress",
+      "title": "Watercress",
+      "artist": "S. Carey",
+      "year": 2025,
+      "genres": [
+        "Indie Folk"
+      ],
+      "dateAdded": "2026-08-11",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ec7c8fb6a9066b282fed4d715d8d2a03/13697751",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7aaa10e93c91813b845346896e46bccf/13697751",
+      "rymRating": 3.38,
+      "primaryGenres": [
+        "Indie Folk"
+      ],
+      "secondaryGenres": [
+        "Chamber Folk"
+      ],
+      "descriptors": [
+        "longing",
+        "peaceful",
+        "pastoral",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW",
+        "appleMusic": "https://geo.music.apple.com/us/album/watercress-ep/1831024861",
+        "bandcamp": "https://scarey.bandcamp.com/album/watercress"
+      },
+      "enrichedAt": "2026-08-19T09:22:41.881Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/ep/sages/sages",
       "title": "SAGES",
       "artist": "SAGES",
@@ -6939,6 +6694,44 @@
       "enrichedAt": "2026-05-21T12:06:17.376Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/stratovarius/nemesis",
+      "title": "Nemesis",
+      "artist": "Stratovarius",
+      "year": 2013,
+      "genres": [
+        "Power Metal"
+      ],
+      "dateAdded": "2015-12-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/7b05bee7d430abdc2cb3443e2f582513/4486718",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/93fd0b71de166e05e7e8cf142ebd9580/4486718",
+      "rymRating": 3.51,
+      "primaryGenres": [
+        "Power Metal"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal",
+        "Trance Metal"
+      ],
+      "descriptors": [
+        "energetic",
+        "melodic",
+        "anthemic",
+        "triumphant",
+        "uplifting",
+        "epic",
+        "passionate",
+        "male vocalist",
+        "fantasy",
+        "technical",
+        "heavy"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La",
+        "appleMusic": "https://geo.music.apple.com/us/album/nemesis-special-edition/1308547892"
+      },
+      "enrichedAt": "2026-08-19T09:22:46.299Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/stratus-luna/stratus-luna",
       "title": "Stratus Luna",
       "artist": "Stratus Luna",
@@ -7120,59 +6913,6 @@
         "bandcamp": "https://suotana.bandcamp.com/album/frostrealm"
       },
       "enrichedAt": "2026-05-21T12:07:03.672Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/tete/pirareta",
-      "title": "Piraretã",
-      "artist": "Tetê",
-      "year": 1980,
-      "genres": [
-        "Psychedelic Folk",
-        "Brazilian Folk Music",
-        "MPB"
-      ],
-      "dateAdded": "2026-07-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a66c06841fa6b11252f86aac9e2d7d77/9983275",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6f163942ceb439fc3a66ab5b53bdd8e7/9983275",
-      "rymRating": 3.78,
-      "primaryGenres": [
-        "Psychedelic Folk",
-        "Brazilian Folk Music",
-        "MPB",
-        "Vanguarda paulista"
-      ],
-      "secondaryGenres": [
-        "Sertanejo de raiz",
-        "Avant-Folk",
-        "Progressive Folk"
-      ],
-      "descriptors": [
-        "nature",
-        "acoustic",
-        "pastoral",
-        "folklore",
-        "quirky",
-        "psychedelic",
-        "melodic",
-        "female vocalist",
-        "animals",
-        "warm",
-        "passionate",
-        "romantic",
-        "uplifting",
-        "natural",
-        "poetic",
-        "avant-garde",
-        "progressive",
-        "playful",
-        "love",
-        "forest"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4XcF2DmT0vn5HsZ2d4J3BT",
-        "appleMusic": "https://geo.music.apple.com/gb/album/piraret%C3%A3/1682514768"
-      },
-      "enrichedAt": "2026-07-27T08:57:16.669Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/thank-you-scientist/terraformer",
