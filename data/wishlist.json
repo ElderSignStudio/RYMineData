@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-19T13:20:55.818Z",
+  "lastScrapedAt": "2026-08-25T14:21:33.066Z",
   "source": "rym",
   "albums": [
     {
@@ -98,62 +98,46 @@
       "enrichedAt": "2026-08-04T15:04:48.720Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/a_l_i_s_o_n/space-station",
-      "title": "Space Station",
-      "artist": "A.L.I.S.O.N",
-      "year": 2018,
+      "url": "https://rateyourmusic.com/release/album/aenigmatum/infinitudes-passage",
+      "title": "Infinitude's Passage",
+      "artist": "Ænigmatum",
+      "year": 2026,
       "genres": [
-        "Chillsynth"
+        "Technical Death Metal",
+        "Progressive Metal"
       ],
-      "dateAdded": "2026-07-07",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/287dbea6e3c1e51d0bff2536dbf534cb/7206617",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/43ffafa9c42f89fac1d14c37c00940fb/7206617",
-      "rymRating": 3.37,
+      "dateAdded": "2026-08-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1febe6f362027e10fb7a8a2b0494bfcd/14879922",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/89f2920ff678420a1f1a773580326637/14879922",
+      "rymRating": 3.64,
       "primaryGenres": [
-        "Chillsynth"
+        "Technical Death Metal",
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Melodic Death Metal"
       ],
       "descriptors": [
-        "calm",
-        "mellow",
-        "warm",
-        "space"
+        "heavy",
+        "dark",
+        "technical",
+        "growling",
+        "dense",
+        "complex",
+        "aggressive",
+        "blast beats",
+        "abstract",
+        "eclectic",
+        "male vocalist",
+        "mysterious",
+        "ethereal"
       ],
       "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4P37rs1585bEw5G0OCO2tW",
-        "appleMusic": "https://geo.music.apple.com/us/album/space-station/1655338565",
-        "bandcamp": "https://alison4.bandcamp.com/album/space-station"
+        "spotify": "https://open.spotify.com/album/0i70PM1a953cfloCHwp3ST",
+        "appleMusic": "https://geo.music.apple.com/de/album/infinitudes-passage/6791218675",
+        "youtube": "https://www.youtube.com/watch?v=S0nDnmfXuro"
       },
-      "enrichedAt": "2026-08-19T09:32:18.963Z",
-      "secondaryGenres": [
-        "Dreamwave"
-      ],
-      "myRating": 3.5
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/adam-ben-ezra-trio/cant-stop-running",
-      "title": "Can't Stop Running",
-      "artist": "Adam Ben Ezra Trio",
-      "year": 2015,
-      "genres": [
-        "Chamber Jazz"
-      ],
-      "dateAdded": "2026-08-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ab63fc2764849dd4a9aa861f489b40c2/6533963",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6bc972fd4d75d8227d98982ab6ec5964/6533963",
-      "rymRating": 3.73,
-      "primaryGenres": [
-        "Chamber Jazz"
-      ],
-      "secondaryGenres": [
-        "Flamenco nuevo",
-        "ECM Style Jazz",
-        "Jewish Music"
-      ],
-      "myRating": 3.5,
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3bISOs3G2Skjswxe3e7aOd"
-      },
-      "enrichedAt": "2026-08-19T09:22:14.311Z"
+      "enrichedAt": "2026-08-25T14:20:59.533Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
@@ -899,92 +883,6 @@
       "enrichedAt": "2026-05-20T23:53:04.217Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/boards-of-canada/inferno",
-      "title": "Inferno",
-      "artist": "Boards of Canada",
-      "year": 2026,
-      "genres": [
-        "Downtempo",
-        "Hauntology",
-        "IDM"
-      ],
-      "dateAdded": "2026-06-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/4d971a24e15bee4348b8050cb62cda19/14532480",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4aa48e4b0e3e961985dd50951498ed53/14532480",
-      "rymRating": 3.85,
-      "primaryGenres": [
-        "Downtempo",
-        "Hauntology",
-        "IDM"
-      ],
-      "secondaryGenres": [
-        "Ambient",
-        "Progressive Electronic",
-        "Neo-Psychedelia",
-        "Synthwave",
-        "Hauntology",
-        "IDM"
-      ],
-      "descriptors": [
-        "cryptic",
-        "ominous",
-        "vocal chops",
-        "sampling",
-        "atmospheric",
-        "mysterious",
-        "psychedelic",
-        "occult",
-        "hazy",
-        "surreal",
-        "spiritual",
-        "religious",
-        "afterlife",
-        "ritualistic",
-        "dark",
-        "ethereal",
-        "rhythmic",
-        "hypnotic",
-        "pitched-down vocals",
-        "bittersweet",
-        "dense",
-        "existential",
-        "memory",
-        "repetitive",
-        "science",
-        "progressive",
-        "eclectic",
-        "paranormal",
-        "lush",
-        "melancholic",
-        "instrumental",
-        "apocalyptic",
-        "nocturnal",
-        "time",
-        "concept album",
-        "warm",
-        "desolate",
-        "suspenseful",
-        "decay",
-        "death",
-        "philosophical",
-        "futuristic",
-        "melodic",
-        "sombre",
-        "fire",
-        "space",
-        "warbly"
-      ],
-      "myRating": 5,
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p",
-        "appleMusic": "https://geo.music.apple.com/us/album/inferno/1890015523",
-        "bandcamp": "https://boardsofcanada.bandcamp.com/album/inferno"
-      },
-      "enrichedAt": "2026-07-27T08:55:56.360Z",
-      "onDeck": true,
-      "onDeckAt": "2026-08-04T15:06:26.894Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/brymir/wings-of-fire",
       "title": "Wings of Fire",
       "artist": "Brymir",
@@ -1069,6 +967,186 @@
         "bandcamp": "https://caladanbrood.bandcamp.com/album/echoes-of-battle"
       },
       "enrichedAt": "2026-05-20T23:53:31.774Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/candlemass/candlemass",
+      "title": "Candlemass",
+      "artist": "Candlemass",
+      "year": 2005,
+      "genres": [
+        "Epic Doom Metal",
+        "Doom Metal"
+      ],
+      "dateAdded": "2024-09-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/dec4b23a149385bf0ee541114f178c52/1645653",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/56832b14a80bdfa2a6e2a1d82dac8939/1645653",
+      "rymRating": 3.67,
+      "primaryGenres": [
+        "Epic Doom Metal",
+        "Doom Metal"
+      ],
+      "secondaryGenres": [
+        "Heavy Metal"
+      ],
+      "descriptors": [
+        "heavy",
+        "dark",
+        "male vocalist",
+        "sombre",
+        "fantasy",
+        "pessimistic",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2YQUw9RIHb5K4I2cDD452f",
+        "appleMusic": "https://geo.music.apple.com/ru/album/candlemass/1460470925"
+      },
+      "enrichedAt": "2026-08-25T14:21:03.850Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/candy-claws/ceres-and-calypso-in-the-deep-time",
+      "title": "Ceres & Calypso in the Deep Time",
+      "artist": "Candy Claws",
+      "year": 2013,
+      "genres": [
+        "Dream Pop",
+        "Neo-Psychedelia",
+        "Shoegaze",
+        "Indie Pop"
+      ],
+      "dateAdded": "2025-10-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1bb97cf3c2d7c26a85d424b94140892d/11033201",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b5903c7090cf176fc7a6990f96c0792d/11033201",
+      "rymRating": 3.87,
+      "primaryGenres": [
+        "Dream Pop",
+        "Neo-Psychedelia",
+        "Shoegaze",
+        "Indie Pop"
+      ],
+      "secondaryGenres": [
+        "Psychedelic Pop",
+        "Noise Pop",
+        "Exotica",
+        "Indie Surf",
+        "Indietronica"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "lush",
+        "tropical",
+        "dense",
+        "warm",
+        "Wall of Sound",
+        "fantasy",
+        "playful",
+        "ethereal",
+        "atmospheric",
+        "concept album",
+        "summer",
+        "surreal",
+        "melodic",
+        "nature",
+        "male vocalist",
+        "forest",
+        "nonbinary vocalist",
+        "uplifting",
+        "hypnotic",
+        "spring",
+        "noisy",
+        "aquatic",
+        "rhythmic",
+        "poetic",
+        "progressive",
+        "history",
+        "optimistic",
+        "bright",
+        "female vocalist",
+        "epic",
+        "hazy",
+        "mysterious",
+        "maximalist",
+        "prehistory",
+        "complex",
+        "animals",
+        "love",
+        "romantic",
+        "twinkling",
+        "travel",
+        "time",
+        "plants",
+        "fuzzy",
+        "escapism",
+        "triumphant",
+        "mellow",
+        "androgynous vocals"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU",
+        "appleMusic": "https://geo.music.apple.com/us/album/ceres-calypso-in-the-deep-time/1198188125",
+        "bandcamp": "https://candyclaws.bandcamp.com/album/ceres-calypso-in-the-deep-time"
+      },
+      "enrichedAt": "2026-08-25T14:21:09.573Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/cardiacs/guns",
+      "title": "Guns",
+      "artist": "Cardiacs",
+      "year": 1999,
+      "genres": [
+        "Art Punk",
+        "Progressive Rock",
+        "Neo-Psychedelia"
+      ],
+      "dateAdded": "2025-10-15",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/e666a3d9fa292c12eac5267b64e5ed71/8053277",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e97641a3bf64530d2ea6c89316360901/8053277",
+      "rymRating": 3.69,
+      "primaryGenres": [
+        "Art Punk",
+        "Progressive Rock",
+        "Neo-Psychedelia"
+      ],
+      "secondaryGenres": [
+        "Progressive Pop",
+        "Zolo",
+        "Psychedelic Pop",
+        "Art Pop",
+        "Britpop",
+        "Experimental Rock"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "quirky",
+        "playful",
+        "uncommon time signatures",
+        "space",
+        "complex",
+        "male vocalist",
+        "female vocalist",
+        "progressive",
+        "energetic",
+        "surreal",
+        "humorous",
+        "eclectic",
+        "manic",
+        "melodic",
+        "aquatic",
+        "futuristic",
+        "maximalist",
+        "Wall of Sound",
+        "animals",
+        "uplifting",
+        "bittersweet",
+        "chaotic",
+        "pitched-up vocals"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3NEKuUhH5UIsPGgFCtD87k",
+        "appleMusic": "https://geo.music.apple.com/us/album/guns/336779427",
+        "bandcamp": "https://alphabet-business-concern.bandcamp.com/album/guns"
+      },
+      "enrichedAt": "2026-08-25T14:21:14.219Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -2316,16 +2394,16 @@
       "artist": "Father of Peace",
       "year": 2024,
       "genres": [
-        "Indie Rock",
-        "Alternative Rock"
+        "Alternative Rock",
+        "Indie Rock"
       ],
       "dateAdded": "2025-09-18",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/88dbf3149941d6dd69793984193b3e24/12651180",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/fef0348ef98cc50b0bd36784e9b39dca/12651180",
       "rymRating": 3.33,
       "primaryGenres": [
-        "Indie Rock",
-        "Alternative Rock"
+        "Alternative Rock",
+        "Indie Rock"
       ],
       "secondaryGenres": [
         "Indie Pop",
@@ -2341,69 +2419,7 @@
         "spotify": "https://open.spotify.com/album/3FYr4G6usest9t7afQU15w",
         "appleMusic": "https://geo.music.apple.com/us/album/the-year-of-madness/1768603242"
       },
-      "enrichedAt": "2026-05-21T08:50:14.391Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/feeble-little-horse/bitknot",
-      "title": "Bitknot",
-      "artist": "Feeble Little Horse",
-      "year": 2026,
-      "genres": [
-        "Indie Pop",
-        "Indietronica",
-        "Slacker Rock"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/7c557147e289b84587f07f621713274f/14652726",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/82fda3e3cb5df2d2c7d299e4e397bd3d/14652726",
-      "rymRating": 3.51,
-      "primaryGenres": [
-        "Indie Pop",
-        "Indietronica",
-        "Slacker Rock"
-      ],
-      "secondaryGenres": [
-        "Noise Pop",
-        "Dream Pop",
-        "Bedroom Pop",
-        "Shoegaze"
-      ],
-      "descriptors": [
-        "lush",
-        "quirky",
-        "playful",
-        "melodic",
-        "fuzzy",
-        "futuristic",
-        "deadpan",
-        "cryptic",
-        "female vocalist",
-        "buzzy",
-        "hypnotic",
-        "bittersweet",
-        "surreal",
-        "introspective",
-        "vocal chops",
-        "money",
-        "shopping",
-        "noisy",
-        "hazy",
-        "fashion",
-        "abstract",
-        "phones",
-        "travel",
-        "anxious",
-        "bright",
-        "cosmetics",
-        "sentimental"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ",
-        "appleMusic": "https://geo.music.apple.com/gb/album/bitknot/1892136714",
-        "bandcamp": "https://feeblelittlehorse.bandcamp.com/album/bitknot"
-      },
-      "enrichedAt": "2026-08-19T11:15:58.234Z",
-      "myRating": 3.5
+      "enrichedAt": "2026-08-25T14:21:18.603Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/fiction/lucifer-%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%81%8A%E4%BA%BA%E5%BD%A2",
@@ -3004,57 +3020,6 @@
       "enrichedAt": "2026-08-04T15:05:12.625Z",
       "onDeck": true,
       "onDeckAt": "2026-08-04T15:06:33.133Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/hallas/panorama",
-      "title": "Panorama",
-      "artist": "Hällas",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Hard Rock"
-      ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/724ae696bc128959fb62d65047f2c53e/13873659",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bb9a0027443b5988c5a7c15a8d984e56/13873659",
-      "rymRating": 3.47,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Hard Rock"
-      ],
-      "secondaryGenres": [
-        "Symphonic Prog",
-        "AOR"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "progressive",
-        "epic",
-        "theatrical",
-        "complex",
-        "melodic",
-        "fantasy",
-        "eclectic",
-        "space",
-        "nature",
-        "psychedelic",
-        "daytime",
-        "introspective",
-        "poetic",
-        "uplifting",
-        "energetic",
-        "mellow",
-        "orchestral"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/35FbyFwCDgXpkSLIWDzQ0y",
-        "appleMusic": "https://geo.music.apple.com/it/album/panorama/1850608228",
-        "bandcamp": "https://haellas.bandcamp.com/album/panorama"
-      },
-      "enrichedAt": "2026-08-19T13:20:55.818Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-31T11:17:34.168Z",
-      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/happy-the-man/happy-the-man",
@@ -3913,61 +3878,6 @@
         "bandcamp": "https://libelluleeditions.bandcamp.com/album/shadowlands"
       },
       "enrichedAt": "2026-05-21T10:48:34.170Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/julianna-barwick-mary-lattimore/tragic-magic",
-      "title": "Tragic Magic",
-      "artist": "Julianna Barwick & Mary Lattimore",
-      "year": 2026,
-      "genres": [
-        "Ambient",
-        "Chamber Folk"
-      ],
-      "dateAdded": "2026-01-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a5a862f12ace08dc823a1d739d8f1543/13847367",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/281ec35be02379261c10bc737b5b907d/13847367",
-      "rymRating": 3.4,
-      "primaryGenres": [
-        "Ambient",
-        "Chamber Folk"
-      ],
-      "secondaryGenres": [
-        "Neoclassical New Age",
-        "Post-Minimalism"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "ethereal",
-        "soothing",
-        "atmospheric",
-        "melodic",
-        "peaceful",
-        "twinkling",
-        "spring",
-        "bright",
-        "pastoral",
-        "warm",
-        "spiritual",
-        "meditative",
-        "soft",
-        "calm",
-        "daytime",
-        "lush",
-        "forest",
-        "smooth",
-        "minimalistic",
-        "fairy tale",
-        "cozy",
-        "surreal",
-        "grassland"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1Y2iL8AjADwMh1EMMnKaQm",
-        "appleMusic": "https://geo.music.apple.com/us/album/tragic-magic/1843854211",
-        "bandcamp": "https://marylattimoreharpist.bandcamp.com/album/tragic-magic"
-      },
-      "enrichedAt": "2026-08-19T12:13:40.778Z",
-      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/kaataira/caminhos-de-agua",
@@ -5305,15 +5215,17 @@
       "year": 2026,
       "genres": [
         "Art Pop",
-        "Neo-Psychedelia"
+        "Neo-Psychedelia",
+        "Hypnagogic Pop"
       ],
       "dateAdded": "2026-07-25",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/3614a115bcdc3be84202641f3410299e/14621192",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5c986b9fa4bb31b7c91cb14448ccbcc2/14621192",
-      "rymRating": 3.62,
+      "rymRating": 3.58,
       "primaryGenres": [
         "Art Pop",
-        "Neo-Psychedelia"
+        "Neo-Psychedelia",
+        "Hypnagogic Pop"
       ],
       "secondaryGenres": [
         "Sophisti-Pop",
@@ -5325,24 +5237,25 @@
       "descriptors": [
         "gay",
         "lo-fi",
-        "eclectic",
         "male vocalist",
+        "eclectic",
         "sexual",
         "psychedelic",
         "mellow",
         "surreal",
         "nocturnal",
-        "atmospheric",
         "sensual",
         "rhythmic",
+        "atmospheric",
         "smooth",
-        "raw",
         "repetitive",
+        "raw",
         "hazy",
         "dancing",
-        "love",
-        "hypnotic",
         "mysterious",
+        "hypnotic",
+        "love",
+        "falsetto",
         "about music"
       ],
       "streamingLinks": {
@@ -5350,9 +5263,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/my-skyscraper/6769192019",
         "bandcamp": "https://ulyssa.bandcamp.com/album/my-skyscraper"
       },
-      "enrichedAt": "2026-07-27T08:57:00.181Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-27T10:05:16.462Z"
+      "enrichedAt": "2026-08-25T14:21:24.441Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
@@ -5667,68 +5578,6 @@
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/prehensile-tales"
       },
       "enrichedAt": "2026-05-21T11:05:56.698Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/paul-mccartney/the-boys-of-dungeon-lane",
-      "title": "The Boys of Dungeon Lane",
-      "artist": "Paul McCartney",
-      "year": 2026,
-      "genres": [
-        "Pop Rock",
-        "Singer-Songwriter"
-      ],
-      "dateAdded": "2026-07-09",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/434784f5a753351be9757a8be814ac1a/14435296",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9067134b1c2189deaa06a406796febf9/14435296",
-      "rymRating": 3.4,
-      "primaryGenres": [
-        "Pop Rock",
-        "Singer-Songwriter"
-      ],
-      "secondaryGenres": [
-        "Folk Rock",
-        "Baroque Pop",
-        "Folk Pop",
-        "Psychedelic Pop",
-        "Progressive Pop"
-      ],
-      "descriptors": [
-        "nostalgia",
-        "male vocalist",
-        "melodic",
-        "bittersweet",
-        "introspective",
-        "everyday life",
-        "suburban",
-        "friendship",
-        "sentimental",
-        "childhood",
-        "memory",
-        "playful",
-        "lush",
-        "love",
-        "family",
-        "soft",
-        "bright",
-        "mellow",
-        "optimistic",
-        "warm",
-        "uplifting",
-        "longing",
-        "ageing",
-        "domestic",
-        "eclectic",
-        "happy",
-        "older adulthood"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM",
-        "appleMusic": "https://geo.music.apple.com/us/album/the-boys-of-dungeon-lane/1887402919",
-        "bandcamp": "https://paulmccartneymusics.bandcamp.com/album/the-boys-of-dungeon-lane"
-      },
-      "enrichedAt": "2026-07-27T08:57:08.369Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-27T08:59:07.999Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
@@ -6557,6 +6406,98 @@
       "enrichedAt": "2026-06-05T09:55:41.414Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/slayyyter/wor_t-girl-in-america",
+      "title": "Wor$t Girl in America",
+      "artist": "Slayyyter",
+      "year": 2026,
+      "genres": [
+        "Electropop",
+        "Electroclash",
+        "Electro House"
+      ],
+      "dateAdded": "2026-08-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ee162ac145179f3088afceaaeac2bdbb/14164751",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b4a83599bc634b8443caccf323b2b8ad/14164751",
+      "rymRating": 3.75,
+      "primaryGenres": [
+        "Electropop",
+        "Electroclash",
+        "Electro House",
+        "Indie Sleaze Revival"
+      ],
+      "secondaryGenres": [
+        "French Electro",
+        "Electro-Industrial",
+        "Dance-Pop",
+        "New Rave",
+        "Midtempo Bass"
+      ],
+      "descriptors": [
+        "party",
+        "aggressive",
+        "drugs",
+        "hedonism",
+        "noisy",
+        "fame",
+        "vulgar",
+        "energetic",
+        "buzzy",
+        "female vocalist",
+        "rebellious",
+        "dense",
+        "manic",
+        "bassy",
+        "boastful",
+        "mechanical",
+        "nightlife",
+        "bisexual",
+        "punchy",
+        "escapism",
+        "nocturnal",
+        "money",
+        "alcohol",
+        "sexual",
+        "love",
+        "fashion",
+        "death",
+        "maximalist",
+        "cynical",
+        "heavy",
+        "anthemic",
+        "longing",
+        "melodic",
+        "rhythmic",
+        "individuality",
+        "fuzzy",
+        "rejection",
+        "dark",
+        "eclectic",
+        "repetitive",
+        "insecure",
+        "obsession",
+        "suicide",
+        "chaotic",
+        "angry",
+        "dancing",
+        "self-hatred",
+        "raw",
+        "sassy",
+        "entertainment industry",
+        "sing-rapping",
+        "ominous",
+        "four on the floor",
+        "passionate",
+        "suspenseful",
+        "beauty"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA",
+        "appleMusic": "https://geo.music.apple.com/us/album/wor%24t-girl-in-america/1867530577",
+        "bandcamp": "https://slayyytersongs.bandcamp.com/album/wor-t-girl-in-america"
+      },
+      "enrichedAt": "2026-08-25T14:21:28.651Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/st-vincent/st-vincent",
       "title": "St. Vincent",
       "artist": "St. Vincent",
@@ -6809,42 +6750,6 @@
       "enrichedAt": "2026-05-21T12:06:43.449Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/sugar-plant/one-dream-one-star",
-      "title": "One Dream, One Star",
-      "artist": "Sugar Plant",
-      "year": 2026,
-      "genres": [
-        "Dream Pop",
-        "Indie Pop"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/79dd98ddabced51fd4e6e9b589550dbb/14166356",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3fcba7940b0ef851dbb7ea28781157d7/14166356",
-      "rymRating": 3.44,
-      "primaryGenres": [
-        "Dream Pop",
-        "Indie Pop"
-      ],
-      "secondaryGenres": [
-        "Ambient Pop"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "sentimental",
-        "nocturnal",
-        "mellow",
-        "ethereal",
-        "lush"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/46RPLwDuUYeWLqg9mtSKCz",
-        "appleMusic": "https://geo.music.apple.com/jp/album/one-dream-one-star/1879987459",
-        "bandcamp": "https://kilikilivilla.bandcamp.com/album/one-dream-one-star"
-      },
-      "enrichedAt": "2026-08-19T09:55:58.499Z",
-      "myRating": 3
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/sumner-mckane/allot-upon-mostly-solo-electric-guitar",
       "title": "Allot Upon - Mostly Solo Electric Guitar",
       "artist": "Sumner McKane",
@@ -6932,14 +6837,16 @@
       "artist": "Thank You Scientist",
       "year": 2019,
       "genres": [
-        "Progressive Rock"
+        "Progressive Rock",
+        "Jazz-Rock"
       ],
       "dateAdded": "2024-09-05",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/349fd74a8fdc4303551d5d5c6a584d34/7606165",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6a6f484f1ff858a7261f116645f497b2/7606165",
       "rymRating": 3.61,
       "primaryGenres": [
-        "Progressive Rock"
+        "Progressive Rock",
+        "Jazz-Rock"
       ],
       "secondaryGenres": [
         "Jazz Fusion",
@@ -6952,22 +6859,26 @@
       "descriptors": [
         "progressive",
         "technical",
-        "uncommon time signatures",
         "male vocalist",
         "playful",
-        "melodic",
+        "uncommon time signatures",
         "complex",
+        "melodic",
         "anthemic",
         "eclectic",
         "introspective",
-        "maximalist"
+        "twinkling",
+        "maximalist",
+        "bright",
+        "warm",
+        "lush"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/1eStwpifoxHYRsCrPheX4l",
         "appleMusic": "https://geo.music.apple.com/mn/album/terraformer/1459372551",
         "bandcamp": "https://thankyouscientist.bandcamp.com/album/terraformer"
       },
-      "enrichedAt": "2026-05-21T12:07:24.675Z"
+      "enrichedAt": "2026-08-25T14:21:33.066Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-chronicles-of-father-robin/the-songs-and-tales-of-airoea-book-i-the-tale-of-father-robin-state-of-nature",
@@ -7980,7 +7891,7 @@
         "Progressive Rock"
       ],
       "dateAdded": "2025-10-03",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e76dceb6b3507398800cad7c30edaed8/11291545",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/6a40f20325d1e1fe5710b3baaa420434/14948194",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/791f0af8d47cb466f3854f406339e145/11291545",
       "rymRating": 3.43,
       "primaryGenres": [
@@ -8001,46 +7912,6 @@
         "bandcamp": "https://unitopia.bandcamp.com/album/seven-chambers-24-bit-hi-res"
       },
       "enrichedAt": "2026-05-21T12:28:55.492Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/unlucky-morpheus/gate-of-hell",
-      "title": "Gate of Hell",
-      "artist": "Unlucky Morpheus",
-      "year": 2026,
-      "genres": [
-        "Symphonic Metal",
-        "Power Metal"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/f6cb8cc3a73e1f1abe69421f3a658cbe/14612067",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3f05300d629d37705d50958a387f0382/14612067",
-      "rymRating": 3.64,
-      "primaryGenres": [
-        "Symphonic Metal",
-        "Power Metal"
-      ],
-      "secondaryGenres": [
-        "Melodic Death Metal",
-        "Neoclassical Metal"
-      ],
-      "descriptors": [
-        "energetic",
-        "female vocalist",
-        "heavy",
-        "male vocalist",
-        "harsh vocals",
-        "melodic",
-        "epic",
-        "technical",
-        "dark",
-        "eclectic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0Zvj1h53L5PBGGsvsPZjIS",
-        "appleMusic": "https://geo.music.apple.com/it/album/gate-of-hell/6772410272"
-      },
-      "enrichedAt": "2026-08-19T09:33:10.761Z",
-      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/van-halen/for-unlawful-carnal-knowledge",
