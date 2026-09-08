@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-08-25T14:21:33.066Z",
+  "lastScrapedAt": "2026-09-08T17:40:37.898Z",
   "source": "rym",
   "albums": [
     {
@@ -53,51 +53,6 @@
       "onDeckAt": "2026-08-04T15:06:23.535Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/a-forest-of-stars/stack-overflow-in-corpse-pile-interface",
-      "title": "Stack Overflow in Corpse Pile Interface",
-      "artist": "A Forest of Stars",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Avant-Garde Metal",
-        "Atmospheric Black Metal"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/87330b858ee85d4247f59fb1ace60067/14271628",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8ecfe5ff6a253e06fd53c3d85bfe0f1a/14271628",
-      "rymRating": 3.55,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Avant-Garde Metal",
-        "Atmospheric Black Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "psychedelic",
-        "sombre",
-        "atmospheric",
-        "female vocalist",
-        "melancholic",
-        "nocturnal",
-        "political",
-        "avant-garde",
-        "dark",
-        "progressive",
-        "occult",
-        "ominous",
-        "heavy",
-        "manic",
-        "poetic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0mlhi1whQOvQRCWFqCEn5T",
-        "appleMusic": "https://geo.music.apple.com/us/album/stack-overflow-in-corpse-pile-interface/1870195362",
-        "youtube": "https://www.youtube.com/watch?v=o7wDFK_7_CI",
-        "bandcamp": "https://a-forest-of-stars.bandcamp.com/album/stack-overflow-in-corpse-pile-interface"
-      },
-      "enrichedAt": "2026-08-04T15:04:48.720Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/aenigmatum/infinitudes-passage",
       "title": "Infinitude's Passage",
       "artist": "Ænigmatum",
@@ -109,7 +64,7 @@
       "dateAdded": "2026-08-25",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/1febe6f362027e10fb7a8a2b0494bfcd/14879922",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/89f2920ff678420a1f1a773580326637/14879922",
-      "rymRating": 3.64,
+      "rymRating": 3.61,
       "primaryGenres": [
         "Technical Death Metal",
         "Progressive Metal"
@@ -129,15 +84,15 @@
         "abstract",
         "eclectic",
         "male vocalist",
-        "mysterious",
-        "ethereal"
+        "mysterious"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/0i70PM1a953cfloCHwp3ST",
         "appleMusic": "https://geo.music.apple.com/de/album/infinitudes-passage/6791218675",
         "youtube": "https://www.youtube.com/watch?v=S0nDnmfXuro"
       },
-      "enrichedAt": "2026-08-25T14:20:59.533Z"
+      "enrichedAt": "2026-09-08T15:33:34.129Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
@@ -635,6 +590,41 @@
         "bandcamp": "https://autumnsgreysolace.bandcamp.com/album/within-the-depths-of-a-darkened-forest"
       },
       "enrichedAt": "2026-05-20T23:46:51.032Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/axel-rudi-pell/magic",
+      "title": "Magic",
+      "artist": "Axel Rudi Pell",
+      "year": 1997,
+      "genres": [
+        "Heavy Metal",
+        "Power Metal"
+      ],
+      "dateAdded": "2026-08-29",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/03b84136dc1bc4c5e70d721fcafbd244/2705437",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/86c97cfb42a753a1f8d362db475a5467/2705437",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Heavy Metal",
+        "Power Metal"
+      ],
+      "secondaryGenres": [
+        "Power Metal",
+        "Hard Rock"
+      ],
+      "descriptors": [
+        "melodic",
+        "fantasy",
+        "male vocalist",
+        "technical",
+        "energetic",
+        "passionate"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2HRKnfpnqdE23ysrSblt4e",
+        "appleMusic": "https://geo.music.apple.com/ru/album/magic/1448480909"
+      },
+      "enrichedAt": "2026-09-08T17:40:11.715Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/battles/mirrored",
@@ -2246,42 +2236,6 @@
       "enrichedAt": "2026-05-21T08:49:58.219Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/evergrey/architects-of-a-new-weave",
-      "title": "Architects of a New Weave",
-      "artist": "Evergrey",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Alternative Metal"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/b19153d059fd0a069b026b0a4afabfbe/14364178",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8ef59ddd52887f2b56319aca8fee7803/14364178",
-      "rymRating": 3.28,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Alternative Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "melancholic",
-        "melodic",
-        "energetic",
-        "triumphant",
-        "dark",
-        "mental health",
-        "progressive",
-        "anthemic",
-        "healing"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5bevoFjCigut2rM8J9fLYU",
-        "appleMusic": "https://geo.music.apple.com/it/album/architects-of-a-new-weave-deluxe-version/1877921864",
-        "bandcamp": "https://evergrey.bandcamp.com/album/architects-of-a-new-weave"
-      },
-      "enrichedAt": "2026-08-04T15:05:04.441Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/evership/the-uncrowned-king-act-1",
       "title": "The Uncrowned King: Act 1",
       "artist": "Evership",
@@ -2800,19 +2754,21 @@
       "onDeckAt": "2026-06-11T12:07:43.645Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/gladenfold/soulbound",
-      "title": "Soulbound",
+      "url": "https://rateyourmusic.com/release/album/gladenfold/nemesis",
+      "title": "Nemesis",
       "artist": "Gladenfold",
-      "year": 2026,
+      "year": 2022,
       "genres": [
-        "Power Metal"
+        "Power Metal",
+        "Melodic Death Metal"
       ],
-      "dateAdded": "2026-05-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a817b6d773f42d5ab4da541a32d9453e/14329165",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/52650998a02a8b14ab3db2da920d4e5b/14329165",
-      "rymRating": 3.4,
+      "dateAdded": "2026-08-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/56686bdef3994ebf8bef4a85054dd9a2/9976298",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c555c76f165abf29f60fcf7cf05b133f/9976298",
+      "rymRating": 3.44,
       "primaryGenres": [
-        "Power Metal"
+        "Power Metal",
+        "Melodic Death Metal"
       ],
       "secondaryGenres": [
         "Symphonic Metal",
@@ -2820,18 +2776,20 @@
       ],
       "descriptors": [
         "male vocalist",
+        "fantasy",
         "energetic",
+        "dense",
+        "heavy",
         "melodic",
-        "technical",
-        "passionate"
+        "epic",
+        "uplifting",
+        "technical"
       ],
       "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5sxBSdrWYHSJUKiGUoD8FW",
-        "appleMusic": "https://geo.music.apple.com/us/album/soulbound/1854973210"
+        "spotify": "https://open.spotify.com/album/6hcVrHaXWVQucfSx39i4vo",
+        "appleMusic": "https://geo.music.apple.com/us/album/nemesis/1611235400"
       },
-      "enrichedAt": "2026-05-21T08:56:34.053Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-19T15:47:49.191Z"
+      "enrichedAt": "2026-09-08T17:40:20.386Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gleb-kolyadin/the-outland",
@@ -6207,37 +6165,6 @@
       }
     },
     {
-      "url": "https://rateyourmusic.com/release/ep/s-carey/watercress",
-      "title": "Watercress",
-      "artist": "S. Carey",
-      "year": 2025,
-      "genres": [
-        "Indie Folk"
-      ],
-      "dateAdded": "2026-08-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ec7c8fb6a9066b282fed4d715d8d2a03/13697751",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7aaa10e93c91813b845346896e46bccf/13697751",
-      "rymRating": 3.38,
-      "primaryGenres": [
-        "Indie Folk"
-      ],
-      "secondaryGenres": [
-        "Chamber Folk"
-      ],
-      "descriptors": [
-        "longing",
-        "peaceful",
-        "pastoral",
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW",
-        "appleMusic": "https://geo.music.apple.com/us/album/watercress-ep/1831024861",
-        "bandcamp": "https://scarey.bandcamp.com/album/watercress"
-      },
-      "enrichedAt": "2026-08-19T09:22:41.881Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/ep/sages/sages",
       "title": "SAGES",
       "artist": "SAGES",
@@ -7180,17 +7107,17 @@
       "year": 2026,
       "genres": [
         "Progressive Rock",
-        "Symphonic Prog",
-        "Christian Rock"
+        "Christian Rock",
+        "Symphonic Prog"
       ],
       "dateAdded": "2026-03-19",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/c148825a0557c16f65d66fa01be48eed/14020788",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9e7c76489f7b88c9f112a39014e1f6d1/14020788",
-      "rymRating": 3.49,
+      "rymRating": 3.47,
       "primaryGenres": [
         "Progressive Rock",
-        "Symphonic Prog",
-        "Christian Rock"
+        "Christian Rock",
+        "Symphonic Prog"
       ],
       "secondaryGenres": [
         "Progressive Metal",
@@ -7214,9 +7141,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/l-i-f-t/1854512647",
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/l-i-f-t-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-05-21T12:08:44.541Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-07T13:52:26.425Z"
+      "enrichedAt": "2026-09-08T17:40:27.536Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-notwist/neon-golden",
@@ -7225,42 +7150,42 @@
       "year": 2002,
       "genres": [
         "Indietronica",
-        "Indie Pop"
+        "Indie Pop",
+        "Post-Rock"
       ],
       "dateAdded": "2025-02-16",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/32de312d09decf242e2e908058b1c76e/10474414",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1b10e16f63b558d26a77f92d3cc05314/10474414",
-      "rymRating": 3.6,
+      "rymRating": 3.61,
       "primaryGenres": [
         "Indietronica",
-        "Indie Pop"
+        "Indie Pop",
+        "Post-Rock"
       ],
       "secondaryGenres": [
         "Folktronica",
-        "Ambient Pop",
-        "Glitch Pop"
+        "Ambient Pop"
       ],
       "descriptors": [
         "melancholic",
         "introspective",
         "love",
         "mellow",
-        "melodic",
         "atmospheric",
         "male vocalist",
-        "rhythmic",
+        "melodic",
         "warm",
         "lonely",
-        "autumn",
+        "rhythmic",
         "eclectic",
         "soft"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/56Ez1wZMgHE5dIjyBFdZF4",
-        "appleMusic": "https://geo.music.apple.com/us/album/neon-golden/81170782",
+        "appleMusic": "https://geo.music.apple.com/us/album/neon-golden/1774337493",
         "bandcamp": "https://thenotwist.bandcamp.com/album/neon-golden"
       },
-      "enrichedAt": "2026-05-21T12:16:38.004Z"
+      "enrichedAt": "2026-09-08T17:40:32.665Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-pains-of-being-pure-at-heart/the-pains-of-being-pure-at-heart",
@@ -7806,17 +7731,15 @@
       "year": 2026,
       "genres": [
         "Indie Rock",
-        "Indie Pop",
-        "Shimokita-kei"
+        "Indie Pop"
       ],
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/25747109ca20cc43faa399335e3c84a4/14552732",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/097c38bf74b24788c65952145def206f/14552732",
-      "rymRating": 3.8,
+      "rymRating": 3.81,
       "primaryGenres": [
         "Indie Rock",
-        "Indie Pop",
-        "Shimokita-kei"
+        "Indie Pop"
       ],
       "secondaryGenres": [
         "Math Pop",
@@ -7826,29 +7749,33 @@
       ],
       "descriptors": [
         "female vocalist",
-        "male vocalist",
         "lush",
+        "male vocalist",
         "passionate",
         "eclectic",
-        "melancholic",
         "bittersweet",
-        "ethereal",
         "melodic",
+        "progressive",
+        "ethereal",
         "playful",
         "technical",
         "energetic",
         "warm",
-        "progressive",
-        "mellow",
+        "melancholic",
         "rhythmic",
-        "cozy",
-        "soothing"
+        "mellow",
+        "triumphant",
+        "bright",
+        "uplifting",
+        "belting",
+        "soothing",
+        "cozy"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq",
         "appleMusic": "https://geo.music.apple.com/id/album/%E5%8F%8B%E9%81%94%E3%81%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/6768151401"
       },
-      "enrichedAt": "2026-08-04T15:05:48.021Z"
+      "enrichedAt": "2026-09-08T17:40:37.898Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/ubiquity/the-ascendant-travels-among-the-stars",
