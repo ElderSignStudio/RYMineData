@@ -1,98 +1,63 @@
 {
-  "lastScrapedAt": "2026-09-08T17:40:37.898Z",
+  "lastScrapedAt": "2026-09-17T10:13:24.354Z",
   "source": "rym",
   "albums": [
     {
-      "url": "https://rateyourmusic.com/release/album/%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B_%E0%BE%80%E2%97%9E-%E0%BC%8E%E0%BA%B6-%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96-%EA%89%BA%E1%83%9A/%CA%85-%E2%97%8F-o-%E2%97%8F-o-%E2%97%8F-%D2%88%D2%88%D2%88%D2%88%D2%88-",
-      "title": "ʅ():: ● o ● o ● ҈҈҈҈҈ :()(",
-      "artist": "⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ",
+      "url": "https://rateyourmusic.com/release/album/akriila/lucy-miro-al-mundo-y-noto-que-esta-girando",
+      "title": "Lucy miró al mundo y notó que está girando",
+      "artist": "AKRIILA",
       "year": 2026,
       "genres": [
-        "Microhouse",
-        "IDM"
+        "Indietronica",
+        "Indie Rock"
       ],
-      "dateAdded": "2026-07-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/b1de5b30029a3e8d87a52b6cc276b48f/14783504",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f21f33096a9aaa0fd19a6ec5f7d182a8/14783504",
-      "rymRating": 3.53,
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/99091540090628d60cf9d1df9134135d/14936217",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/53d3058e7683c8d8620d4941b8ab720a/14936217",
+      "rymRating": 3.72,
       "primaryGenres": [
-        "Microhouse",
-        "IDM"
+        "Indietronica",
+        "Indie Rock"
       ],
       "secondaryGenres": [
-        "Tech House",
-        "Ambient House",
-        "Folktronica",
-        "Deep Tech"
+        "Electropop",
+        "Glitch Pop",
+        "Noise Pop"
       ],
       "descriptors": [
-        "rhythmic",
-        "playful",
-        "twinkling",
-        "surreal",
-        "quirky",
-        "atmospheric",
-        "repetitive",
-        "progressive",
-        "instrumental",
-        "mysterious",
-        "sampling",
+        "female vocalist",
         "ethereal",
-        "hypnotic",
-        "psychedelic",
-        "bright"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6OxEdoTceemiC0d7GgdXEz",
-        "appleMusic": "https://geo.music.apple.com/gb/album/%CA%85-l-%C9%B5%CA%85/6772134164",
-        "youtube": "https://www.youtube.com/watch?v=U1UqDWVVKAs",
-        "bandcamp": "https://00000ooooo.bandcamp.com/album/--5"
-      },
-      "enrichedAt": "2026-08-03T12:44:28.073Z",
-      "onDeck": true,
-      "onDeckAt": "2026-08-04T15:06:23.535Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/aenigmatum/infinitudes-passage",
-      "title": "Infinitude's Passage",
-      "artist": "Ænigmatum",
-      "year": 2026,
-      "genres": [
-        "Technical Death Metal",
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-08-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1febe6f362027e10fb7a8a2b0494bfcd/14879922",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/89f2920ff678420a1f1a773580326637/14879922",
-      "rymRating": 3.61,
-      "primaryGenres": [
-        "Technical Death Metal",
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Melodic Death Metal"
-      ],
-      "descriptors": [
-        "heavy",
-        "dark",
-        "technical",
-        "growling",
-        "dense",
-        "complex",
-        "aggressive",
-        "blast beats",
-        "abstract",
+        "bittersweet",
+        "passionate",
+        "rhythmic",
+        "LGBTQ",
+        "sentimental",
+        "bright",
+        "melancholic",
         "eclectic",
-        "male vocalist",
-        "mysterious"
+        "atmospheric",
+        "introspective",
+        "lesbian",
+        "noisy",
+        "nostalgia",
+        "energetic",
+        "sampling",
+        "buzzy",
+        "surreal",
+        "urban",
+        "death",
+        "lush",
+        "insecure",
+        "decay",
+        "raw",
+        "psychedelic",
+        "melodic"
       ],
       "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0i70PM1a953cfloCHwp3ST",
-        "appleMusic": "https://geo.music.apple.com/de/album/infinitudes-passage/6791218675",
-        "youtube": "https://www.youtube.com/watch?v=S0nDnmfXuro"
+        "spotify": "https://open.spotify.com/album/3VcleF9EbQ0tBFsVCWeB6Y",
+        "appleMusic": "https://geo.music.apple.com/es/album/lucy-mir%C3%B3-al-mundo-y-not%C3%B3-que-est%C3%A1-girando-es-mi-segundo-disco/6800933975"
       },
-      "enrichedAt": "2026-09-08T15:33:34.129Z",
-      "myRating": 3
+      "enrichedAt": "2026-09-16T13:26:07.660Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
@@ -175,54 +140,6 @@
         "bandcamp": "https://alcest.bandcamp.com/album/spiritual-instinct",
         "appleMusic": "https://geo.music.apple.com/au/album/spiritual-instinct/1474788010"
       }
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/alex-cameron/late-to-set",
-      "title": "Late to Set",
-      "artist": "Alex Cameron",
-      "year": 2026,
-      "genres": [
-        "Pop Rock",
-        "Minimal Synth"
-      ],
-      "dateAdded": "2026-08-03",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/732ce6d219527d172f48ba7d3bbf4889/14619064",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8f00552a9f73d1e180b87eaca6a26ed0/14619064",
-      "rymRating": 3.18,
-      "primaryGenres": [
-        "Pop Rock",
-        "Minimal Synth"
-      ],
-      "secondaryGenres": [
-        "Synthpop",
-        "Soft Rock",
-        "Sophisti-Pop",
-        "Blue-Eyed Soul",
-        "Art Pop"
-      ],
-      "descriptors": [
-        "dark humor",
-        "hazy",
-        "cynical",
-        "melancholic",
-        "manhood",
-        "family",
-        "entertainment industry",
-        "love",
-        "drugs",
-        "satirical",
-        "mellow",
-        "male vocalist",
-        "introspective",
-        "infidelity"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0qbSHm1NgNqr441POZacaa",
-        "appleMusic": "https://geo.music.apple.com/us/album/late-to-set/1890280512"
-      },
-      "enrichedAt": "2026-08-03T15:13:10.686Z",
-      "onDeck": true,
-      "onDeckAt": "2026-08-19T09:33:34.189Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alvvays/blue-rev",
@@ -534,6 +451,61 @@
       "enrichedAt": "2026-05-20T23:46:44.166Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/asia-menor/vaho",
+      "title": "Vaho",
+      "artist": "Asia Menor",
+      "year": 2026,
+      "genres": [
+        "Post-Rock",
+        "Post-Punk",
+        "Art Punk",
+        "Indie Rock"
+      ],
+      "dateAdded": "2026-09-16",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/112e0ed3619648b0274c6fa2fec9ac1c/15025012",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/352c12c997ee7eae9ee9a483b38f02d5/15025012",
+      "rymRating": 3.81,
+      "primaryGenres": [
+        "Post-Rock",
+        "Post-Punk",
+        "Art Punk",
+        "Indie Rock",
+        "Nueva escena chilena"
+      ],
+      "secondaryGenres": [
+        "Noise Rock",
+        "Math Rock",
+        "Post-Hardcore"
+      ],
+      "descriptors": [
+        "abstract",
+        "anxious",
+        "progressive",
+        "dense",
+        "poetic",
+        "atmospheric",
+        "rhythmic",
+        "existential",
+        "male vocalist",
+        "uncommon time signatures",
+        "noisy",
+        "angular",
+        "avant-garde",
+        "talk-singing",
+        "dissonant",
+        "complex",
+        "chaotic",
+        "melancholic",
+        "depressive"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7oE9J8ccrqYBwlygc5fYGe",
+        "appleMusic": "https://geo.music.apple.com/jp/album/vaho/6804833243",
+        "bandcamp": "https://sellofisura.bandcamp.com/album/vaho"
+      },
+      "enrichedAt": "2026-09-16T13:26:11.703Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/autumns-grey-solace/within-the-depths-of-a-darkened-forest",
       "title": "Within the Depths of a Darkened Forest",
       "artist": "Autumn's Grey Solace",
@@ -838,6 +810,46 @@
         "youtube": "https://www.youtube.com/watch?v=gVj52hfvaAE"
       },
       "enrichedAt": "2026-06-23T19:51:07.297Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/billy-strings/so-much-for-goodbyes",
+      "title": "So Much for Goodbyes",
+      "artist": "Billy Strings",
+      "year": 2026,
+      "genres": [
+        "Progressive Bluegrass",
+        "Country Folk"
+      ],
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/009747286d51f65a57301f0419e3ca45/14774673",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ee4a24b6a5b2034ddeea26eb148ea1ec/14774673",
+      "rymRating": 3.69,
+      "primaryGenres": [
+        "Progressive Bluegrass",
+        "Country Folk"
+      ],
+      "secondaryGenres": [
+        "Progressive Country"
+      ],
+      "descriptors": [
+        "death",
+        "alcohol",
+        "introspective",
+        "longing",
+        "jamming",
+        "pastoral",
+        "depressive",
+        "soft",
+        "addiction",
+        "bittersweet",
+        "drugs",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu",
+        "appleMusic": "https://geo.music.apple.com/us/album/so-much-for-goodbyes/6781907870"
+      },
+      "enrichedAt": "2026-09-16T13:26:16.159Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/blackmores-night/ghost-of-a-rose",
@@ -1542,6 +1554,41 @@
         "appleMusic": "https://geo.music.apple.com/us/album/los-delirios-del-mariscal/479213943"
       },
       "enrichedAt": "2026-05-21T00:00:01.749Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/curio-curio/curio-curio",
+      "title": "Curió Curió",
+      "artist": "Curió Curió",
+      "year": 2026,
+      "genres": [
+        "MPB"
+      ],
+      "dateAdded": "2026-09-09",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/678b2769dc29d90e35f2c0d9f2695d5b/14847896",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d5c02f9aa475656030f9c9f319516479/14847896",
+      "rymRating": 3.58,
+      "primaryGenres": [
+        "MPB"
+      ],
+      "secondaryGenres": [
+        "Samba",
+        "Psychedelic Pop",
+        "Jazz Fusion",
+        "Sophisti-Pop"
+      ],
+      "descriptors": [
+        "summer",
+        "female vocalist",
+        "melodic",
+        "happy",
+        "passionate"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6h6tgc1Z4RGqMYeV4O7KT1",
+        "appleMusic": "https://geo.music.apple.com/us/album/curi%C3%B3-curi%C3%B3/1893291679",
+        "bandcamp": "https://curiocurio.bandcamp.com/album/curi-curi"
+      },
+      "enrichedAt": "2026-09-16T13:26:20.209Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/daal/dodecahedron",
@@ -2343,6 +2390,56 @@
       "enrichedAt": "2026-05-21T08:50:10.630Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/fabiano-do-nascimento-and-vittor-santos-orchestra/vila",
+      "title": "Vila",
+      "artist": "Fabiano do Nascimento & Vittor Santos OrchestraFabiano do NascimentoVittor Santos",
+      "year": 2026,
+      "genres": [
+        "Brazilian Classical Music",
+        "Third Stream"
+      ],
+      "dateAdded": "2026-09-16",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9643b075ab9d66842e5b05222a4f15ae/14226400",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ee86b9a670885160e3f9f5a3ca3d30ab/14226400",
+      "rymRating": 3.59,
+      "primaryGenres": [
+        "Brazilian Classical Music",
+        "Third Stream"
+      ],
+      "secondaryGenres": [
+        "Valsa brasileira",
+        "Samba-jazz",
+        "Seresta"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "technical",
+        "instrumental",
+        "mellow",
+        "lush",
+        "warm",
+        "melodic",
+        "meditative",
+        "atmospheric",
+        "bittersweet",
+        "peaceful",
+        "orchestral",
+        "acoustic",
+        "cozy",
+        "sentimental",
+        "nostalgia",
+        "childhood",
+        "spring"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6irs8cDzSNLsy8UL0ZeAes",
+        "appleMusic": "https://geo.music.apple.com/us/album/vila/1855948512",
+        "youtube": "https://www.youtube.com/watch?v=Y75TT9XMMtE",
+        "bandcamp": "https://fabianodonascimento.bandcamp.com/album/vila"
+      },
+      "enrichedAt": "2026-09-16T13:26:23.993Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/father-of-peace/the-year-of-madness",
       "title": "The Year of Madness",
       "artist": "Father of Peace",
@@ -2978,6 +3075,52 @@
       "enrichedAt": "2026-08-04T15:05:12.625Z",
       "onDeck": true,
       "onDeckAt": "2026-08-04T15:06:33.133Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/hana-stretton/tiarn",
+      "title": "Tiarn",
+      "artist": "Hana Stretton",
+      "year": 2026,
+      "genres": [
+        "Ambient",
+        "Contemporary Folk"
+      ],
+      "dateAdded": "2026-09-16",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/2f3f7020e864d67597151a3247233b1d/14732790",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/65aea3d7703a24c1fb5f2fee2e369ecf/14732790",
+      "rymRating": 3.55,
+      "primaryGenres": [
+        "Ambient",
+        "Contemporary Folk"
+      ],
+      "secondaryGenres": [
+        "Field Recording",
+        "Psychedelic Folk",
+        "Chamber Folk",
+        "New Age",
+        "Nature Recordings"
+      ],
+      "descriptors": [
+        "soothing",
+        "atmospheric",
+        "peaceful",
+        "female vocalist",
+        "pastoral",
+        "cozy",
+        "soft",
+        "hazy",
+        "calm",
+        "beach",
+        "psychedelic",
+        "bittersweet",
+        "lo-fi"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2Kt7Izz50rQVGCxalT4NQT",
+        "appleMusic": "https://geo.music.apple.com/tr/album/tiarn/6781275336",
+        "bandcamp": "https://brierfieldfloodpress.bandcamp.com/album/tiarn"
+      },
+      "enrichedAt": "2026-09-16T13:26:28.160Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/happy-the-man/happy-the-man",
@@ -4073,6 +4216,44 @@
       "enrichedAt": "2026-05-21T10:48:52.649Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/knats/a-great-day-in-newcastle",
+      "title": "A Great Day in Newcastle",
+      "artist": "Knats",
+      "year": 2026,
+      "genres": [
+        "Jazz Fusion"
+      ],
+      "dateAdded": "2026-09-16",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/5ad773dec48f1546c8cf41f72dcb2da2/14217534",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/319d28ee657d9af9c681df3dc66693b5/14217534",
+      "rymRating": 3.55,
+      "primaryGenres": [
+        "Jazz Fusion"
+      ],
+      "secondaryGenres": [
+        "Jazz Poetry",
+        "Jazz-Rock"
+      ],
+      "descriptors": [
+        "sentimental",
+        "instrumental",
+        "lush",
+        "rhythmic",
+        "energetic",
+        "urban",
+        "conscious",
+        "warm",
+        "male vocalist",
+        "improvisation"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
+        "appleMusic": "https://geo.music.apple.com/ua/album/a-great-day-in-newcastle/1893347579",
+        "bandcamp": "https://knats.bandcamp.com/album/a-great-day-in-newcastle"
+      },
+      "enrichedAt": "2026-09-16T13:26:32.285Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/lamp/%E3%82%86%E3%82%81",
       "title": "ゆめ [Dream]",
       "artist": "Lamp",
@@ -4647,6 +4828,68 @@
       "enrichedAt": "2026-05-21T10:50:35.093Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/mastodon/marrow-deep",
+      "title": "Marrow Deep",
+      "artist": "Mastodon",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/2368a606e0450177161388dd6cd05c9f/14819622",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dc136795b6713aeb0e4104e6c30e7eb8/14819622",
+      "rymRating": 3.76,
+      "primaryGenres": [
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Sludge Metal",
+        "Stoner Metal"
+      ],
+      "descriptors": [
+        "grief",
+        "technical",
+        "heavy",
+        "progressive",
+        "male vocalist",
+        "death",
+        "melancholic",
+        "sombre",
+        "dense",
+        "psychedelic",
+        "lush",
+        "uncommon time signatures",
+        "punchy",
+        "introspective",
+        "atmospheric",
+        "melodic",
+        "passionate",
+        "regret",
+        "ominous",
+        "complex",
+        "paranormal",
+        "angry",
+        "ghosts",
+        "epic",
+        "fantasy",
+        "dark",
+        "aggressive",
+        "anxious",
+        "existential",
+        "serious",
+        "poetic",
+        "mythology",
+        "sad",
+        "belting"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz",
+        "appleMusic": "https://geo.music.apple.com/us/album/marrow-deep/6781040477",
+        "bandcamp": "https://mastodon.bandcamp.com/album/marrow-deep"
+      },
+      "enrichedAt": "2026-09-16T13:26:36.537Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/meer/playing-house",
       "title": "Playing House",
       "artist": "MEER",
@@ -4705,6 +4948,52 @@
         "orchestral"
       ],
       "enrichedAt": "2026-05-21T10:51:03.379Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/michael-stearns/planetary-unfolding",
+      "title": "Planetary Unfolding",
+      "artist": "Michael Stearns",
+      "year": 1981,
+      "genres": [
+        "Space Ambient",
+        "Progressive Electronic"
+      ],
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/d1bf1554672b871c4729d06ea1f698ca/7812574",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e0389523661af8b332e2266b4a3fb401/7812574",
+      "rymRating": 3.68,
+      "primaryGenres": [
+        "Space Ambient",
+        "Progressive Electronic"
+      ],
+      "secondaryGenres": [
+        "Drone",
+        "Berlin School",
+        "New Age"
+      ],
+      "descriptors": [
+        "space",
+        "ethereal",
+        "epic",
+        "soothing",
+        "mysterious",
+        "lush",
+        "spiritual",
+        "instrumental",
+        "atmospheric",
+        "meditative",
+        "progressive",
+        "peaceful",
+        "mellow",
+        "twinkling",
+        "psychedelic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0NhaQ7YKZkvoWj6RfG6SuY",
+        "appleMusic": "https://geo.music.apple.com/es/album/planetary-unfolding-2022-remaster/1606492980",
+        "bandcamp": "https://emotional-rescue.bandcamp.com/album/planetary-unfolding"
+      },
+      "enrichedAt": "2026-09-16T13:26:40.354Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/minimum-vital/sarabandes",
@@ -4907,42 +5196,46 @@
       "artist": "Moron Police",
       "year": 2014,
       "genres": [
-        "Alternative Metal"
+        "Alternative Metal",
+        "Progressive Rock"
       ],
       "dateAdded": "2024-11-12",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/ccf6b935a5187b3253ab16c8e797a5d4/5210817",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/14958251828dd743ac65d581a5b3cae6/5210817",
-      "rymRating": 3.58,
+      "rymRating": 3.55,
       "primaryGenres": [
-        "Alternative Metal"
+        "Alternative Metal",
+        "Progressive Rock"
       ],
       "secondaryGenres": [
-        "Comedy Rock",
         "Funk Metal",
+        "Comedy Rock",
         "Country Rock",
         "Progressive Rock",
         "Pop Rock",
         "Rap Rock",
         "Funk Rock",
-        "Rap Metal"
+        "Progressive Pop"
       ],
       "descriptors": [
-        "male vocalist",
+        "satirical",
+        "eclectic",
+        "humorous",
         "progressive",
         "energetic",
         "quirky",
-        "humorous",
+        "male vocalist",
         "technical",
         "melodic",
-        "satirical",
-        "eclectic"
+        "heavy",
+        "political"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/0XWNQmws44eTjWe0eN9mbH",
         "appleMusic": "https://geo.music.apple.com/it/album/defenders-of-the-small-yard/853298935",
         "bandcamp": "https://moronpolice1.bandcamp.com/album/defenders-of-the-small-yard"
       },
-      "enrichedAt": "2026-05-21T11:05:03.713Z"
+      "enrichedAt": "2026-09-16T13:26:44.390Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/mors-principium-est/the-unborn",
@@ -5109,7 +5402,7 @@
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/4acf8a5aae5b52b12e2d05cee9c3699b/14361748",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/76ed5122711475c36a0f77fcb4cd58b3/14361748",
-      "rymRating": 3.52,
+      "rymRating": 3.49,
       "primaryGenres": [
         "Drone",
         "Ambient"
@@ -5131,7 +5424,8 @@
         "youtube": "https://www.youtube.com/watch?v=lq1CTtEoKlw",
         "bandcamp": "https://mydreamfever.bandcamp.com/album/5-in-the-same-light"
       },
-      "enrichedAt": "2026-08-19T09:22:34.330Z"
+      "enrichedAt": "2026-09-17T10:13:24.354Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/nailed-to-obscurity/king-delusion",
@@ -5165,6 +5459,75 @@
         "bandcamp": "https://nailedtoobscurity.bandcamp.com/album/king-delusion"
       },
       "enrichedAt": "2026-05-21T11:05:18.392Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/neurosis/an-undying-love-for-a-burning-world",
+      "title": "An Undying Love for a Burning World",
+      "artist": "Neurosis",
+      "year": 2026,
+      "genres": [
+        "Atmospheric Sludge Metal"
+      ],
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ff2be41edd16527f464e84f8d71c7de3/14432395",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7d7f29eb0c6cba931fba723221e12ac7/14432395",
+      "rymRating": 3.8,
+      "primaryGenres": [
+        "Atmospheric Sludge Metal"
+      ],
+      "secondaryGenres": [
+        "Post-Rock",
+        "Doom Metal",
+        "Post-Industrial",
+        "Post-Hardcore"
+      ],
+      "descriptors": [
+        "apocalyptic",
+        "atmospheric",
+        "heavy",
+        "ominous",
+        "harsh vocals",
+        "angry",
+        "environmentalism",
+        "male vocalist",
+        "dense",
+        "alienation",
+        "psychedelic",
+        "passionate",
+        "aggressive",
+        "sombre",
+        "infernal",
+        "suspenseful",
+        "dark",
+        "progressive",
+        "lonely",
+        "noisy",
+        "dissonant",
+        "mysterious",
+        "philosophical",
+        "conscious",
+        "poetic",
+        "serious",
+        "hypnotic",
+        "rhythmic",
+        "spiritual",
+        "desolate",
+        "existential",
+        "decay",
+        "epic",
+        "growling",
+        "complex",
+        "anxious",
+        "pessimistic",
+        "protest"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0RgxfKNGhyiKlbkO4DO5rR",
+        "appleMusic": "https://geo.music.apple.com/us/album/an-undying-love-for-a-burning-world/1882105289",
+        "youtube": "https://www.youtube.com/watch?v=ht41SR_qflI",
+        "bandcamp": "https://neurosis.bandcamp.com/album/an-undying-love-for-a-burning-world"
+      },
+      "enrichedAt": "2026-09-16T13:26:48.713Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/nirosta-steel/my-skyscraper",
@@ -5502,6 +5865,52 @@
       "enrichedAt": "2026-05-21T11:05:49.439Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/papangu/celestial",
+      "title": "Celestial",
+      "artist": "Papangu",
+      "year": 2026,
+      "genres": [
+        "Jazz-Rock",
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-09-16",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ad5de7f0ba2e5429a95898513d615d34/14941178",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9c63c2fd1b332e96820052a2bc14bcc4/14941178",
+      "rymRating": 3.58,
+      "primaryGenres": [
+        "Jazz-Rock",
+        "Progressive Rock"
+      ],
+      "secondaryGenres": [
+        "Zeuhl",
+        "Symphonic Prog",
+        "Progressive Metal",
+        "Jazz Fusion"
+      ],
+      "descriptors": [
+        "warm",
+        "psychedelic",
+        "technical",
+        "avant-garde",
+        "harsh vocals",
+        "uncommon time signatures",
+        "progressive",
+        "energetic",
+        "male vocalist",
+        "playful",
+        "lush",
+        "rhythmic",
+        "complex",
+        "heavy"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7FRhh6PfQM1FtxrAwGcEBz",
+        "appleMusic": "https://geo.music.apple.com/it/album/celestial/6790491890",
+        "bandcamp": "https://papangu.bandcamp.com/album/celestial"
+      },
+      "enrichedAt": "2026-09-16T13:26:53.085Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/pattern-seeking-animals/prehensile-tales",
       "title": "Prehensile Tales",
       "artist": "Pattern-Seeking Animals",
@@ -5674,6 +6083,70 @@
       "enrichedAt": "2026-05-21T11:06:07.402Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/phoebe-bridgers/lost-weekend",
+      "title": "Lost Weekend",
+      "artist": "Phoebe Bridgers",
+      "year": 2026,
+      "genres": [
+        "Indie Folk",
+        "Singer-Songwriter"
+      ],
+      "dateAdded": "2026-09-09",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1f7adc007e7d82dfa4a68be08be8da30/14754553",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dc42d37048ffb4ea645329a5eecc1a31/14754553",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Indie Folk",
+        "Singer-Songwriter"
+      ],
+      "secondaryGenres": [
+        "Americana",
+        "Folktronica",
+        "Indie Rock",
+        "Ambient"
+      ],
+      "descriptors": [
+        "atmospheric",
+        "female vocalist",
+        "love",
+        "escapism",
+        "hazy",
+        "lush",
+        "grief",
+        "death",
+        "bittersweet",
+        "dense",
+        "ethereal",
+        "nocturnal",
+        "mellow",
+        "melancholic",
+        "poetic",
+        "sentimental",
+        "introspective",
+        "lonely",
+        "longing",
+        "memory",
+        "family",
+        "fear",
+        "callback",
+        "everyday life",
+        "existential",
+        "passionate",
+        "apology",
+        "space",
+        "insecure",
+        "leitmotif",
+        "depressive",
+        "surreal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c",
+        "appleMusic": "https://geo.music.apple.com/nz/album/lost-weekend/6781051268",
+        "bandcamp": "https://phoebebridgers.bandcamp.com/album/lost-weekend"
+      },
+      "enrichedAt": "2026-09-16T13:26:57.607Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/planet-x/moonbabies",
       "title": "MoonBabies",
       "artist": "Planet X",
@@ -5827,50 +6300,6 @@
       "enrichedAt": "2026-05-21T11:06:35.249Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/rafael-anton-irisarri/points-of-inaccessibility",
-      "title": "Points of Inaccessibility",
-      "artist": "Rafael Anton Irisarri",
-      "year": 2026,
-      "genres": [
-        "Ambient"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/31b9494e61735dc9fc3b620a50783b96/14473028",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1e7a1b64bab5ad904fa1ec293cbea525/14473028",
-      "rymRating": 3.51,
-      "primaryGenres": [
-        "Ambient"
-      ],
-      "secondaryGenres": [
-        "Drone",
-        "Electroacoustic",
-        "Chamber Music"
-      ],
-      "descriptors": [
-        "atmospheric",
-        "hypnotic",
-        "hazy",
-        "mysterious",
-        "instrumental",
-        "melancholic",
-        "repetitive",
-        "ethereal",
-        "decay",
-        "meditative",
-        "sombre",
-        "alienation",
-        "epic",
-        "surreal",
-        "noisy"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4oGsJX88BkrQEgsIBTFzU1",
-        "appleMusic": "https://geo.music.apple.com/us/album/points-of-inaccessibility/1867027084",
-        "bandcamp": "https://irisarri.bandcamp.com/album/points-of-inaccessibility"
-      },
-      "enrichedAt": "2026-08-04T15:05:37.535Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/rata-blanca/magos-espadas-y-rosas",
       "title": "Magos, espadas y rosas",
       "artist": "Rata Blanca",
@@ -5941,6 +6370,81 @@
         "bandcamp": "https://ravian.bandcamp.com/album/kinsmen-from-afar-2"
       },
       "enrichedAt": "2026-05-28T08:39:58.731Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/rebecca-black/age-of-the-exhibitionist",
+      "title": "Age of the Exhibitionist",
+      "artist": "Rebecca Black",
+      "year": 2026,
+      "genres": [
+        "Dance-Pop",
+        "Electropop"
+      ],
+      "dateAdded": "2026-09-14",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/e8b1d5b321fbc25463d147e5e2055a9e/14812413",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b922b4ab36b907af3af58d48c3e5e4e9/14812413",
+      "rymRating": 3.64,
+      "primaryGenres": [
+        "Dance-Pop",
+        "Electropop"
+      ],
+      "secondaryGenres": [
+        "House",
+        "Contemporary R&B"
+      ],
+      "descriptors": [
+        "sensual",
+        "sexual",
+        "punchy",
+        "playful",
+        "female vocalist",
+        "buzzy",
+        "party",
+        "rhythmic",
+        "LGBTQ",
+        "energetic",
+        "dancing",
+        "eclectic",
+        "nightlife",
+        "hedonism",
+        "lesbian",
+        "sassy",
+        "flirting",
+        "fame",
+        "urban",
+        "rebellious",
+        "anthemic",
+        "provocative",
+        "bassy",
+        "dense",
+        "entertainment industry",
+        "longing",
+        "stuttering vocals",
+        "fashion",
+        "kink",
+        "bouncy",
+        "maximalist",
+        "vulgar",
+        "four on the floor",
+        "love",
+        "futuristic",
+        "bisexual",
+        "romantic",
+        "lush",
+        "gender",
+        "beauty",
+        "individuality",
+        "about music",
+        "success",
+        "kissing",
+        "boastful",
+        "womanhood"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm",
+        "appleMusic": "https://geo.music.apple.com/us/album/age-of-the-exibitionist/6783569945"
+      },
+      "enrichedAt": "2026-09-16T13:27:01.912Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/returned-to-the-earth/fall-of-the-watcher",
@@ -6163,6 +6667,37 @@
         "spotify": "https://open.spotify.com/album/7wQSCCqtffPrjkLwiYAyjg",
         "appleMusic": "https://geo.music.apple.com/us/album/tales-from-outer-space/1450253255"
       }
+    },
+    {
+      "url": "https://rateyourmusic.com/release/ep/s-carey/watercress",
+      "title": "Watercress",
+      "artist": "S. Carey",
+      "year": 2025,
+      "genres": [
+        "Indie Folk"
+      ],
+      "dateAdded": "2026-08-11",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ec7c8fb6a9066b282fed4d715d8d2a03/13697751",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7aaa10e93c91813b845346896e46bccf/13697751",
+      "rymRating": 3.39,
+      "primaryGenres": [
+        "Indie Folk"
+      ],
+      "secondaryGenres": [
+        "Chamber Folk"
+      ],
+      "descriptors": [
+        "longing",
+        "peaceful",
+        "pastoral",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW",
+        "appleMusic": "https://geo.music.apple.com/us/album/watercress-ep/1831024861",
+        "bandcamp": "https://scarey.bandcamp.com/album/watercress"
+      },
+      "enrichedAt": "2026-09-16T13:27:05.727Z"
     },
     {
       "url": "https://rateyourmusic.com/release/ep/sages/sages",
@@ -6764,16 +7299,14 @@
       "artist": "Thank You Scientist",
       "year": 2019,
       "genres": [
-        "Progressive Rock",
-        "Jazz-Rock"
+        "Progressive Rock"
       ],
       "dateAdded": "2024-09-05",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/349fd74a8fdc4303551d5d5c6a584d34/7606165",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6a6f484f1ff858a7261f116645f497b2/7606165",
       "rymRating": 3.61,
       "primaryGenres": [
-        "Progressive Rock",
-        "Jazz-Rock"
+        "Progressive Rock"
       ],
       "secondaryGenres": [
         "Jazz Fusion",
@@ -6805,7 +7338,7 @@
         "appleMusic": "https://geo.music.apple.com/mn/album/terraformer/1459372551",
         "bandcamp": "https://thankyouscientist.bandcamp.com/album/terraformer"
       },
-      "enrichedAt": "2026-08-25T14:21:33.066Z"
+      "enrichedAt": "2026-09-16T13:27:09.582Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-chronicles-of-father-robin/the-songs-and-tales-of-airoea-book-i-the-tale-of-father-robin-state-of-nature",
@@ -7373,6 +7906,60 @@
       "enrichedAt": "2026-05-21T12:25:46.835Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/thundercat/distracted",
+      "title": "Distracted",
+      "artist": "Thundercat",
+      "year": 2026,
+      "genres": [
+        "Neo-Psychedelia",
+        "Psychedelic Soul"
+      ],
+      "dateAdded": "2026-09-09",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ee3a851e83268785daa0804119710522/14222134",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9e7b1ce721a845867ef836ceab10c8c3/14222134",
+      "rymRating": 3.39,
+      "primaryGenres": [
+        "Neo-Psychedelia",
+        "Psychedelic Soul"
+      ],
+      "secondaryGenres": [
+        "Neo-Soul",
+        "Jazz Fusion",
+        "Smooth Soul"
+      ],
+      "descriptors": [
+        "smooth",
+        "technical",
+        "soothing",
+        "mellow",
+        "psychedelic",
+        "warm",
+        "male vocalist",
+        "melodic",
+        "eclectic",
+        "playful",
+        "humorous",
+        "introspective",
+        "science fiction",
+        "space",
+        "peaceful",
+        "lush",
+        "love",
+        "bassy",
+        "sensual",
+        "calm",
+        "bouncy",
+        "rhythmic",
+        "spiritual"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL",
+        "appleMusic": "https://geo.music.apple.com/us/album/distracted/1861531667",
+        "bandcamp": "https://thundercat.bandcamp.com/album/distracted"
+      },
+      "enrichedAt": "2026-09-16T13:27:13.781Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
       "title": "Allium: Una storia",
       "artist": "Tillison Reingold TirantiAndy TillisonJonas ReingoldRoberto Tiranti",
@@ -7731,7 +8318,8 @@
       "year": 2026,
       "genres": [
         "Indie Rock",
-        "Indie Pop"
+        "Indie Pop",
+        "Shimokita-kei"
       ],
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/25747109ca20cc43faa399335e3c84a4/14552732",
@@ -7739,7 +8327,8 @@
       "rymRating": 3.81,
       "primaryGenres": [
         "Indie Rock",
-        "Indie Pop"
+        "Indie Pop",
+        "Shimokita-kei"
       ],
       "secondaryGenres": [
         "Math Pop",
@@ -7750,8 +8339,8 @@
       "descriptors": [
         "female vocalist",
         "lush",
-        "male vocalist",
         "passionate",
+        "male vocalist",
         "eclectic",
         "bittersweet",
         "melodic",
@@ -7760,12 +8349,12 @@
         "playful",
         "technical",
         "energetic",
-        "warm",
         "melancholic",
+        "warm",
         "rhythmic",
         "mellow",
-        "triumphant",
         "bright",
+        "triumphant",
         "uplifting",
         "belting",
         "soothing",
@@ -7775,7 +8364,7 @@
         "spotify": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq",
         "appleMusic": "https://geo.music.apple.com/id/album/%E5%8F%8B%E9%81%94%E3%81%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/6768151401"
       },
-      "enrichedAt": "2026-09-08T17:40:37.898Z"
+      "enrichedAt": "2026-09-16T13:27:17.897Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/ubiquity/the-ascendant-travels-among-the-stars",
