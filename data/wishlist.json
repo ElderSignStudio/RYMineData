@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-09-25T12:47:45.852Z",
+  "lastScrapedAt": "2026-09-29T12:35:40.852Z",
   "source": "rym",
   "albums": [
     {
@@ -1320,92 +1320,6 @@
       "enrichedAt": "2026-05-20T23:56:23.193Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/chat-pile/who-loves-the-sun",
-      "title": "Who Loves the Sun",
-      "artist": "Chat Pile",
-      "year": 2026,
-      "genres": [
-        "Sludge Metal",
-        "Pigfuck",
-        "Noise Rock"
-      ],
-      "dateAdded": "2026-09-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e291def82e58bf97f22a4ad97a4ef666/14699937",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7764d8ea5da76ec5e364f6afd9af0275/14699937",
-      "rymRating": 3.83,
-      "primaryGenres": [
-        "Sludge Metal",
-        "Pigfuck",
-        "Noise Rock"
-      ],
-      "secondaryGenres": [
-        "Post-Hardcore",
-        "Gothic Rock",
-        "Industrial Metal",
-        "Grunge"
-      ],
-      "descriptors": [
-        "apocalyptic",
-        "heavy",
-        "disturbing",
-        "decay",
-        "dystopian",
-        "male vocalist",
-        "depressive",
-        "misanthropic",
-        "anticonsumerism",
-        "dark",
-        "anti-authoritarian",
-        "punchy",
-        "environmentalism",
-        "dissonant",
-        "alienation",
-        "angry",
-        "urban",
-        "everyday life",
-        "pessimistic",
-        "death",
-        "ominous",
-        "shrieking",
-        "socialism",
-        "angular",
-        "self-hatred",
-        "atmospheric",
-        "scary",
-        "serious",
-        "bassy",
-        "manic",
-        "political",
-        "mechanical",
-        "nocturnal",
-        "menacing",
-        "harsh vocals",
-        "paranoia",
-        "conscious",
-        "talk-singing",
-        "cynical",
-        "work",
-        "raw",
-        "gothic",
-        "community",
-        "macabre",
-        "noisy",
-        "cryptic",
-        "autumn",
-        "surreal",
-        "existential",
-        "violence",
-        "grief"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk",
-        "appleMusic": "https://geo.music.apple.com/nz/album/who-loves-the-sun/6769103496",
-        "youtube": "https://www.youtube.com/watch?v=GWW2dKLkdwg",
-        "bandcamp": "https://chatpile.bandcamp.com/album/who-loves-the-sun"
-      },
-      "enrichedAt": "2026-09-25T12:36:43.161Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/chelsea-wolfe/pain-is-beauty",
       "title": "Pain Is Beauty",
       "artist": "Chelsea Wolfe",
@@ -2505,6 +2419,52 @@
         "bandcamp": "https://eyelessowl.bandcamp.com/album/murmurations"
       },
       "enrichedAt": "2026-05-21T08:50:10.630Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/fabiano-do-nascimento-e-ruscha-v/aquaticos",
+      "title": "Aquáticos",
+      "artist": "Fabiano do Nascimento & E Ruscha V",
+      "year": 2026,
+      "genres": [
+        "Chillout",
+        "Folktronica"
+      ],
+      "dateAdded": "2026-09-29",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/09b7a06c8349cf5c1adc8a934e5079ef/14132540",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e465974e39c8976f25c25f19badd97de/14132540",
+      "rymRating": 3.4,
+      "primaryGenres": [
+        "Chillout",
+        "Folktronica"
+      ],
+      "secondaryGenres": [
+        "Nu Jazz",
+        "Choro",
+        "Samba",
+        "Ambient Dub"
+      ],
+      "descriptors": [
+        "aquatic",
+        "instrumental",
+        "soothing",
+        "calm",
+        "mellow",
+        "warm",
+        "summer",
+        "atmospheric",
+        "peaceful",
+        "tropical",
+        "ethereal",
+        "rhythmic",
+        "hazy",
+        "twinkling"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7nxXPzGdSyqRaANgGuxcSp",
+        "appleMusic": "https://geo.music.apple.com/tr/album/aqu%C3%A1ticos/1853608428",
+        "bandcamp": "https://music-from-memory.bandcamp.com/album/aqu-ticos"
+      },
+      "enrichedAt": "2026-09-29T12:35:26.701Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/fabiano-do-nascimento-and-vittor-santos-orchestra/vila",
@@ -3624,87 +3584,6 @@
       "enrichedAt": "2026-08-19T09:22:22.984Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/hesse-kassel/morir-saltando",
-      "title": "Morir saltando",
-      "artist": "Hesse Kassel",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Art Punk",
-        "Post-Rock"
-      ],
-      "dateAdded": "2026-07-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/43048e1428318080a236146aefc92d07/14828441",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6100004c4ccefbcfa5a0e88279514c5d/14828441",
-      "rymRating": 3.76,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Art Punk",
-        "Post-Rock",
-        "Nueva escena chilena"
-      ],
-      "secondaryGenres": [
-        "Noise Rock",
-        "Post-Hardcore",
-        "Jazz-Rock",
-        "Avant-Prog"
-      ],
-      "descriptors": [
-        "talk-singing",
-        "progressive",
-        "complex",
-        "chaotic",
-        "aggressive",
-        "energetic",
-        "eclectic",
-        "avant-garde",
-        "manic",
-        "noisy",
-        "male vocalist",
-        "uncommon time signatures",
-        "abstract",
-        "political",
-        "atmospheric",
-        "passionate",
-        "heavy",
-        "callback",
-        "stream of consciousness",
-        "angular",
-        "dense",
-        "sarcastic",
-        "alienation",
-        "maximalist",
-        "lush",
-        "technical",
-        "cynical",
-        "introspective",
-        "anxious",
-        "rebellious",
-        "angry",
-        "playful",
-        "love",
-        "surreal",
-        "dissonant",
-        "trauma",
-        "antidiscrimination",
-        "anticonsumerism",
-        "family",
-        "paranoia",
-        "harsh vocals",
-        "psychedelic",
-        "provocative"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4kjGLSRCXMMy6sCnz4bwpL",
-        "appleMusic": "https://geo.music.apple.com/mx/album/morir-saltando/6775739502",
-        "bandcamp": "https://hessekassel.bandcamp.com/album/morir-saltando"
-      },
-      "enrichedAt": "2026-09-25T12:47:45.852Z",
-      "onDeck": true,
-      "onDeckAt": "2026-08-04T15:06:40.645Z",
-      "myRating": 3
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/home/odyssey",
       "title": "Odyssey",
       "artist": "HOME",
@@ -4107,79 +3986,6 @@
       "enrichedAt": "2026-05-21T10:48:34.170Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/kaataira/caminhos-de-agua",
-      "title": "Caminhos de água",
-      "artist": "Kaátaìra",
-      "year": 2026,
-      "genres": [
-        "Folk Metal",
-        "Avant-Garde Metal",
-        "Avant-Folk"
-      ],
-      "dateAdded": "2026-05-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/bd964170d241f9af0603e8dc5371a6ea/14566761",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4ab1ddcf625fb6c6c0f738c30b336b2a/14566761",
-      "rymRating": 3.87,
-      "primaryGenres": [
-        "Folk Metal",
-        "Avant-Garde Metal",
-        "Avant-Folk",
-        "RABM"
-      ],
-      "secondaryGenres": [
-        "Nature Recordings",
-        "Brazilian Folk Music",
-        "Atmospheric Black Metal",
-        "Post-Minimalism",
-        "Avant-Folk",
-        "Post-Metal"
-      ],
-      "descriptors": [
-        "acoustic",
-        "aquatic",
-        "nature",
-        "forest",
-        "lush",
-        "harsh vocals",
-        "male vocalist",
-        "atmospheric",
-        "progressive",
-        "blast beats",
-        "ethereal",
-        "eclectic",
-        "polyrhythm",
-        "environmentalism",
-        "avant-garde",
-        "natural",
-        "bittersweet",
-        "rhythmic",
-        "female vocalist",
-        "dense",
-        "poetic",
-        "abstract",
-        "love",
-        "spiritual",
-        "maximalist",
-        "warm",
-        "family",
-        "tropical",
-        "anticolonialism",
-        "bright",
-        "twinkling",
-        "existential",
-        "grief"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4dnrqBT6ghtzE3N700h5Ex",
-        "appleMusic": "https://geo.music.apple.com/tw/album/caminhos-de-%C3%A1gua/6768540877",
-        "youtube": "https://www.youtube.com/watch?v=V2IYALrPXCo",
-        "bandcamp": "https://kaatayra.bandcamp.com/album/caminhos-de-gua"
-      },
-      "enrichedAt": "2026-05-21T10:48:38.598Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-08T15:46:30.823Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/kalax/iii",
       "title": "III",
       "artist": "Kalax",
@@ -4251,61 +4057,6 @@
       "enrichedAt": "2026-07-27T08:56:39.768Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/kelsey-lu/so-help-me-god",
-      "title": "So Help Me God",
-      "artist": "Kelsey Lu",
-      "year": 2026,
-      "genres": [
-        "Art Pop"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ad97ed445ab2603aee59fdfb3fc065fa/14406867",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/6066b0fc4b7e7e30ecde044fe9151085/14406867",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Art Pop"
-      ],
-      "secondaryGenres": [
-        "Chamber Folk",
-        "Singer-Songwriter",
-        "Chamber Music",
-        "Alt-Pop"
-      ],
-      "descriptors": [
-        "nonbinary vocalist",
-        "ethereal",
-        "lonely",
-        "longing",
-        "lush",
-        "poetic",
-        "atmospheric",
-        "passionate",
-        "soft",
-        "introspective",
-        "mellow",
-        "love",
-        "sombre",
-        "existential",
-        "smooth",
-        "psychedelic",
-        "peaceful",
-        "melancholic",
-        "memory",
-        "religious",
-        "romantic",
-        "sentimental",
-        "melodic",
-        "sad",
-        "eclectic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt",
-        "appleMusic": "https://geo.music.apple.com/us/album/-/1876521144",
-        "bandcamp": "https://kelseylu.bandcamp.com/album/so-help-me-god"
-      },
-      "enrichedAt": "2026-08-04T15:05:20.055Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/kenn-nardi/dancing-with-the-past",
       "title": "Dancing With the Past",
       "artist": "Kenn Nardi",
@@ -4340,44 +4091,6 @@
         "bandcamp": "https://tribunalrecords.bandcamp.com/album/dancing-with-the-past"
       },
       "enrichedAt": "2026-05-21T10:48:52.649Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/knats/a-great-day-in-newcastle",
-      "title": "A Great Day in Newcastle",
-      "artist": "Knats",
-      "year": 2026,
-      "genres": [
-        "Jazz Fusion"
-      ],
-      "dateAdded": "2026-09-16",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5ad773dec48f1546c8cf41f72dcb2da2/14217534",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/319d28ee657d9af9c681df3dc66693b5/14217534",
-      "rymRating": 3.55,
-      "primaryGenres": [
-        "Jazz Fusion"
-      ],
-      "secondaryGenres": [
-        "Jazz Poetry",
-        "Jazz-Rock"
-      ],
-      "descriptors": [
-        "sentimental",
-        "instrumental",
-        "lush",
-        "rhythmic",
-        "energetic",
-        "urban",
-        "conscious",
-        "warm",
-        "male vocalist",
-        "improvisation"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
-        "appleMusic": "https://geo.music.apple.com/ua/album/a-great-day-in-newcastle/1893347579",
-        "bandcamp": "https://knats.bandcamp.com/album/a-great-day-in-newcastle"
-      },
-      "enrichedAt": "2026-09-16T13:26:32.285Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/lamp/%E3%82%86%E3%82%81",
@@ -5813,6 +5526,49 @@
       "enrichedAt": "2026-05-28T08:39:51.392Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/oh-land/oh-land",
+      "title": "Oh Land",
+      "artist": "Oh Land",
+      "year": 2011,
+      "genres": [
+        "Electropop",
+        "Art Pop",
+        "Alt-Pop",
+        "Synthpop"
+      ],
+      "dateAdded": "2026-09-27",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/5f3b7a0e003ff82c809231fa6fb15573/3565361",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7aec8fb110e0e06a6f38beffe853aebe/3565361",
+      "rymRating": 3.28,
+      "primaryGenres": [
+        "Electropop",
+        "Art Pop",
+        "Alt-Pop",
+        "Synthpop"
+      ],
+      "secondaryGenres": [
+        "Chamber Pop",
+        "Indietronica",
+        "Glitch Pop"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "lush",
+        "melodic",
+        "mysterious",
+        "uplifting",
+        "sensual",
+        "quirky",
+        "nocturnal",
+        "ethereal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4ZViAZBx7M4vleeGgaNSMI",
+        "appleMusic": "https://geo.music.apple.com/us/album/oh-land/422175589"
+      },
+      "enrichedAt": "2026-09-29T12:35:31.566Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/ok-goodnight/stop-go",
       "title": "Stop / Go",
       "artist": "Ok Goodnight",
@@ -6172,70 +5928,6 @@
       "enrichedAt": "2026-05-21T11:06:07.402Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/phoebe-bridgers/lost-weekend",
-      "title": "Lost Weekend",
-      "artist": "Phoebe Bridgers",
-      "year": 2026,
-      "genres": [
-        "Indie Folk",
-        "Singer-Songwriter"
-      ],
-      "dateAdded": "2026-09-09",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1f7adc007e7d82dfa4a68be08be8da30/14754553",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dc42d37048ffb4ea645329a5eecc1a31/14754553",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Indie Folk",
-        "Singer-Songwriter"
-      ],
-      "secondaryGenres": [
-        "Americana",
-        "Folktronica",
-        "Indie Rock",
-        "Ambient"
-      ],
-      "descriptors": [
-        "atmospheric",
-        "female vocalist",
-        "love",
-        "escapism",
-        "hazy",
-        "lush",
-        "grief",
-        "death",
-        "bittersweet",
-        "dense",
-        "ethereal",
-        "nocturnal",
-        "mellow",
-        "melancholic",
-        "poetic",
-        "sentimental",
-        "introspective",
-        "lonely",
-        "longing",
-        "memory",
-        "family",
-        "fear",
-        "callback",
-        "everyday life",
-        "existential",
-        "passionate",
-        "apology",
-        "space",
-        "insecure",
-        "leitmotif",
-        "depressive",
-        "surreal"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c",
-        "appleMusic": "https://geo.music.apple.com/nz/album/lost-weekend/6781051268",
-        "bandcamp": "https://phoebebridgers.bandcamp.com/album/lost-weekend"
-      },
-      "enrichedAt": "2026-09-16T13:26:57.607Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/planet-x/moonbabies",
       "title": "MoonBabies",
       "artist": "Planet X",
@@ -6276,7 +5968,8 @@
       "year": 2017,
       "genres": [
         "Doomgaze",
-        "Shoegaze"
+        "Shoegaze",
+        "Post-Metal"
       ],
       "dateAdded": "2025-09-26",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/600432de6762e2ba1bbb07af1bf2e08e/6372883",
@@ -6284,7 +5977,8 @@
       "rymRating": 3.61,
       "primaryGenres": [
         "Doomgaze",
-        "Shoegaze"
+        "Shoegaze",
+        "Post-Metal"
       ],
       "secondaryGenres": [
         "Slowcore",
@@ -6301,25 +5995,29 @@
         "male vocalist",
         "longing",
         "lonely",
+        "heavy",
         "sentimental",
         "sombre",
-        "heavy",
         "dense",
-        "dark",
-        "sad",
-        "noisy",
         "anxious",
-        "nocturnal",
+        "sad",
+        "dark",
+        "noisy",
         "ominous",
+        "nocturnal",
+        "addiction",
+        "alcohol",
+        "ethereal",
         "self-hatred",
-        "passionate"
+        "passionate",
+        "unrequited love"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW",
         "appleMusic": "https://geo.music.apple.com/de/album/below-the-house/1191984548",
         "bandcamp": "https://planningforburial.bandcamp.com/album/below-the-house-2"
       },
-      "enrichedAt": "2026-05-21T11:06:14.526Z"
+      "enrichedAt": "2026-09-29T12:35:36.604Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
@@ -7816,7 +7514,8 @@
       "year": 2009,
       "genres": [
         "Twee Pop",
-        "Noise Pop"
+        "Noise Pop",
+        "Indie Pop"
       ],
       "dateAdded": "2025-08-15",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/27df0162eb9df732db532ec4272a6349/9902880",
@@ -7824,7 +7523,8 @@
       "rymRating": 3.49,
       "primaryGenres": [
         "Twee Pop",
-        "Noise Pop"
+        "Noise Pop",
+        "Indie Pop"
       ],
       "secondaryGenres": [
         "Jangle Pop",
@@ -7854,7 +7554,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-pains-of-being-pure-at-heart/1321216180",
         "bandcamp": "https://slumberlandrecs.bandcamp.com/album/the-pains-of-being-pure-at-heart"
       },
-      "enrichedAt": "2026-08-03T12:44:55.047Z"
+      "enrichedAt": "2026-09-29T12:35:40.852Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-reticent/the-oubliette",
