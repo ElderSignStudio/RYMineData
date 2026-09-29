@@ -2514,7 +2514,9 @@
         "youtube": "https://www.youtube.com/watch?v=Y75TT9XMMtE",
         "bandcamp": "https://fabianodonascimento.bandcamp.com/album/vila"
       },
-      "enrichedAt": "2026-09-16T13:26:23.993Z"
+      "enrichedAt": "2026-09-16T13:26:23.993Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:57.276Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/father-of-peace/the-year-of-madness",
@@ -4726,7 +4728,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/marrow-deep/6781040477",
         "bandcamp": "https://mastodon.bandcamp.com/album/marrow-deep"
       },
-      "enrichedAt": "2026-09-16T13:26:36.537Z"
+      "enrichedAt": "2026-09-16T13:26:36.537Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:53.177Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/meer/playing-house",
@@ -5329,7 +5333,9 @@
         "youtube": "https://www.youtube.com/watch?v=ht41SR_qflI",
         "bandcamp": "https://neurosis.bandcamp.com/album/an-undying-love-for-a-burning-world"
       },
-      "enrichedAt": "2026-09-16T13:26:48.713Z"
+      "enrichedAt": "2026-09-16T13:26:48.713Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:51.345Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/nirosta-steel/my-skyscraper",
@@ -5386,7 +5392,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/my-skyscraper/6769192019",
         "bandcamp": "https://ulyssa.bandcamp.com/album/my-skyscraper"
       },
-      "enrichedAt": "2026-08-25T14:21:24.441Z"
+      "enrichedAt": "2026-08-25T14:21:24.441Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:50.626Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
@@ -6231,7 +6239,9 @@
         "spotify": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm",
         "appleMusic": "https://geo.music.apple.com/us/album/age-of-the-exibitionist/6783569945"
       },
-      "enrichedAt": "2026-09-16T13:27:01.912Z"
+      "enrichedAt": "2026-09-16T13:27:01.912Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:45.104Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/returned-to-the-earth/fall-of-the-watcher",
@@ -6744,7 +6754,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/wor%24t-girl-in-america/1867530577",
         "bandcamp": "https://slayyytersongs.bandcamp.com/album/wor-t-girl-in-america"
       },
-      "enrichedAt": "2026-08-25T14:21:28.651Z"
+      "enrichedAt": "2026-08-25T14:21:28.651Z",
+      "onDeck": true,
+      "onDeckAt": "2026-09-29T12:36:40.592Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/st-vincent/st-vincent",
