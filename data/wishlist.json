@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-01T11:04:25.440Z",
+  "lastScrapedAt": "2026-10-06T12:18:53.903Z",
   "source": "rym",
   "albums": [
     {
@@ -140,64 +140,6 @@
         "bandcamp": "https://alcest.bandcamp.com/album/spiritual-instinct",
         "appleMusic": "https://geo.music.apple.com/au/album/spiritual-instinct/1474788010"
       }
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/alex-cameron/late-to-set",
-      "title": "Late to Set",
-      "artist": "Alex Cameron",
-      "year": 2026,
-      "genres": [
-        "Pop Rock",
-        "Minimal Synth"
-      ],
-      "dateAdded": "2026-08-03",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/732ce6d219527d172f48ba7d3bbf4889/14619064",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8f00552a9f73d1e180b87eaca6a26ed0/14619064",
-      "rymRating": 3.18,
-      "primaryGenres": [
-        "Pop Rock",
-        "Minimal Synth"
-      ],
-      "secondaryGenres": [
-        "Synthpop",
-        "Soft Rock",
-        "Sophisti-Pop",
-        "Blue-Eyed Soul",
-        "Art Pop"
-      ],
-      "descriptors": [
-        "dark humor",
-        "satirical",
-        "male vocalist",
-        "mellow",
-        "addiction",
-        "introspective",
-        "melancholic",
-        "manhood",
-        "entertainment industry",
-        "humorous",
-        "urban",
-        "infidelity",
-        "cryptic",
-        "divorce",
-        "hazy",
-        "cynical",
-        "domestic",
-        "crime",
-        "family",
-        "sarcastic",
-        "drugs",
-        "love",
-        "lyrical dissonance"
-      ],
-      "myRating": 4,
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0qbSHm1NgNqr441POZacaa",
-        "appleMusic": "https://geo.music.apple.com/us/album/late-to-set/1890280512"
-      },
-      "enrichedAt": "2026-09-29T12:56:36.609Z",
-      "onDeck": true,
-      "onDeckAt": "2026-09-25T12:38:58.179Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alvvays/blue-rev",
@@ -1374,7 +1316,21 @@
         "appleMusic": "https://geo.music.apple.com/it/album/the-dark/6781765812",
         "bandcamp": "https://chelseawolfe.bandcamp.com/album/the-dark"
       },
-      "enrichedAt": "2026-09-25T12:36:50.798Z"
+      "enrichedAt": "2026-09-25T12:36:50.798Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-05T13:52:14.979Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/chelsea-wolfe/abyss",
+      "title": "Abyss",
+      "artist": "Chelsea Wolfe",
+      "year": 2015,
+      "genres": [
+        "Darkwave",
+        "Gothic Rock"
+      ],
+      "dateAdded": "2026-10-02",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/831e8efc7570d101e79ca81172e74b86/14676875"
     },
     {
       "url": "https://rateyourmusic.com/release/album/choir-boy/passive-with-desire",
@@ -2087,55 +2043,6 @@
         "bandcamp": "https://elefecto.bandcamp.com/album/mem-rias-do-fogo"
       },
       "enrichedAt": "2026-05-21T08:49:41.445Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/elder/through-zero",
-      "title": "Through Zero",
-      "artist": "Elder",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Heavy Psych"
-      ],
-      "dateAdded": "2026-06-02",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/9873ece232b4926581f5345edcfe7a8a/14780440",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f7843c8877e46ce7bc92353d27ef92f9/14438246",
-      "rymRating": 3.72,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Heavy Psych"
-      ],
-      "secondaryGenres": [
-        "Space Rock",
-        "Stoner Rock",
-        "Stoner Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "longing",
-        "nature",
-        "psychedelic",
-        "melodic",
-        "atmospheric",
-        "uncommon time signatures",
-        "memory",
-        "progressive",
-        "existential",
-        "heavy",
-        "plants",
-        "complex",
-        "fuzzy",
-        "epic",
-        "repetitive"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4mfX9k6ESpTZbahuoguR42",
-        "appleMusic": "https://geo.music.apple.com/us/album/through-zero/1883162521",
-        "bandcamp": "https://bluesfuneralrecordings.bandcamp.com/album/through-zero"
-      },
-      "enrichedAt": "2026-06-05T09:55:02.085Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-18T11:20:48.243Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/eluveitie/slania",
@@ -3880,56 +3787,6 @@
       "enrichedAt": "2026-07-27T08:56:39.768Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/karnivool/in-verses",
-      "title": "In Verses",
-      "artist": "Karnivool",
-      "year": 2026,
-      "genres": [
-        "Alternative Metal",
-        "Progressive Metal",
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a7081c7a1d01728715d4b815ab61da27/13760041",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b47e02af1a54e53b8dcedca8052b0171/13760041",
-      "rymRating": 3.51,
-      "primaryGenres": [
-        "Alternative Metal",
-        "Progressive Metal",
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Alternative Rock",
-        "Art Rock"
-      ],
-      "descriptors": [
-        "atmospheric",
-        "passionate",
-        "male vocalist",
-        "progressive",
-        "melodic",
-        "introspective",
-        "heavy",
-        "dark",
-        "escapism",
-        "existential",
-        "uncommon time signatures",
-        "death",
-        "melancholic",
-        "complex",
-        "regret",
-        "anthemic",
-        "chugging",
-        "depressive",
-        "mental health"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2QJhJYgrwIL5C8x7FphmVk",
-        "appleMusic": "https://geo.music.apple.com/de/album/in-verses/1832618049"
-      },
-      "enrichedAt": "2026-10-01T11:04:22.027Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/kenn-nardi/dancing-with-the-past",
       "title": "Dancing With the Past",
       "artist": "Kenn Nardi",
@@ -4109,6 +3966,17 @@
         "youtube": "https://www.youtube.com/watch?v=HM-LY8q9t4A"
       },
       "enrichedAt": "2026-05-21T10:49:07.624Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/lorna-shore/pain-remains",
+      "title": "Pain Remains",
+      "artist": "Lorna Shore",
+      "year": 2022,
+      "genres": [
+        "Deathcore"
+      ],
+      "dateAdded": "2026-10-05",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ef7903a0b0489ff9460f2fa3514c85b6/10128393"
     },
     {
       "url": "https://rateyourmusic.com/release/album/lovebites/electric-pentagram",
@@ -5140,136 +5008,6 @@
       "enrichedAt": "2026-05-21T11:05:18.392Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/neurosis/an-undying-love-for-a-burning-world",
-      "title": "An Undying Love for a Burning World",
-      "artist": "Neurosis",
-      "year": 2026,
-      "genres": [
-        "Atmospheric Sludge Metal"
-      ],
-      "dateAdded": "2026-09-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ff2be41edd16527f464e84f8d71c7de3/14432395",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7d7f29eb0c6cba931fba723221e12ac7/14432395",
-      "rymRating": 3.8,
-      "primaryGenres": [
-        "Atmospheric Sludge Metal"
-      ],
-      "secondaryGenres": [
-        "Post-Rock",
-        "Doom Metal",
-        "Post-Industrial",
-        "Post-Hardcore"
-      ],
-      "descriptors": [
-        "apocalyptic",
-        "atmospheric",
-        "heavy",
-        "ominous",
-        "harsh vocals",
-        "angry",
-        "environmentalism",
-        "male vocalist",
-        "dense",
-        "alienation",
-        "psychedelic",
-        "passionate",
-        "aggressive",
-        "sombre",
-        "infernal",
-        "suspenseful",
-        "dark",
-        "progressive",
-        "lonely",
-        "noisy",
-        "dissonant",
-        "mysterious",
-        "philosophical",
-        "conscious",
-        "poetic",
-        "serious",
-        "hypnotic",
-        "rhythmic",
-        "spiritual",
-        "desolate",
-        "existential",
-        "decay",
-        "epic",
-        "growling",
-        "complex",
-        "anxious",
-        "pessimistic",
-        "protest"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0RgxfKNGhyiKlbkO4DO5rR",
-        "appleMusic": "https://geo.music.apple.com/us/album/an-undying-love-for-a-burning-world/1882105289",
-        "youtube": "https://www.youtube.com/watch?v=ht41SR_qflI",
-        "bandcamp": "https://neurosis.bandcamp.com/album/an-undying-love-for-a-burning-world"
-      },
-      "enrichedAt": "2026-09-16T13:26:48.713Z",
-      "onDeck": true,
-      "onDeckAt": "2026-09-29T12:36:51.345Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/nirosta-steel/my-skyscraper",
-      "title": "My Skyscraper",
-      "artist": "Nirosta Steel",
-      "year": 2026,
-      "genres": [
-        "Art Pop",
-        "Neo-Psychedelia",
-        "Hypnagogic Pop"
-      ],
-      "dateAdded": "2026-07-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/3614a115bcdc3be84202641f3410299e/14621192",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5c986b9fa4bb31b7c91cb14448ccbcc2/14621192",
-      "rymRating": 3.58,
-      "primaryGenres": [
-        "Art Pop",
-        "Neo-Psychedelia",
-        "Hypnagogic Pop"
-      ],
-      "secondaryGenres": [
-        "Sophisti-Pop",
-        "Mutant Disco",
-        "Hypnagogic Pop",
-        "Singer-Songwriter",
-        "Post-Punk"
-      ],
-      "descriptors": [
-        "gay",
-        "lo-fi",
-        "male vocalist",
-        "eclectic",
-        "sexual",
-        "psychedelic",
-        "mellow",
-        "surreal",
-        "nocturnal",
-        "sensual",
-        "rhythmic",
-        "atmospheric",
-        "smooth",
-        "repetitive",
-        "raw",
-        "hazy",
-        "dancing",
-        "mysterious",
-        "hypnotic",
-        "love",
-        "falsetto",
-        "about music"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em",
-        "appleMusic": "https://geo.music.apple.com/us/album/my-skyscraper/6769192019",
-        "bandcamp": "https://ulyssa.bandcamp.com/album/my-skyscraper"
-      },
-      "enrichedAt": "2026-08-25T14:21:24.441Z",
-      "onDeck": true,
-      "onDeckAt": "2026-09-29T12:36:50.626Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
       "title": "Mother's Guilty Pleasure Part One",
       "artist": "Noor",
@@ -5504,7 +5242,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/stop-go/6769273489",
         "bandcamp": "https://okgoodnight.bandcamp.com/album/stop-go"
       },
-      "enrichedAt": "2026-08-19T09:22:38.273Z"
+      "enrichedAt": "2026-08-19T09:22:38.273Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-06T12:11:17.403Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/orphaned-land/mabool-the-story-of-the-three-sons-of-seven",
@@ -8026,42 +7766,6 @@
         "appleMusic": "https://geo.music.apple.com/gb/album/for-unlawful-carnal-knowledge/368011586"
       },
       "enrichedAt": "2026-05-21T12:29:04.323Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/vehemence/assiege-pour-leternite",
-      "title": "Assiégé pour l'éternité",
-      "artist": "Véhémence",
-      "year": 2026,
-      "genres": [
-        "Melodic Black Metal"
-      ],
-      "dateAdded": "2026-07-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5f430a3a6da8e629142b84a7c1410423/14711550",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/458b32ddea4b97e4c0cece68de99264b/14711550",
-      "rymRating": 3.61,
-      "primaryGenres": [
-        "Melodic Black Metal"
-      ],
-      "secondaryGenres": [
-        "Neo-Medieval Folk"
-      ],
-      "descriptors": [
-        "triumphant",
-        "heavy",
-        "male vocalist",
-        "medieval",
-        "harsh vocals",
-        "blast beats",
-        "manic",
-        "epic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6TBNuYGWMyz0ny8LBje3ds",
-        "appleMusic": "https://geo.music.apple.com/nz/album/assi%C3%A9g%C3%A9-pour-l%C3%A9ternit%C3%A9/6779276088",
-        "youtube": "https://www.youtube.com/watch?v=iOIcOHozYsY",
-        "bandcamp": "https://antiqofficial.bandcamp.com/album/assi-g-pour-l-ternit?utm_source=album_release&utm_medium=email&utm_content=fanpub_fb&utm_campaign=antiqofficial%2Balbum%2Bassi-g-pour-l-ternit"
-      },
-      "enrichedAt": "2026-07-27T08:57:26.025Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/verbal-delirium/conundrum",
