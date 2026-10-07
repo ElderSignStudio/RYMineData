@@ -1,7 +1,142 @@
 {
-  "lastScrapedAt": "2026-10-07T13:44:48.644Z",
+  "lastScrapedAt": "2026-10-07T22:21:36.320Z",
   "source": "rym",
   "albums": [
+    {
+      "url": "https://rateyourmusic.com/release/album/40-watt-sun/the-inside-room",
+      "title": "The Inside Room",
+      "artist": "40 Watt Sun",
+      "year": 2011,
+      "genres": [
+        "Doom Metal"
+      ],
+      "dateAdded": "2026-10-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/810700b25a21118525d5b52c7a7444af/6182224",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/773413c88c9a1a1ff167a6ac2e66347e/6182224",
+      "rymRating": 3.64,
+      "primaryGenres": [
+        "Doom Metal"
+      ],
+      "secondaryGenres": [
+        "Slowcore"
+      ],
+      "descriptors": [
+        "lonely",
+        "melodic",
+        "longing",
+        "bittersweet",
+        "passionate",
+        "melancholic",
+        "depressive",
+        "sad",
+        "poetic",
+        "breakup",
+        "male vocalist",
+        "heavy",
+        "introspective",
+        "lethargic",
+        "romantic",
+        "atmospheric",
+        "sombre",
+        "love"
+      ],
+      "enrichedAt": "2026-10-07T22:21:14.545Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/40-watt-sun/little-weight",
+      "title": "Little Weight",
+      "artist": "40 Watt Sun",
+      "year": 2024,
+      "genres": [
+        "Slowcore"
+      ],
+      "dateAdded": "2026-10-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1b8b8d5c4280ba9ca7b05acbcc510dde/12557232",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/05eed5dadbc704e566948596299ab25c/12557232",
+      "rymRating": 3.49,
+      "primaryGenres": [
+        "Slowcore"
+      ],
+      "descriptors": [
+        "melancholic",
+        "sad",
+        "male vocalist",
+        "repetitive",
+        "sentimental",
+        "poetic",
+        "atmospheric",
+        "bittersweet",
+        "introspective",
+        "lethargic",
+        "soft",
+        "longing",
+        "love",
+        "passionate",
+        "heavy"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/32wOyPmfR7cRETOTrjvKhm",
+        "appleMusic": "https://geo.music.apple.com/us/album/little-weight/1766620920",
+        "bandcamp": "https://40wattsunmusic.bandcamp.com/album/little-weight"
+      },
+      "enrichedAt": "2026-10-07T22:21:19.158Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/after/fell-asleep-in-the-sun",
+      "title": "Fell Asleep in the Sun",
+      "artist": "After",
+      "year": 2026,
+      "genres": [
+        "Pop Rock",
+        "Indietronica"
+      ],
+      "dateAdded": "2026-10-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/4ac2c57d9eca2b9b1ea36b02b9c1cb76/14828052",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f7c538df6935916a231bfea134f8154f/14828052",
+      "rymRating": 3.5,
+      "primaryGenres": [
+        "Pop Rock",
+        "Indietronica"
+      ],
+      "secondaryGenres": [
+        "Trip Hop",
+        "Post-Britpop",
+        "Alt-Pop",
+        "Baggy"
+      ],
+      "descriptors": [
+        "pastiche",
+        "female vocalist",
+        "atmospheric",
+        "nostalgia",
+        "bittersweet",
+        "longing",
+        "lush",
+        "compassionate",
+        "male vocalist",
+        "time",
+        "sentimental",
+        "calm",
+        "ethereal",
+        "warm",
+        "introspective",
+        "love",
+        "nocturnal",
+        "bright",
+        "mellow",
+        "memory",
+        "nature",
+        "melodic",
+        "melancholic",
+        "Sun"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D",
+        "appleMusic": "https://geo.music.apple.com/ca/album/fell-asleep-in-the-sun/6788297482",
+        "bandcamp": "https://after95.bandcamp.com/album/fell-asleep-in-the-sun"
+      },
+      "enrichedAt": "2026-10-07T22:21:23.662Z"
+    },
     {
       "url": "https://rateyourmusic.com/release/album/akriila/lucy-miro-al-mundo-y-noto-que-esta-girando",
       "title": "Lucy miró al mundo y notó que está girando",
@@ -4129,61 +4264,6 @@
       "enrichedAt": "2026-05-21T10:49:56.729Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/madeline-goldstein/speaking-to-the-body",
-      "title": "Speaking to the Body",
-      "artist": "Madeline Goldstein",
-      "year": 2026,
-      "genres": [
-        "Synthpop",
-        "Darkwave"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/44c2cf714d8edfa6a4473710981674c7/14255225",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/be783e199214d06767680205e1b2ce49/14255225",
-      "rymRating": 3.43,
-      "primaryGenres": [
-        "Synthpop",
-        "Darkwave"
-      ],
-      "secondaryGenres": [
-        "New Beat",
-        "Italo-Disco",
-        "Synthwave",
-        "Minimal Synth",
-        "Coldwave"
-      ],
-      "descriptors": [
-        "minimalistic",
-        "atmospheric",
-        "nocturnal",
-        "hypnotic",
-        "party",
-        "ethereal",
-        "sentimental",
-        "ominous",
-        "apathetic",
-        "introspective",
-        "rhythmic",
-        "uplifting",
-        "pessimistic",
-        "breakup",
-        "melodic",
-        "bittersweet",
-        "sensual",
-        "female vocalist",
-        "repetitive",
-        "melancholic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2rMxX3gUoy5cmzgJufZY7i",
-        "appleMusic": "https://geo.music.apple.com/ng/album/speaking-to-the-body/1872457832",
-        "youtube": "https://www.youtube.com/watch?v=kK17vvJp0Fo",
-        "bandcamp": "https://madelinegoldstein.bandcamp.com/album/speaking-to-the-body"
-      },
-      "enrichedAt": "2026-10-07T13:44:48.644Z",
-      "myRating": 3
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/magenta/revolutions",
       "title": "Revolutions",
       "artist": "Magenta",
@@ -5333,6 +5413,66 @@
       "enrichedAt": "2026-05-21T11:05:49.439Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/panda-bear-sonic-boom/a-of-when",
+      "title": "A ? of When",
+      "artist": "Panda Bear & Sonic Boom",
+      "year": 2026,
+      "genres": [
+        "Neo-Psychedelia",
+        "Psychedelic Pop"
+      ],
+      "dateAdded": "2026-10-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/6bf8e432623659e196bfeb688c053f5a/14811501",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bf8c6a2dc6f45c8ff75e4b5bbfa4f38e/14811501",
+      "rymRating": 3.52,
+      "primaryGenres": [
+        "Neo-Psychedelia",
+        "Psychedelic Pop"
+      ],
+      "secondaryGenres": [
+        "Sunshine Pop",
+        "Brill Building",
+        "Dub",
+        "Baroque Pop"
+      ],
+      "descriptors": [
+        "lush",
+        "hypnotic",
+        "bittersweet",
+        "atmospheric",
+        "tropical",
+        "melodic",
+        "warm",
+        "psychedelic",
+        "male vocalist",
+        "Wall of Sound",
+        "bright",
+        "dense",
+        "quirky",
+        "uplifting",
+        "optimistic",
+        "mellow",
+        "political",
+        "existential",
+        "repetitive",
+        "surreal",
+        "sampling",
+        "abstract",
+        "twinkling",
+        "maximalist",
+        "summer",
+        "eclectic",
+        "introspective",
+        "sentimental",
+        "longing",
+        "melancholic"
+      ],
+      "streamingLinks": {
+        "youtube": "https://www.youtube.com/watch?v=uqUB42zCcuM"
+      },
+      "enrichedAt": "2026-10-07T22:21:28.220Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/papangu/celestial",
       "title": "Celestial",
       "artist": "Papangu",
@@ -5379,6 +5519,51 @@
       "enrichedAt": "2026-09-16T13:26:53.085Z",
       "onDeck": true,
       "onDeckAt": "2026-10-06T13:59:05.824Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/pat-metheny/side-eye-iii",
+      "title": "Side-Eye III+",
+      "artist": "Pat Metheny",
+      "year": 2026,
+      "genres": [
+        "Jazz Fusion"
+      ],
+      "dateAdded": "2026-10-07",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/0f4fe600be373408f4985f0838738f98/14158778",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cc8bbbd5753deac8878015b003b1091e/14158778",
+      "rymRating": 3.52,
+      "primaryGenres": [
+        "Jazz Fusion"
+      ],
+      "secondaryGenres": [
+        "ECM-Style Jazz",
+        "Latin Jazz"
+      ],
+      "descriptors": [
+        "instrumental",
+        "progressive",
+        "lush",
+        "bright",
+        "improvisation",
+        "complex",
+        "smooth",
+        "technical",
+        "uncommon time signatures",
+        "warm",
+        "ethereal",
+        "vocal group",
+        "melodic",
+        "eclectic",
+        "atmospheric",
+        "angular"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4KsyZ4rh9jSNqtCy2aBAmm",
+        "appleMusic": "https://geo.music.apple.com/us/album/side-eye-iii/1855497478",
+        "youtube": "https://www.youtube.com/watch?v=eYieJk75nhA",
+        "bandcamp": "https://patmethenyofficial.bandcamp.com/album/side-eye-iii"
+      },
+      "enrichedAt": "2026-10-07T22:21:32.676Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pattern-seeking-animals/prehensile-tales",
@@ -5593,8 +5778,7 @@
       "year": 2017,
       "genres": [
         "Doomgaze",
-        "Shoegaze",
-        "Post-Metal"
+        "Shoegaze"
       ],
       "dateAdded": "2025-09-26",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/600432de6762e2ba1bbb07af1bf2e08e/6372883",
@@ -5602,8 +5786,7 @@
       "rymRating": 3.61,
       "primaryGenres": [
         "Doomgaze",
-        "Shoegaze",
-        "Post-Metal"
+        "Shoegaze"
       ],
       "secondaryGenres": [
         "Slowcore",
@@ -5642,7 +5825,7 @@
         "appleMusic": "https://geo.music.apple.com/de/album/below-the-house/1191984548",
         "bandcamp": "https://planningforburial.bandcamp.com/album/below-the-house-2"
       },
-      "enrichedAt": "2026-09-29T12:35:36.604Z"
+      "enrichedAt": "2026-10-07T22:21:36.320Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
@@ -7838,51 +8021,6 @@
         "bandcamp": "https://virusnorway.bandcamp.com/album/the-agent-that-shapes-the-desert"
       },
       "enrichedAt": "2026-05-21T12:34:55.600Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/warning/rituals-of-shame",
-      "title": "Rituals of Shame",
-      "artist": "Warning",
-      "year": 2026,
-      "genres": [
-        "Doom Metal"
-      ],
-      "dateAdded": "2026-09-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a4192d94b6ca929f5c0d910d6a48b9b5/14478809",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a7648c619322e845c9bafac89784f40e/14478809",
-      "rymRating": 3.7,
-      "primaryGenres": [
-        "Doom Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "melancholic",
-        "lonely",
-        "nocturnal",
-        "heavy",
-        "passionate",
-        "plodding",
-        "poetic",
-        "love",
-        "melodic",
-        "insecure",
-        "romantic",
-        "desolate",
-        "atmospheric",
-        "introspective",
-        "funereal",
-        "sentimental",
-        "depressive",
-        "sombre",
-        "failure"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH",
-        "appleMusic": "https://geo.music.apple.com/rs/album/rituals-of-shame/1884088755",
-        "youtube": "https://www.youtube.com/watch?v=nshZj32ok88",
-        "bandcamp": "https://warningdoom.bandcamp.com/album/rituals-of-shame"
-      },
-      "enrichedAt": "2026-09-25T12:37:03.027Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/weedpecker/ii",
