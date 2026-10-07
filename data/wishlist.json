@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-06T12:19:22.581Z",
+  "lastScrapedAt": "2026-10-07T13:44:48.644Z",
   "source": "rym",
   "albums": [
     {
@@ -57,7 +57,9 @@
         "spotify": "https://open.spotify.com/album/3VcleF9EbQ0tBFsVCWeB6Y",
         "appleMusic": "https://geo.music.apple.com/es/album/lucy-mir%C3%B3-al-mundo-y-not%C3%B3-que-est%C3%A1-girando-es-mi-segundo-disco/6800933975"
       },
-      "enrichedAt": "2026-09-16T13:26:07.660Z"
+      "enrichedAt": "2026-09-16T13:26:07.660Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-06T13:00:13.208Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alan-silvestri/the-abyss",
@@ -294,48 +296,6 @@
       "enrichedAt": "2026-05-19T22:02:54.931Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/archspire/too-fast-to-die",
-      "title": "Too Fast to Die",
-      "artist": "Archspire",
-      "year": 2026,
-      "genres": [
-        "Technical Death Metal"
-      ],
-      "dateAdded": "2026-04-18",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/298b9352228f208ebeb7bc2513e91b87/14037189",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/92c2646886a6f9f166d2064a990b315a/14037189",
-      "rymRating": 3.43,
-      "primaryGenres": [
-        "Technical Death Metal"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal",
-        "Neoclassical Metal"
-      ],
-      "descriptors": [
-        "technical",
-        "male vocalist",
-        "energetic",
-        "harsh vocals",
-        "punchy",
-        "melodic",
-        "heavy",
-        "mechanical",
-        "science fiction",
-        "dense",
-        "aliens",
-        "epic",
-        "cosmic horror"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5N6SLQBIYy6dfWFp0r96yt",
-        "appleMusic": "https://geo.music.apple.com/nz/album/too-fast-to-die/1855056093",
-        "youtube": "https://www.youtube.com/watch?v=bKlxhjKfnMQ",
-        "bandcamp": "https://archspire.bandcamp.com/album/too-fast-to-die"
-      },
-      "enrichedAt": "2026-05-20T23:46:33.270Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/ars-nova/the-goddess-of-darkness",
       "title": "The Goddess of Darkness",
       "artist": "Ars Nova",
@@ -449,56 +409,6 @@
         "appleMusic": "https://geo.music.apple.com/it/album/negative-space/1369809530"
       },
       "enrichedAt": "2026-05-20T23:46:44.166Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/asia-menor/vaho",
-      "title": "Vaho",
-      "artist": "Asia Menor",
-      "year": 2026,
-      "genres": [
-        "Post-Rock",
-        "Post-Punk",
-        "Art Punk"
-      ],
-      "dateAdded": "2026-09-16",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/112e0ed3619648b0274c6fa2fec9ac1c/15025012",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/352c12c997ee7eae9ee9a483b38f02d5/15025012",
-      "rymRating": 3.66,
-      "primaryGenres": [
-        "Post-Rock",
-        "Post-Punk",
-        "Art Punk",
-        "Nueva escena chilena"
-      ],
-      "secondaryGenres": [
-        "Math Rock",
-        "Noise Rock"
-      ],
-      "descriptors": [
-        "abstract",
-        "anxious",
-        "progressive",
-        "dense",
-        "poetic",
-        "existential",
-        "male vocalist",
-        "atmospheric",
-        "rhythmic",
-        "noisy",
-        "uncommon time signatures",
-        "angular",
-        "avant-garde",
-        "melancholic",
-        "talk-singing",
-        "dissonant",
-        "complex"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/7oE9J8ccrqYBwlygc5fYGe",
-        "appleMusic": "https://geo.music.apple.com/jp/album/vaho/6804833243",
-        "bandcamp": "https://sellofisura.bandcamp.com/album/vaho"
-      },
-      "enrichedAt": "2026-09-25T12:36:33.436Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/autumns-grey-solace/within-the-depths-of-a-darkened-forest",
@@ -1173,7 +1083,9 @@
         "spotify": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk",
         "appleMusic": "https://geo.music.apple.com/us/album/day-and-night/6781767022"
       },
-      "enrichedAt": "2026-09-25T12:36:38.526Z"
+      "enrichedAt": "2026-09-25T12:36:38.526Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-06T13:59:15.694Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -4228,7 +4140,7 @@
       "dateAdded": "2026-08-04",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/44c2cf714d8edfa6a4473710981674c7/14255225",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/be783e199214d06767680205e1b2ce49/14255225",
-      "rymRating": 3.49,
+      "rymRating": 3.43,
       "primaryGenres": [
         "Synthpop",
         "Darkwave"
@@ -4237,7 +4149,8 @@
         "New Beat",
         "Italo-Disco",
         "Synthwave",
-        "Minimal Synth"
+        "Minimal Synth",
+        "Coldwave"
       ],
       "descriptors": [
         "minimalistic",
@@ -4267,7 +4180,8 @@
         "youtube": "https://www.youtube.com/watch?v=kK17vvJp0Fo",
         "bandcamp": "https://madelinegoldstein.bandcamp.com/album/speaking-to-the-body"
       },
-      "enrichedAt": "2026-08-04T15:05:23.815Z"
+      "enrichedAt": "2026-10-07T13:44:48.644Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/magenta/revolutions",
@@ -5462,7 +5376,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/celestial/6790491890",
         "bandcamp": "https://papangu.bandcamp.com/album/celestial"
       },
-      "enrichedAt": "2026-09-16T13:26:53.085Z"
+      "enrichedAt": "2026-09-16T13:26:53.085Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-06T13:59:05.824Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pattern-seeking-animals/prehensile-tales",
@@ -5866,83 +5782,6 @@
         "bandcamp": "https://ravian.bandcamp.com/album/kinsmen-from-afar-2"
       },
       "enrichedAt": "2026-05-28T08:39:58.731Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/rebecca-black/age-of-the-exhibitionist",
-      "title": "Age of the Exhibitionist",
-      "artist": "Rebecca Black",
-      "year": 2026,
-      "genres": [
-        "Dance-Pop",
-        "Electropop"
-      ],
-      "dateAdded": "2026-09-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/e8b1d5b321fbc25463d147e5e2055a9e/14812413",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b922b4ab36b907af3af58d48c3e5e4e9/14812413",
-      "rymRating": 3.64,
-      "primaryGenres": [
-        "Dance-Pop",
-        "Electropop"
-      ],
-      "secondaryGenres": [
-        "House",
-        "Contemporary R&B"
-      ],
-      "descriptors": [
-        "sensual",
-        "sexual",
-        "punchy",
-        "playful",
-        "female vocalist",
-        "buzzy",
-        "party",
-        "rhythmic",
-        "LGBTQ",
-        "energetic",
-        "dancing",
-        "eclectic",
-        "nightlife",
-        "hedonism",
-        "lesbian",
-        "sassy",
-        "flirting",
-        "fame",
-        "urban",
-        "rebellious",
-        "anthemic",
-        "provocative",
-        "bassy",
-        "dense",
-        "entertainment industry",
-        "longing",
-        "stuttering vocals",
-        "fashion",
-        "kink",
-        "bouncy",
-        "maximalist",
-        "vulgar",
-        "four on the floor",
-        "love",
-        "futuristic",
-        "bisexual",
-        "romantic",
-        "lush",
-        "gender",
-        "beauty",
-        "individuality",
-        "about music",
-        "success",
-        "kissing",
-        "boastful",
-        "womanhood"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm",
-        "appleMusic": "https://geo.music.apple.com/us/album/age-of-the-exibitionist/6783569945"
-      },
-      "enrichedAt": "2026-09-16T13:27:01.912Z",
-      "onDeck": true,
-      "onDeckAt": "2026-09-29T12:36:45.104Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/returned-to-the-earth/fall-of-the-watcher",
@@ -7174,7 +7013,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/l-i-f-t/1854512647",
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/l-i-f-t-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-09-08T17:40:27.536Z"
+      "enrichedAt": "2026-09-08T17:40:27.536Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-06T13:59:08.330Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-notwist/neon-golden",
