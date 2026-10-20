@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-20T08:56:10.223Z",
+  "lastScrapedAt": "2026-10-20T20:13:07.145Z",
   "source": "rym",
   "albums": [
     {
@@ -191,6 +191,50 @@
       "enrichedAt": "2026-05-19T22:03:54.307Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/amon-amarth/with-oden-on-our-side",
+      "title": "With Oden on Our Side",
+      "artist": "Amon Amarth",
+      "year": 2006,
+      "genres": [
+        "Melodic Death Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/23f4f894a56e451212f8e64c9cffc648/2719796",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7188e6099e329d2db4839238094a995a/2719796",
+      "rymRating": 3.61,
+      "primaryGenres": [
+        "Melodic Death Metal"
+      ],
+      "descriptors": [
+        "mythology",
+        "melodic",
+        "pagan",
+        "war",
+        "male vocalist",
+        "heavy",
+        "epic",
+        "energetic",
+        "aggressive",
+        "triumphant",
+        "violence",
+        "martial",
+        "medieval",
+        "history",
+        "Vikings",
+        "death",
+        "anthemic",
+        "dark",
+        "harsh vocals"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6vpateiy0wXz9o376HI5F3",
+        "appleMusic": "https://geo.music.apple.com/ru/album/with-oden-on-our-side/191430782",
+        "youtube": "https://www.youtube.com/watch?v=FiVLOus9xVM",
+        "bandcamp": "https://amonamarth.bandcamp.com/album/with-oden-on-our-side"
+      },
+      "enrichedAt": "2026-10-20T20:11:32.726Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/andrew-heath/evenfall",
       "title": "Evenfall",
       "artist": "Andrew Heath",
@@ -199,6 +243,60 @@
       "dateAdded": "2025-07-21",
       "rymRating": 2,
       "enrichedAt": "2026-05-19T22:25:49.671Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/angerer/palingenaeon",
+      "title": "Palingenæon",
+      "artist": "Angerer",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal",
+        "Avant-Garde Metal",
+        "Djent",
+        "Symphonic Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/5be287f06f6f9cd5a870b00f43f81d5a/14350219",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b058ca7f8b0b31fa9309c4fef7ffb380/14350219",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Avant-Garde Metal",
+        "Djent",
+        "Symphonic Metal"
+      ],
+      "secondaryGenres": [
+        "Jazz Fusion",
+        "Cinematic Classical",
+        "Funk Metal",
+        "Progressive Folk",
+        "Deathcore"
+      ],
+      "descriptors": [
+        "surreal",
+        "complex",
+        "progressive",
+        "uncommon time signatures",
+        "eclectic",
+        "quirky",
+        "manic",
+        "humorous",
+        "maximalist",
+        "chaotic",
+        "ominous",
+        "avant-garde",
+        "harsh vocals",
+        "orchestral",
+        "theatrical",
+        "technical",
+        "dense",
+        "existential",
+        "dark"
+      ],
+      "streamingLinks": {
+        "bandcamp": "https://angerer.bandcamp.com/album/palingen-on"
+      },
+      "enrichedAt": "2026-10-20T20:11:41.527Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/anthill-cinema/cycle_s-a-life-chronicle",
@@ -462,6 +560,44 @@
         "bandcamp": "https://asura-altar.bandcamp.com/album/renaissance"
       },
       "enrichedAt": "2026-10-19T09:22:38.015Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/at-the-gates/the-ghost-of-a-future-dead",
+      "title": "The Ghost of a Future Dead",
+      "artist": "At the Gates",
+      "year": 2026,
+      "genres": [
+        "Melodic Death Metal",
+        "Gothenburg Sound"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/c99cee565c93eb0fcc66d8eccf4228ec/14303164",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8d93c7343530933bb18d3c71068b07d7/14303164",
+      "rymRating": 3.43,
+      "primaryGenres": [
+        "Melodic Death Metal",
+        "Gothenburg Sound"
+      ],
+      "descriptors": [
+        "harsh vocals",
+        "melodic",
+        "heavy",
+        "male vocalist",
+        "aggressive",
+        "dark",
+        "sombre",
+        "pessimistic",
+        "atmospheric",
+        "death",
+        "energetic",
+        "decay"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C",
+        "appleMusic": "https://geo.music.apple.com/nz/album/the-ghost-of-a-future-dead/1873364809",
+        "bandcamp": "https://centurymedia.bandcamp.com/album/the-ghost-of-a-future-dead-24-bit-hd-audio"
+      },
+      "enrichedAt": "2026-10-20T20:11:48.808Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/autumns-grey-solace/within-the-depths-of-a-darkened-forest",
@@ -1209,78 +1345,6 @@
       "enrichedAt": "2026-08-25T14:21:14.219Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/carly-rae-jepsen/day-and-night",
-      "title": "Day and Night",
-      "artist": "Carly Rae Jepsen",
-      "year": 2026,
-      "genres": [
-        "Dance-Pop",
-        "Alt-Pop"
-      ],
-      "dateAdded": "2026-09-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/6fc6c89dbb58cdfaecfe1a9bb8260839/14747963",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9ff6d498b89bce421213d6b25f739df8/14747963",
-      "rymRating": 3.73,
-      "primaryGenres": [
-        "Dance-Pop",
-        "Alt-Pop"
-      ],
-      "secondaryGenres": [
-        "House",
-        "Sophisti-Pop",
-        "Pop Rock",
-        "Nu-Disco",
-        "Neo-Psychedelia"
-      ],
-      "descriptors": [
-        "daytime",
-        "romantic",
-        "nocturnal",
-        "female vocalist",
-        "eclectic",
-        "love",
-        "sensual",
-        "nightlife",
-        "lush",
-        "concept album",
-        "playful",
-        "autumn",
-        "domestic",
-        "ethereal",
-        "bassy",
-        "warm",
-        "longing",
-        "soothing",
-        "bittersweet",
-        "urban",
-        "party",
-        "psychedelic",
-        "summer",
-        "passionate",
-        "dancing",
-        "leisure",
-        "soft",
-        "escapism",
-        "smooth",
-        "rhythmic",
-        "uplifting",
-        "anthemic",
-        "hedonism",
-        "optimistic",
-        "marriage",
-        "loyalty",
-        "mellow",
-        "time"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk",
-        "appleMusic": "https://geo.music.apple.com/us/album/day-and-night/6781767022"
-      },
-      "enrichedAt": "2026-09-25T12:36:38.526Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-06T13:59:15.694Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/cell/live-in-poland",
       "title": "Live in Poland",
       "artist": "Cell",
@@ -1719,6 +1783,46 @@
       "enrichedAt": "2026-05-20T23:59:54.154Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/crown-lands/apocalypse",
+      "title": "Apocalypse",
+      "artist": "Crown Lands",
+      "year": 2026,
+      "genres": [
+        "Progressive Rock",
+        "Hard Rock"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/5c1041b3b6e0592f3527763b9252dfbd/14250853",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3a337fa27ee90d4b02d421e4c05007c0/14250853",
+      "rymRating": 3.45,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Hard Rock"
+      ],
+      "secondaryGenres": [
+        "Heavy Metal",
+        "Heavy Psych"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "uncommon time signatures",
+        "complex",
+        "melodic",
+        "triumphant",
+        "fantasy",
+        "science fiction",
+        "passionate",
+        "energetic",
+        "optimistic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/36lllLGzprBD2m3dfpQWip",
+        "appleMusic": "https://geo.music.apple.com/it/album/apocalypse/1870523245",
+        "bandcamp": "https://crownlands.bandcamp.com/album/apocalypse-deluxe-edition-24-bit-hd-audio"
+      },
+      "enrichedAt": "2026-10-20T20:11:55.393Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/crucis/los-delirios-del-mariscal",
       "title": "Los delirios del Mariscal",
       "artist": "Crucis",
@@ -1949,6 +2053,34 @@
       "coverUrl": "https://cdn.sonemic.net/i/75/w/13e86ebd9bc113fb203102447ce9d1cd/14885130",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e0e04c50b79c61af62e6df08651dfdd3/14885130",
       "enrichedAt": "2026-08-03T12:44:41.384Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/dreadnought/wars-of-spirit-wards-of-light",
+      "title": "Wars of Spirit // Wards of Light",
+      "artist": "Dreadnought",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/692c3c8bda403b75682e87a932b425d4/14876188",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9b14d75fb49f1c63eb57dc2dc9e31fda/14876188",
+      "rymRating": 3.58,
+      "primaryGenres": [
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Post-Metal"
+      ],
+      "descriptors": [
+        "female vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9",
+        "appleMusic": "https://geo.music.apple.com/it/album/wars-of-spirit-wards-of-light/6784840480",
+        "bandcamp": "https://dreadnoughtdenver.bandcamp.com/album/wars-of-spirit-wards-of-light-24-bit-hd-audio"
+      },
+      "enrichedAt": "2026-10-20T20:12:03.009Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
@@ -3130,6 +3262,85 @@
       "onDeckAt": "2026-10-19T12:29:42.066Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/gloryhammer/tales-from-the-kingdom-of-fife",
+      "title": "Tales From the Kingdom of Fife",
+      "artist": "Gloryhammer",
+      "year": 2013,
+      "genres": [
+        "Power Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/44d91978192fb87a47fb32a115c11744/10062983",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/44f8456d30b145221c99c26cd342a61c/10062983",
+      "rymRating": 3.34,
+      "primaryGenres": [
+        "Power Metal"
+      ],
+      "secondaryGenres": [
+        "Symphonic Metal"
+      ],
+      "descriptors": [
+        "satirical",
+        "fantasy",
+        "male vocalist",
+        "melodic",
+        "epic",
+        "energetic",
+        "science fiction"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE",
+        "appleMusic": "https://geo.music.apple.com/us/album/tales-from-the-kingdom-of-fife/626041273",
+        "bandcamp": "https://gloryhammer.bandcamp.com/album/tales-from-the-kingdom-of-fife"
+      },
+      "enrichedAt": "2026-10-20T20:12:10.726Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/gong/bright-spirit",
+      "title": "Bright Spirit",
+      "artist": "Gong",
+      "year": 2026,
+      "genres": [
+        "Progressive Rock",
+        "Psychedelic Rock",
+        "Neo-Canterbury"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/92f540ef97b4fff83184c0e1c1554653/14138509",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f593cc680ee4ffea94fa6a3b54a291de/14138509",
+      "rymRating": 3.4,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Psychedelic Rock",
+        "Neo-Canterbury"
+      ],
+      "secondaryGenres": [
+        "Space Rock",
+        "Canterbury Scene",
+        "Anatolian Rock",
+        "Avant-Prog"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "psychedelic",
+        "progressive",
+        "space",
+        "passionate",
+        "eclectic",
+        "hypnotic",
+        "playful",
+        "optimistic",
+        "quirky",
+        "warm"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1sBxI5bIyn6vXhfMVi1eor",
+        "appleMusic": "https://geo.music.apple.com/us/album/-/1859947619",
+        "bandcamp": "https://gongband.bandcamp.com/album/bright-spirit-4"
+      },
+      "enrichedAt": "2026-10-20T20:12:19.196Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/gungfly/please-be-quiet",
       "title": "Please Be Quiet",
       "artist": "Gungfly",
@@ -3781,6 +3992,31 @@
       "enrichedAt": "2026-06-05T09:55:12.919Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/iapetus/the-mother-void",
+      "title": "The Mother Void",
+      "artist": "Iapetus",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal",
+        "Melodic Death Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/3606f330eac34ca3864110d8fd199bda/15150115",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1261aa9473229e06b3a60c9e6b5377c1/15150115",
+      "rymRating": 3.74,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Melodic Death Metal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6ipNjJ6lW6m3NnaZ3SAIEJ",
+        "appleMusic": "https://geo.music.apple.com/nz/album/the-mother-void/6790585327",
+        "youtube": "https://www.youtube.com/watch?v=zgUnC_OHmK0",
+        "bandcamp": "https://iapetus1.bandcamp.com/album/the-mother-void"
+      },
+      "enrichedAt": "2026-10-20T20:12:26.528Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/in-the-woods/strange-in-stereo",
       "title": "Strange in Stereo",
       "artist": "In the Woods...",
@@ -3880,7 +4116,52 @@
         "appleMusic": "https://geo.music.apple.com/de/album/netherworlds/6789116125",
         "bandcamp": "https://centurymedia.bandcamp.com/album/netherworlds-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-10-11T21:23:42.027Z"
+      "enrichedAt": "2026-10-11T21:23:42.027Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-20T14:01:57.542Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/insomnium/above-the-weeping-world",
+      "title": "Above the Weeping World",
+      "artist": "Insomnium",
+      "year": 2006,
+      "genres": [
+        "Melodic Death Metal"
+      ],
+      "dateAdded": "2018-11-11",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/bac6a3f659eda8d0fbd53037c04d582b/1957267",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/203e03fc91d265a451280809734f8f89/1957267",
+      "rymRating": 3.73,
+      "primaryGenres": [
+        "Melodic Death Metal"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal"
+      ],
+      "descriptors": [
+        "melancholic",
+        "sombre",
+        "male vocalist",
+        "melodic",
+        "death",
+        "atmospheric",
+        "dark",
+        "epic",
+        "poetic",
+        "pessimistic",
+        "energetic",
+        "passionate",
+        "nocturnal",
+        "concept album",
+        "harsh vocals"
+      ],
+      "myRating": 3.5,
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0iXAfc9KqQZSW7s3Z5ugoE",
+        "appleMusic": "https://geo.music.apple.com/pt/album/above-the-weeping-world/1660162295",
+        "bandcamp": "https://candlelightrecordsuk.bandcamp.com/album/above-the-weeping-world"
+      },
+      "enrichedAt": "2026-10-20T20:12:33.993Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/invisible/el-jardin-de-los-presentes",
@@ -7504,6 +7785,26 @@
       "enrichedAt": "2026-05-21T12:08:21.196Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/the-flower-kings/hope",
+      "title": "Hope",
+      "artist": "The Flower Kings",
+      "year": 2026,
+      "genres": [
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/49c1dca0b8ca7e65876153f6791e97d4/14940254",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ef3bd3219a697a1e7180c42e55e95a76/14940254",
+      "primaryGenres": [
+        "Progressive Rock"
+      ],
+      "streamingLinks": {
+        "appleMusic": "https://geo.music.apple.com/it/album/hope/6796732649",
+        "bandcamp": "https://insideoutmusic.bandcamp.com/album/hope-24-bit-hd-audio"
+      },
+      "enrichedAt": "2026-10-20T20:12:41.129Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/the-lord-weird-slough-feg/traveller",
       "title": "Traveller",
       "artist": "The Lord Weird Slough Feg",
@@ -8241,6 +8542,37 @@
       "enrichedAt": "2026-05-21T12:27:52.260Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/triosphere/oceans-above-stars-below",
+      "title": "Oceans Above, Stars Below",
+      "artist": "Triosphere",
+      "year": 2026,
+      "genres": [
+        "Power Metal",
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/b4ee1924ac89aee5b2f35843a1d2d79a/14583840",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c258f662203f5189f1ec434cfd719fd6/14583840",
+      "rymRating": 3.68,
+      "primaryGenres": [
+        "Power Metal",
+        "Progressive Metal"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "energetic",
+        "technical",
+        "melodic",
+        "heavy",
+        "passionate"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ",
+        "appleMusic": "https://geo.music.apple.com/ca/album/oceans-above-stars-below/1895034965"
+      },
+      "enrichedAt": "2026-10-20T20:12:49.109Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/tripswitch/memento-mori",
       "title": "Memento Mori",
       "artist": "Tripswitch",
@@ -8630,6 +8962,36 @@
       "enrichedAt": "2026-05-21T12:35:08.908Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/whispered/honorbound",
+      "title": "Honorbound",
+      "artist": "Whispered",
+      "year": 2026,
+      "genres": [
+        "Melodic Death Metal",
+        "Symphonic Metal"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/40f765049101d6e4d7082a97eef91174/14908297",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/572391a977d5b2f8312a3e2064e925b2/14908297",
+      "rymRating": 3.57,
+      "primaryGenres": [
+        "Melodic Death Metal",
+        "Symphonic Metal"
+      ],
+      "secondaryGenres": [
+        "Japanese Folk Music",
+        "Folk Metal"
+      ],
+      "descriptors": [
+        "epic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1usX2rMImnAtnDqjAODEvd",
+        "bandcamp": "https://whisperedband.bandcamp.com/album/honorbound"
+      },
+      "enrichedAt": "2026-10-20T20:12:57.730Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/wolfclub/infinity",
       "title": "Infinity",
       "artist": "Wolfclub",
@@ -8783,6 +9145,43 @@
         "youtube": "https://www.youtube.com/watch?v=RQKhUWcVxnA"
       },
       "enrichedAt": "2026-07-08T13:26:51.616Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/yes/aurora",
+      "title": "Aurora",
+      "artist": "Yes",
+      "year": 2026,
+      "genres": [
+        "Symphonic Prog"
+      ],
+      "dateAdded": "2026-10-20",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/ba5da0d4f4313451475a260681736d70/14485906",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5f10f8e5602ff0d458e5b5d5d0fcbb4d/14485906",
+      "rymRating": 2.68,
+      "primaryGenres": [
+        "Symphonic Prog"
+      ],
+      "secondaryGenres": [
+        "Progressive Pop"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "uncommon time signatures",
+        "melodic",
+        "optimistic",
+        "lush",
+        "conscious",
+        "complex",
+        "philosophical",
+        "ethereal",
+        "uplifting"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5TDltjAh03cwDinX4SXwnR",
+        "appleMusic": "https://geo.music.apple.com/es/album/aurora-bonus-tracks-edition/1888238949",
+        "bandcamp": "https://insideoutmusic.bandcamp.com/album/aurora-bonus-tracks-edition-24-bit-hd-audio"
+      },
+      "enrichedAt": "2026-10-20T20:13:07.145Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/yeule/serotonin-ii",
