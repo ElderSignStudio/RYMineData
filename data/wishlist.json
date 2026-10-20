@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-19T09:23:22.117Z",
+  "lastScrapedAt": "2026-10-20T08:56:10.223Z",
   "source": "rym",
   "albums": [
     {
@@ -692,47 +692,6 @@
         "spotify": "https://open.spotify.com/album/6DDWgH4oq5PgeUAgKtUGCp"
       },
       "enrichedAt": "2026-05-20T23:52:37.248Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/big-big-train/woodcut",
-      "title": "Woodcut",
-      "artist": "Big Big Train",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-01-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/b4a1d26bbb799efd65f6f4ce7f2e3035/13930040",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ab4113922ab7e3650a466b35455305ea/13930040",
-      "rymRating": 3.47,
-      "primaryGenres": [
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Symphonic Prog",
-        "Rock Opera"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "longing",
-        "lush",
-        "dense",
-        "concept album",
-        "melodic",
-        "passionate",
-        "theatrical",
-        "fantasy",
-        "uncommon time signatures",
-        "twinkling"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5eq5JyiAM04EogZGDqBxr1",
-        "appleMusic": "https://geo.music.apple.com/gb/album/woodcut/1846169290",
-        "bandcamp": "https://bigbigtrain.bandcamp.com/album/woodcut-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-05-20T23:52:43.410Z",
-      "onDeck": true,
-      "onDeckAt": "2026-06-16T10:27:10.931Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/billy-oskay-and-micheal-o-domhnaill/nightnoise",
@@ -3166,7 +3125,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/space-1993-wrath-of-kor-virliath/6782098667",
         "bandcamp": "https://gloryhammer.bandcamp.com/album/space-1993-wrath-of-kor-virliath"
       },
-      "enrichedAt": "2026-10-19T09:23:08.018Z"
+      "enrichedAt": "2026-10-19T09:23:08.018Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-19T12:29:42.066Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gungfly/please-be-quiet",
@@ -5643,7 +5604,7 @@
       "dateAdded": "2026-04-28",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/c6a02a9a8dcd7512b369a431fc70c2fd/14424657",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3d62a310e1fcac408616eef73736427f/14424657",
-      "rymRating": 3.6,
+      "rymRating": 3.56,
       "primaryGenres": [
         "Progressive Folk",
         "Chamber Folk",
@@ -5657,40 +5618,44 @@
       "descriptors": [
         "theatrical",
         "maximalist",
-        "poetic",
         "progressive",
-        "acoustic",
-        "male vocalist",
+        "poetic",
         "gay",
         "lush",
+        "acoustic",
         "melodic",
+        "male vocalist",
         "passionate",
-        "orchestral",
-        "dreams",
         "complex",
         "quirky",
         "romantic",
-        "dense",
+        "orchestral",
+        "dreams",
         "epic",
         "bright",
-        "warm",
+        "dense",
         "suspenseful",
         "longing",
+        "warm",
         "technical",
+        "atmospheric",
         "pastoral",
         "anxious",
-        "atmospheric",
         "cryptic",
-        "nocturnal"
+        "betrayal",
+        "nocturnal",
+        "surreal",
+        "avant-garde"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J",
         "appleMusic": "https://geo.music.apple.com/nz/album/my-new-band-believe/1866890640",
         "bandcamp": "https://mynewbandbelieve.bandcamp.com/album/my-new-band-believe"
       },
-      "enrichedAt": "2026-05-21T11:05:11.102Z",
+      "enrichedAt": "2026-10-19T19:44:02.737Z",
       "onDeck": true,
-      "onDeckAt": "2026-07-31T10:32:54.286Z"
+      "onDeckAt": "2026-07-31T10:32:54.286Z",
+      "myRating": 4.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/nailed-to-obscurity/king-delusion",
@@ -5724,6 +5689,52 @@
         "bandcamp": "https://nailedtoobscurity.bandcamp.com/album/king-delusion"
       },
       "enrichedAt": "2026-05-21T11:05:18.392Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/neal-morse/_",
+      "title": "?",
+      "artist": "Neal Morse",
+      "year": 2005,
+      "genres": [
+        "Progressive Rock",
+        "Christian Rock",
+        "Symphonic Prog"
+      ],
+      "dateAdded": "2026-10-19",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/dd424ff0125516a43afe56946e0d3d2e/1474526",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a4309bbd1f10a8b15a5e9f6ae7f76c31/1474526",
+      "rymRating": 3.68,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Christian Rock",
+        "Symphonic Prog",
+        "CCM"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal"
+      ],
+      "descriptors": [
+        "Christian",
+        "concept album",
+        "male vocalist",
+        "epic",
+        "philosophical",
+        "playful",
+        "passionate",
+        "eclectic",
+        "longing",
+        "energetic",
+        "desert",
+        "complex",
+        "religious",
+        "melodic",
+        "triumphant"
+      ],
+      "streamingLinks": {
+        "appleMusic": "https://geo.music.apple.com/us/album/question/135733855",
+        "youtube": "https://www.youtube.com/watch?v=z3CMdOxPKW4"
+      },
+      "enrichedAt": "2026-10-20T08:56:10.223Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
@@ -6088,54 +6099,6 @@
         "bandcamp": "https://kscopemusic.bandcamp.com/album/the-hidden-step"
       },
       "enrichedAt": "2026-10-19T09:23:22.117Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/papangu/celestial",
-      "title": "Celestial",
-      "artist": "Papangu",
-      "year": 2026,
-      "genres": [
-        "Jazz-Rock",
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-09-16",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ad5de7f0ba2e5429a95898513d615d34/14941178",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9c63c2fd1b332e96820052a2bc14bcc4/14941178",
-      "rymRating": 3.58,
-      "primaryGenres": [
-        "Jazz-Rock",
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Zeuhl",
-        "Symphonic Prog",
-        "Progressive Metal",
-        "Jazz Fusion"
-      ],
-      "descriptors": [
-        "warm",
-        "psychedelic",
-        "technical",
-        "avant-garde",
-        "harsh vocals",
-        "uncommon time signatures",
-        "progressive",
-        "energetic",
-        "male vocalist",
-        "playful",
-        "lush",
-        "rhythmic",
-        "complex",
-        "heavy"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/7FRhh6PfQM1FtxrAwGcEBz",
-        "appleMusic": "https://geo.music.apple.com/it/album/celestial/6790491890",
-        "bandcamp": "https://papangu.bandcamp.com/album/celestial"
-      },
-      "enrichedAt": "2026-09-16T13:26:53.085Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-06T13:59:05.824Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pattern-seeking-animals/prehensile-tales",
@@ -7735,51 +7698,6 @@
         "bandcamp": "https://themostserenerepublic.bandcamp.com/album/population"
       },
       "enrichedAt": "2026-05-21T12:08:39.901Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/the-neal-morse-band/l_i_f_t",
-      "title": "L.I.F.T.",
-      "artist": "The Neal Morse Band",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Christian Rock",
-        "Symphonic Prog"
-      ],
-      "dateAdded": "2026-03-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/c148825a0557c16f65d66fa01be48eed/14020788",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9e7c76489f7b88c9f112a39014e1f6d1/14020788",
-      "rymRating": 3.47,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Christian Rock",
-        "Symphonic Prog"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal",
-        "Rock Opera"
-      ],
-      "descriptors": [
-        "optimistic",
-        "uplifting",
-        "male vocalist",
-        "Christian",
-        "passionate",
-        "uncommon time signatures",
-        "introspective",
-        "progressive",
-        "religious",
-        "epic",
-        "concept album"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2RkuUTi9x5wDpvJTaivZHr",
-        "appleMusic": "https://geo.music.apple.com/us/album/l-i-f-t/1854512647",
-        "bandcamp": "https://insideoutmusic.bandcamp.com/album/l-i-f-t-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-09-08T17:40:27.536Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-06T13:59:08.330Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-notwist/neon-golden",
