@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-20T20:13:07.145Z",
+  "lastScrapedAt": "2026-10-23T13:35:17.623Z",
   "source": "rym",
   "albums": [
     {
@@ -1351,11 +1351,13 @@
       "year": 2026,
       "genres": [],
       "dateAdded": "2026-10-14",
-      "enrichedAt": "2026-10-16T16:28:53.864Z",
+      "enrichedAt": "2026-10-21T10:38:01.687Z",
       "onDeck": true,
       "onDeckAt": "2026-10-14T23:35:18.100Z",
       "myRating": 5,
-      "coverUrl": "https://cdn.sonemic.net/2.5/img/images/10m.png"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/402e898b571da8b446c2cf71c4e77b99/15148785",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f13bab86826625081b930ada431e0ec6/15148785",
+      "rymRating": 5
     },
     {
       "url": "https://rateyourmusic.com/release/album/cenotaph/riding-our-black-oceans",
@@ -1783,46 +1785,6 @@
       "enrichedAt": "2026-05-20T23:59:54.154Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/crown-lands/apocalypse",
-      "title": "Apocalypse",
-      "artist": "Crown Lands",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Hard Rock"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5c1041b3b6e0592f3527763b9252dfbd/14250853",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3a337fa27ee90d4b02d421e4c05007c0/14250853",
-      "rymRating": 3.45,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Hard Rock"
-      ],
-      "secondaryGenres": [
-        "Heavy Metal",
-        "Heavy Psych"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "uncommon time signatures",
-        "complex",
-        "melodic",
-        "triumphant",
-        "fantasy",
-        "science fiction",
-        "passionate",
-        "energetic",
-        "optimistic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/36lllLGzprBD2m3dfpQWip",
-        "appleMusic": "https://geo.music.apple.com/it/album/apocalypse/1870523245",
-        "bandcamp": "https://crownlands.bandcamp.com/album/apocalypse-deluxe-edition-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-20T20:11:55.393Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/crucis/los-delirios-del-mariscal",
       "title": "Los delirios del Mariscal",
       "artist": "Crucis",
@@ -2042,17 +2004,6 @@
       "enrichedAt": "2026-05-21T08:49:06.779Z",
       "onDeck": true,
       "onDeckAt": "2026-06-12T13:56:06.145Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/dragonland/prophecies",
-      "title": "Prophecies",
-      "artist": "Dragonland",
-      "year": 2026,
-      "genres": [],
-      "dateAdded": "2026-08-03",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/13e86ebd9bc113fb203102447ce9d1cd/14885130",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/e0e04c50b79c61af62e6df08651dfdd3/14885130",
-      "enrichedAt": "2026-08-03T12:44:41.384Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dreadnought/wars-of-spirit-wards-of-light",
@@ -3228,40 +3179,6 @@
       "enrichedAt": "2026-05-28T08:39:40.101Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/gloryhammer/space-1993-wrath-of-kor-virliath",
-      "title": "Space 1993: Wrath of Kor-Virliath",
-      "artist": "Gloryhammer",
-      "year": 2026,
-      "genres": [
-        "Power Metal",
-        "Symphonic Metal"
-      ],
-      "dateAdded": "2026-10-19",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/26b543a1b89fafe43350de7e8474bc8c/14832784",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/272e0c11834acffb7c373384903f1a14/14832784",
-      "rymRating": 3.73,
-      "primaryGenres": [
-        "Power Metal",
-        "Symphonic Metal"
-      ],
-      "descriptors": [
-        "epic",
-        "energetic",
-        "male vocalist",
-        "anthemic",
-        "science fiction",
-        "melodic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6omfB3FEnCZjXjsH1AMoCI",
-        "appleMusic": "https://geo.music.apple.com/it/album/space-1993-wrath-of-kor-virliath/6782098667",
-        "bandcamp": "https://gloryhammer.bandcamp.com/album/space-1993-wrath-of-kor-virliath"
-      },
-      "enrichedAt": "2026-10-19T09:23:08.018Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-19T12:29:42.066Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/gloryhammer/tales-from-the-kingdom-of-fife",
       "title": "Tales From the Kingdom of Fife",
       "artist": "Gloryhammer",
@@ -3294,51 +3211,6 @@
         "bandcamp": "https://gloryhammer.bandcamp.com/album/tales-from-the-kingdom-of-fife"
       },
       "enrichedAt": "2026-10-20T20:12:10.726Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/gong/bright-spirit",
-      "title": "Bright Spirit",
-      "artist": "Gong",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock",
-        "Psychedelic Rock",
-        "Neo-Canterbury"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/92f540ef97b4fff83184c0e1c1554653/14138509",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f593cc680ee4ffea94fa6a3b54a291de/14138509",
-      "rymRating": 3.4,
-      "primaryGenres": [
-        "Progressive Rock",
-        "Psychedelic Rock",
-        "Neo-Canterbury"
-      ],
-      "secondaryGenres": [
-        "Space Rock",
-        "Canterbury Scene",
-        "Anatolian Rock",
-        "Avant-Prog"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "psychedelic",
-        "progressive",
-        "space",
-        "passionate",
-        "eclectic",
-        "hypnotic",
-        "playful",
-        "optimistic",
-        "quirky",
-        "warm"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1sBxI5bIyn6vXhfMVi1eor",
-        "appleMusic": "https://geo.music.apple.com/us/album/-/1859947619",
-        "bandcamp": "https://gongband.bandcamp.com/album/bright-spirit-4"
-      },
-      "enrichedAt": "2026-10-20T20:12:19.196Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/gungfly/please-be-quiet",
@@ -5874,71 +5746,6 @@
       "enrichedAt": "2026-05-21T11:05:07.459Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/my-new-band-believe/my-new-band-believe",
-      "title": "My New Band Believe",
-      "artist": "My New Band Believe",
-      "year": 2026,
-      "genres": [
-        "Progressive Folk",
-        "Chamber Folk"
-      ],
-      "dateAdded": "2026-04-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/c6a02a9a8dcd7512b369a431fc70c2fd/14424657",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3d62a310e1fcac408616eef73736427f/14424657",
-      "rymRating": 3.56,
-      "primaryGenres": [
-        "Progressive Folk",
-        "Chamber Folk",
-        "Windmill Scene"
-      ],
-      "secondaryGenres": [
-        "Avant-Folk",
-        "Singer-Songwriter",
-        "Folk Baroque"
-      ],
-      "descriptors": [
-        "theatrical",
-        "maximalist",
-        "progressive",
-        "poetic",
-        "gay",
-        "lush",
-        "acoustic",
-        "melodic",
-        "male vocalist",
-        "passionate",
-        "complex",
-        "quirky",
-        "romantic",
-        "orchestral",
-        "dreams",
-        "epic",
-        "bright",
-        "dense",
-        "suspenseful",
-        "longing",
-        "warm",
-        "technical",
-        "atmospheric",
-        "pastoral",
-        "anxious",
-        "cryptic",
-        "betrayal",
-        "nocturnal",
-        "surreal",
-        "avant-garde"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J",
-        "appleMusic": "https://geo.music.apple.com/nz/album/my-new-band-believe/1866890640",
-        "bandcamp": "https://mynewbandbelieve.bandcamp.com/album/my-new-band-believe"
-      },
-      "enrichedAt": "2026-10-19T19:44:02.737Z",
-      "onDeck": true,
-      "onDeckAt": "2026-07-31T10:32:54.286Z",
-      "myRating": 4.5
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/nailed-to-obscurity/king-delusion",
       "title": "King Delusion",
       "artist": "Nailed to Obscurity",
@@ -6642,25 +6449,6 @@
         "bandcamp": "https://planningforburial.bandcamp.com/album/below-the-house-2"
       },
       "enrichedAt": "2026-10-07T22:21:36.320Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/polyphia/be-not-afraid",
-      "title": "Be Not Afraid",
-      "artist": "Polyphia",
-      "year": 2026,
-      "genres": [],
-      "dateAdded": "2026-10-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/2f5b99ee0320c163a076858812cde283/14978048",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/be065d1b40ad02fb44d3911c1f6e38e9/14978048",
-      "rymRating": 0.5,
-      "descriptors": [
-        "Wall of Sound",
-        "noisy"
-      ],
-      "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/it/album/be-not-afraid/6803986529"
-      },
-      "enrichedAt": "2026-10-11T21:25:32.647Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
@@ -7785,26 +7573,6 @@
       "enrichedAt": "2026-05-21T12:08:21.196Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/the-flower-kings/hope",
-      "title": "Hope",
-      "artist": "The Flower Kings",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/49c1dca0b8ca7e65876153f6791e97d4/14940254",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ef3bd3219a697a1e7180c42e55e95a76/14940254",
-      "primaryGenres": [
-        "Progressive Rock"
-      ],
-      "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/it/album/hope/6796732649",
-        "bandcamp": "https://insideoutmusic.bandcamp.com/album/hope-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-20T20:12:41.129Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/the-lord-weird-slough-feg/traveller",
       "title": "Traveller",
       "artist": "The Lord Weird Slough Feg",
@@ -8049,8 +7817,7 @@
       "year": 2009,
       "genres": [
         "Twee Pop",
-        "Noise Pop",
-        "Indie Pop"
+        "Noise Pop"
       ],
       "dateAdded": "2025-08-15",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/27df0162eb9df732db532ec4272a6349/9902880",
@@ -8058,8 +7825,7 @@
       "rymRating": 3.49,
       "primaryGenres": [
         "Twee Pop",
-        "Noise Pop",
-        "Indie Pop"
+        "Noise Pop"
       ],
       "secondaryGenres": [
         "Jangle Pop",
@@ -8089,7 +7855,7 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-pains-of-being-pure-at-heart/1321216180",
         "bandcamp": "https://slumberlandrecs.bandcamp.com/album/the-pains-of-being-pure-at-heart"
       },
-      "enrichedAt": "2026-09-29T12:35:40.852Z"
+      "enrichedAt": "2026-10-23T13:35:17.623Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-reticent/the-oubliette",
@@ -8960,36 +8726,6 @@
         "bandcamp": "https://weedpecker.bandcamp.com/album/ii"
       },
       "enrichedAt": "2026-05-21T12:35:08.908Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/whispered/honorbound",
-      "title": "Honorbound",
-      "artist": "Whispered",
-      "year": 2026,
-      "genres": [
-        "Melodic Death Metal",
-        "Symphonic Metal"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/40f765049101d6e4d7082a97eef91174/14908297",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/572391a977d5b2f8312a3e2064e925b2/14908297",
-      "rymRating": 3.57,
-      "primaryGenres": [
-        "Melodic Death Metal",
-        "Symphonic Metal"
-      ],
-      "secondaryGenres": [
-        "Japanese Folk Music",
-        "Folk Metal"
-      ],
-      "descriptors": [
-        "epic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/1usX2rMImnAtnDqjAODEvd",
-        "bandcamp": "https://whisperedband.bandcamp.com/album/honorbound"
-      },
-      "enrichedAt": "2026-10-20T20:12:57.730Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/wolfclub/infinity",
