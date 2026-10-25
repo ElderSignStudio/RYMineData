@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-23T13:35:17.623Z",
+  "lastScrapedAt": "2026-10-25T22:14:45.504Z",
   "source": "rym",
   "albums": [
     {
@@ -529,6 +529,46 @@
       "enrichedAt": "2026-05-20T23:46:44.166Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/artificial-silence/hollow-drift",
+      "title": "Hollow Drift",
+      "artist": "Artificial Silence",
+      "year": 2026,
+      "genres": [
+        "Progressive Rock",
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/f533f8f122e86e12bb4a216b4856913e/14651702",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/507bc5508b0ca784ae549d63d6eadb63/14651702",
+      "rymRating": 3.39,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Symphonic Prog",
+        "Djent",
+        "Dark Cabaret"
+      ],
+      "descriptors": [
+        "progressive",
+        "regret",
+        "uncommon time signatures",
+        "complex",
+        "theatrical",
+        "technical",
+        "melodic",
+        "epic",
+        "passionate",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5j6SQrjNfZ7RHFFjt6TVcd",
+        "bandcamp": "https://artificialsilence.bandcamp.com/album/hollow-drift"
+      },
+      "enrichedAt": "2026-10-25T22:14:15.551Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/asura/renaissance",
       "title": "Renaissance",
       "artist": "Asura",
@@ -598,6 +638,40 @@
         "bandcamp": "https://centurymedia.bandcamp.com/album/the-ghost-of-a-future-dead-24-bit-hd-audio"
       },
       "enrichedAt": "2026-10-20T20:11:48.808Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/ep/atomic-guava/beach-episode",
+      "title": "Beach Episode",
+      "artist": "Atomic Guava",
+      "year": 2024,
+      "genres": [
+        "Progressive Metal",
+        "Alternative Metal",
+        "Djent"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/703189ab7aeb9594bdcd6838c812faeb/12739806",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/14815392bbbd7a77abc7c0b845e031e3/12739806",
+      "rymRating": 3.59,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Alternative Metal",
+        "Djent"
+      ],
+      "secondaryGenres": [
+        "Pop Rock",
+        "Electronic",
+        "J-Pop"
+      ],
+      "descriptors": [
+        "progressive",
+        "eclectic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2sqVuQZCzC6D38nLFAwldd",
+        "bandcamp": "https://atomicguava.bandcamp.com/album/beach-episode"
+      },
+      "enrichedAt": "2026-10-25T22:14:22.082Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/autumns-grey-solace/within-the-depths-of-a-darkened-forest",
@@ -759,6 +833,47 @@
         "bandcamp": "https://battles.bandcamp.com/album/mirrored"
       },
       "enrichedAt": "2026-05-20T23:47:00.696Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/bear-ghost/tiny-hitman",
+      "title": "Tiny Hitman",
+      "artist": "Bear Ghost",
+      "year": 2026,
+      "genres": [
+        "Alternative Rock",
+        "Dark Cabaret",
+        "Art Rock"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/c0d3ebddb7640642da897bf0c960e8a1/15005428",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7ec799e9045fb16b2b5fbcc676154b41/15005428",
+      "rymRating": 3.46,
+      "primaryGenres": [
+        "Alternative Rock",
+        "Dark Cabaret",
+        "Art Rock"
+      ],
+      "secondaryGenres": [
+        "Progressive Rock",
+        "Swancore",
+        "Geek Rock",
+        "Indietronica"
+      ],
+      "descriptors": [
+        "playful",
+        "energetic",
+        "theatrical",
+        "male vocalist",
+        "quirky",
+        "dancing",
+        "political",
+        "rhythmic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6bKM2pTgZHRHPpAhh70A4M",
+        "appleMusic": "https://geo.music.apple.com/us/album/tiny-hitman/6802502610"
+      },
+      "enrichedAt": "2026-10-25T22:14:26.535Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/believe/yesterday-is-a-friend",
@@ -2004,6 +2119,42 @@
       "enrichedAt": "2026-05-21T08:49:06.779Z",
       "onDeck": true,
       "onDeckAt": "2026-06-12T13:56:06.145Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/dirt-poor-robins/firebird",
+      "title": "Firebird",
+      "artist": "Dirt Poor Robins",
+      "year": 2024,
+      "genres": [
+        "Progressive Pop",
+        "Art Pop",
+        "Dark Cabaret"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/16e1ebfd732c6f60ed3ca6952b1e48ce/11853978",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3af7ecc0ffb773858a0ac6b8b4ff0546/11853978",
+      "rymRating": 3.39,
+      "primaryGenres": [
+        "Progressive Pop",
+        "Art Pop",
+        "Dark Cabaret"
+      ],
+      "secondaryGenres": [
+        "Synthpop",
+        "Progressive Rock",
+        "Rock Opera"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "male vocalist",
+        "progressive"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2W4OTm8a7op7GYbAXYKl3g",
+        "youtube": "https://www.youtube.com/watch?v=vXlJyFUUxq0",
+        "bandcamp": "https://dirtpoorrobins.bandcamp.com/album/firebird"
+      },
+      "enrichedAt": "2026-10-25T22:14:30.648Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dreadnought/wars-of-spirit-wards-of-light",
@@ -3886,7 +4037,9 @@
         "youtube": "https://www.youtube.com/watch?v=zgUnC_OHmK0",
         "bandcamp": "https://iapetus1.bandcamp.com/album/the-mother-void"
       },
-      "enrichedAt": "2026-10-20T20:12:26.528Z"
+      "enrichedAt": "2026-10-20T20:12:26.528Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-25T22:15:03.092Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/in-the-woods/strange-in-stereo",
@@ -7476,6 +7629,90 @@
       "enrichedAt": "2026-09-16T13:27:09.582Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/the-avalanches/no-bad-memories",
+      "title": "No Bad Memories",
+      "artist": "The Avalanches",
+      "year": 2026,
+      "genres": [
+        "Sound Collage",
+        "Electronic Dance Music",
+        "Nu-Disco"
+      ],
+      "dateAdded": "2026-10-24",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/cdfda5226b0bc8a5680f9ee0ba2d4806/14904854",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/348f3c09c76adacf3c90d5d64ec63327/14904854",
+      "rymRating": 3.65,
+      "primaryGenres": [
+        "Sound Collage",
+        "Electronic Dance Music",
+        "Nu-Disco"
+      ],
+      "secondaryGenres": [
+        "Plunderphonics",
+        "Chillwave",
+        "Broken Transmission",
+        "Vapor",
+        "House",
+        "Jingles",
+        "Neo-Psychedelia",
+        "Footwork",
+        "Vaporwave"
+      ],
+      "descriptors": [
+        "nostalgia",
+        "technology",
+        "sampling",
+        "vocal chops",
+        "internet",
+        "sentimental",
+        "eclectic",
+        "surreal",
+        "television",
+        "concept album",
+        "futuristic",
+        "happy",
+        "playful",
+        "psychedelic",
+        "warm",
+        "bittersweet",
+        "avant-garde",
+        "energetic",
+        "love",
+        "repetitive",
+        "radio",
+        "rhythmic",
+        "dense",
+        "bright",
+        "summer",
+        "optimistic",
+        "longing",
+        "party",
+        "maximalist",
+        "video games",
+        "bouncy",
+        "chaotic",
+        "hazy",
+        "uplifting",
+        "visual arts",
+        "adolescence",
+        "utopian",
+        "about music",
+        "suite",
+        "shopping",
+        "mellow",
+        "daytime",
+        "female vocalist",
+        "childhood",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX",
+        "appleMusic": "https://geo.music.apple.com/us/album/no-bad-memories/6794202148",
+        "youtube": "https://www.youtube.com/watch?v=3sqxG57DKJ4"
+      },
+      "enrichedAt": "2026-10-25T22:14:36.217Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/the-chronicles-of-father-robin/the-songs-and-tales-of-airoea-book-i-the-tale-of-father-robin-state-of-nature",
       "title": "The Songs & Tales of Airoea - Book I: The Tale of Father Robin (State of Nature)",
       "artist": "The Chronicles of Father Robin",
@@ -7856,6 +8093,80 @@
         "bandcamp": "https://slumberlandrecs.bandcamp.com/album/the-pains-of-being-pure-at-heart"
       },
       "enrichedAt": "2026-10-23T13:35:17.623Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/the-protomen/act-iii-this-city-made-us",
+      "title": "Act III: This City Made Us",
+      "artist": "The Protomen",
+      "year": 2025,
+      "genres": [
+        "Rock Opera",
+        "Hard Rock"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1bf8c091bdfd43d9caa0b0f1af4153bb/14260649",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9e315a3c849dcab9d6fde4b8c2a47dbc/14260649",
+      "rymRating": 3.72,
+      "primaryGenres": [
+        "Rock Opera",
+        "Hard Rock"
+      ],
+      "secondaryGenres": [
+        "AOR",
+        "Heavy Metal",
+        "Neo-Prog",
+        "Art Rock"
+      ],
+      "descriptors": [
+        "concept album",
+        "science fiction",
+        "video games",
+        "narrative",
+        "nocturnal",
+        "futuristic",
+        "male vocalist",
+        "robots",
+        "rebellious",
+        "female vocalist",
+        "passionate",
+        "epic",
+        "sombre",
+        "longing",
+        "urban",
+        "energetic",
+        "ominous",
+        "revolution",
+        "courage",
+        "anti-authoritarian",
+        "maximalist",
+        "death",
+        "violence",
+        "uplifting",
+        "theatrical",
+        "melodic",
+        "anxious",
+        "bittersweet",
+        "suspenseful",
+        "introspective",
+        "ethereal",
+        "punchy",
+        "vengeance",
+        "cold",
+        "progressive",
+        "dense",
+        "regret",
+        "triumphant",
+        "dystopian",
+        "anthemic",
+        "serious",
+        "atmospheric"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0R9RleqWWEgkUnBAqItwia",
+        "appleMusic": "https://geo.music.apple.com/bw/album/act-iii-this-city-made-us/1864117799",
+        "bandcamp": "https://theprotomen.bandcamp.com/album/act-iii-this-city-made-us"
+      },
+      "enrichedAt": "2026-10-25T22:14:40.633Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-reticent/the-oubliette",
@@ -8336,7 +8647,9 @@
         "spotify": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ",
         "appleMusic": "https://geo.music.apple.com/ca/album/oceans-above-stars-below/1895034965"
       },
-      "enrichedAt": "2026-10-20T20:12:49.109Z"
+      "enrichedAt": "2026-10-20T20:12:49.109Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-25T22:15:07.159Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tripswitch/memento-mori",
@@ -8442,6 +8755,52 @@
         "bandcamp": "https://troldhaugen.bandcamp.com/album/obzkure-anekdotez-for-maniakal-massez"
       },
       "enrichedAt": "2026-05-21T12:28:47.108Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/troldhaugen/idio_syncrasies",
+      "title": "Idio+Syncrasies",
+      "artist": "Troldhaugen",
+      "year": 2017,
+      "genres": [
+        "Avant-Garde Metal",
+        "Funk Metal"
+      ],
+      "dateAdded": "2026-10-25",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/bd0c2b669349c80fc28e36efda5e444b/6621253",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f6cf2b02c050a01ac237de418c0f2aee/6621253",
+      "rymRating": 3.41,
+      "primaryGenres": [
+        "Avant-Garde Metal",
+        "Funk Metal"
+      ],
+      "secondaryGenres": [
+        "Electronic",
+        "Avant-Prog",
+        "Zolo"
+      ],
+      "descriptors": [
+        "quirky",
+        "uncommon time signatures",
+        "playful",
+        "manic",
+        "humorous",
+        "technical",
+        "avant-garde",
+        "eclectic",
+        "sampling",
+        "rhythmic",
+        "theatrical",
+        "chaotic",
+        "energetic",
+        "male vocalist",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/10JK6pvcQrXF5gCB11LVK8",
+        "appleMusic": "https://geo.music.apple.com/ca/album/idio-syncrasies/1288434256",
+        "bandcamp": "https://troldhaugen.bandcamp.com/album/idio-syncrasies"
+      },
+      "enrichedAt": "2026-10-25T22:14:45.504Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/ubiquity/the-ascendant-travels-among-the-stars",
@@ -8917,7 +9276,9 @@
         "appleMusic": "https://geo.music.apple.com/es/album/aurora-bonus-tracks-edition/1888238949",
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/aurora-bonus-tracks-edition-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-10-20T20:13:07.145Z"
+      "enrichedAt": "2026-10-20T20:13:07.145Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-25T22:15:08.432Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/yeule/serotonin-ii",
