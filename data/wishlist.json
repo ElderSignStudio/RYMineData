@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-25T22:14:45.504Z",
+  "lastScrapedAt": "2026-10-26T12:05:39.845Z",
   "source": "rym",
   "albums": [
     {
@@ -566,7 +566,9 @@
         "spotify": "https://open.spotify.com/album/5j6SQrjNfZ7RHFFjt6TVcd",
         "bandcamp": "https://artificialsilence.bandcamp.com/album/hollow-drift"
       },
-      "enrichedAt": "2026-10-25T22:14:15.551Z"
+      "enrichedAt": "2026-10-25T22:14:15.551Z",
+      "onDeck": true,
+      "onDeckAt": "2026-10-26T16:01:02.347Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/asura/renaissance",
@@ -7710,7 +7712,8 @@
         "appleMusic": "https://geo.music.apple.com/us/album/no-bad-memories/6794202148",
         "youtube": "https://www.youtube.com/watch?v=3sqxG57DKJ4"
       },
-      "enrichedAt": "2026-10-25T22:14:36.217Z"
+      "enrichedAt": "2026-10-26T11:10:32.635Z",
+      "myRating": 2.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-chronicles-of-father-robin/the-songs-and-tales-of-airoea-book-i-the-tale-of-father-robin-state-of-nature",
@@ -9276,9 +9279,10 @@
         "appleMusic": "https://geo.music.apple.com/es/album/aurora-bonus-tracks-edition/1888238949",
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/aurora-bonus-tracks-edition-24-bit-hd-audio"
       },
-      "enrichedAt": "2026-10-20T20:13:07.145Z",
+      "enrichedAt": "2026-10-26T12:05:39.845Z",
       "onDeck": true,
-      "onDeckAt": "2026-10-25T22:15:08.432Z"
+      "onDeckAt": "2026-10-25T22:15:08.432Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/yeule/serotonin-ii",
