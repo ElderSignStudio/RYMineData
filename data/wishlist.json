@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-26T12:05:39.845Z",
+  "lastScrapedAt": "2026-10-28T11:43:37.097Z",
   "source": "rym",
   "albums": [
     {
@@ -540,7 +540,7 @@
       "dateAdded": "2026-10-25",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/f533f8f122e86e12bb4a216b4856913e/14651702",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/507bc5508b0ca784ae549d63d6eadb63/14651702",
-      "rymRating": 3.39,
+      "rymRating": 3.4,
       "primaryGenres": [
         "Progressive Rock",
         "Progressive Metal"
@@ -566,7 +566,7 @@
         "spotify": "https://open.spotify.com/album/5j6SQrjNfZ7RHFFjt6TVcd",
         "bandcamp": "https://artificialsilence.bandcamp.com/album/hollow-drift"
       },
-      "enrichedAt": "2026-10-25T22:14:15.551Z",
+      "enrichedAt": "2026-10-27T11:48:31.862Z",
       "onDeck": true,
       "onDeckAt": "2026-10-26T16:01:02.347Z"
     },
@@ -849,7 +849,7 @@
       "dateAdded": "2026-10-25",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/c0d3ebddb7640642da897bf0c960e8a1/15005428",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7ec799e9045fb16b2b5fbcc676154b41/15005428",
-      "rymRating": 3.46,
+      "rymRating": 3.47,
       "primaryGenres": [
         "Alternative Rock",
         "Dark Cabaret",
@@ -875,7 +875,8 @@
         "spotify": "https://open.spotify.com/album/6bKM2pTgZHRHPpAhh70A4M",
         "appleMusic": "https://geo.music.apple.com/us/album/tiny-hitman/6802502610"
       },
-      "enrichedAt": "2026-10-25T22:14:26.535Z"
+      "enrichedAt": "2026-10-27T11:31:06.836Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/believe/yesterday-is-a-friend",
@@ -1091,40 +1092,6 @@
         "bandcamp": "https://brunopernadas.bandcamp.com/album/those-who-throw-objects-at-the-crocodiles-will-be-asked-to-retrieve-them"
       },
       "enrichedAt": "2026-10-11T21:23:20.165Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/brymir/wings-of-fire",
-      "title": "Wings of Fire",
-      "artist": "Brymir",
-      "year": 2019,
-      "genres": [
-        "Melodic Death Metal",
-        "Symphonic Metal"
-      ],
-      "dateAdded": "2026-05-27",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/087ba4ceb73b50d074f054dca5757531/7370031",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4e4bfc1e9807e066b2c2f7ecaef2ae48/7370031",
-      "rymRating": 3.46,
-      "primaryGenres": [
-        "Melodic Death Metal",
-        "Symphonic Metal"
-      ],
-      "secondaryGenres": [
-        "Power Metal"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "technical",
-        "melodic",
-        "epic",
-        "heavy",
-        "energetic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/722zogn86ytqPIGU4MJuo0",
-        "appleMusic": "https://geo.music.apple.com/us/album/wings-of-fire/1785257439"
-      },
-      "enrichedAt": "2026-05-28T08:39:19.965Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/caladan-brood/echoes-of-battle",
@@ -1529,7 +1496,10 @@
       "year": 2013,
       "genres": [
         "Darkwave",
-        "Ethereal Wave"
+        "Ethereal Wave",
+        "Singer-Songwriter",
+        "Contemporary Folk",
+        "Neofolk"
       ],
       "dateAdded": "2025-10-18",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/a960d393745ce7f9394e1d217c0d03db/12299701",
@@ -1537,41 +1507,50 @@
       "rymRating": 3.65,
       "primaryGenres": [
         "Darkwave",
-        "Ethereal Wave"
+        "Ethereal Wave",
+        "Singer-Songwriter",
+        "Contemporary Folk",
+        "Neofolk"
       ],
       "secondaryGenres": [
-        "Gothic Rock"
+        "Gothic Rock",
+        "Psychedelic Folk",
+        "Post-Industrial"
       ],
       "descriptors": [
-        "ethereal",
         "sombre",
         "nocturnal",
+        "ethereal",
+        "female vocalist",
         "melancholic",
         "atmospheric",
-        "female vocalist",
-        "dark",
         "cold",
+        "dark",
         "ominous",
-        "apocalyptic",
-        "introspective",
         "death",
-        "funereal",
+        "apocalyptic",
         "lonely",
-        "love",
+        "funereal",
+        "introspective",
         "passionate",
-        "poetic",
         "cryptic",
-        "eclectic",
+        "love",
+        "poetic",
         "hypnotic",
-        "surreal"
+        "surreal",
+        "eclectic",
+        "gothic",
+        "epic",
+        "macabre",
+        "decay",
+        "fuzzy"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/4rpm9Ez8nfVsQvNmHDbgyp",
         "appleMusic": "https://geo.music.apple.com/us/album/pain-is-beauty/1808567966",
-        "youtube": "https://www.youtube.com/watch?v=puM-dX__pK0",
         "bandcamp": "https://chelseawolfe.bandcamp.com/album/pain-is-beauty"
       },
-      "enrichedAt": "2026-05-20T23:59:31.169Z"
+      "enrichedAt": "2026-10-28T11:43:14.714Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/chelsea-wolfe/abyss",
@@ -1580,7 +1559,8 @@
       "year": 2015,
       "genres": [
         "Darkwave",
-        "Gothic Rock"
+        "Gothic Rock",
+        "Contemporary Folk"
       ],
       "dateAdded": "2026-10-02",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/831e8efc7570d101e79ca81172e74b86/14676875",
@@ -1588,7 +1568,8 @@
       "rymRating": 3.71,
       "primaryGenres": [
         "Darkwave",
-        "Gothic Rock"
+        "Gothic Rock",
+        "Contemporary Folk"
       ],
       "secondaryGenres": [
         "Ethereal Wave",
@@ -1598,8 +1579,8 @@
       ],
       "descriptors": [
         "melancholic",
-        "dark",
         "ethereal",
+        "dark",
         "nocturnal",
         "atmospheric",
         "female vocalist",
@@ -1611,16 +1592,16 @@
         "noisy",
         "passionate",
         "lonely",
-        "cryptic",
         "dense",
         "poetic",
+        "cryptic",
         "depressive",
-        "longing",
         "disturbing",
+        "longing",
         "love",
+        "scary",
         "gothic",
         "dissonant",
-        "scary",
         "paranoia",
         "dreams"
       ],
@@ -1629,7 +1610,7 @@
         "appleMusic": "https://geo.music.apple.com/mx/album/abyss/1808585211",
         "bandcamp": "https://chelseawolfe.bandcamp.com/album/abyss"
       },
-      "enrichedAt": "2026-10-06T12:19:15.864Z"
+      "enrichedAt": "2026-10-28T11:43:18.963Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/choir-boy/passive-with-desire",
@@ -2157,6 +2138,50 @@
         "bandcamp": "https://dirtpoorrobins.bandcamp.com/album/firebird"
       },
       "enrichedAt": "2026-10-25T22:14:30.648Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/dissimulator/artifice-dissolves",
+      "title": "Artifice Dissolves",
+      "artist": "Dissimulator",
+      "year": 2026,
+      "genres": [
+        "Technical Thrash Metal",
+        "Technical Death Metal"
+      ],
+      "dateAdded": "2026-10-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9b57feb33e320c7144eeb9b0d50ef286/14955202",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cb6c4a71e23fd0b220c0acd55f373fb0/14955202",
+      "rymRating": 3.66,
+      "primaryGenres": [
+        "Technical Thrash Metal",
+        "Technical Death Metal"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal"
+      ],
+      "descriptors": [
+        "energetic",
+        "heavy",
+        "technical",
+        "aggressive",
+        "science fiction",
+        "futuristic",
+        "uncommon time signatures",
+        "technology",
+        "male vocalist",
+        "progressive",
+        "chaotic",
+        "complex",
+        "dense",
+        "blast beats",
+        "harsh vocals"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3p7BS3uCYqy4qRwGoLa0kh",
+        "appleMusic": "https://geo.music.apple.com/de/album/artifice-dissolves/6802273352",
+        "youtube": "https://www.youtube.com/watch?v=ECUVNU_ncNs"
+      },
+      "enrichedAt": "2026-10-28T11:43:23.397Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/dreadnought/wars-of-spirit-wards-of-light",
@@ -3757,6 +3782,67 @@
       "enrichedAt": "2026-05-21T08:57:18.578Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/heavensouls/cantu-of-the-sower",
+      "title": "Cantu of the Sower",
+      "artist": "heavensouls",
+      "year": 2026,
+      "genres": [
+        "IDM",
+        "Epic Collage"
+      ],
+      "dateAdded": "2026-10-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/90ee044af9aaeecd81a319ce18357ff8/15120304",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/abaea252201cb5fda6049a4bdf34cfe1/15120304",
+      "rymRating": 3.75,
+      "primaryGenres": [
+        "IDM",
+        "Epic Collage"
+      ],
+      "secondaryGenres": [
+        "Nu Jazz",
+        "Glitch",
+        "Deconstructed Club",
+        "Ambient",
+        "Experimental Hip Hop",
+        "Neo-Psychedelia"
+      ],
+      "descriptors": [
+        "progressive",
+        "dense",
+        "twinkling",
+        "ethereal",
+        "playful",
+        "sampling",
+        "eclectic",
+        "surreal",
+        "maximalist",
+        "futuristic",
+        "bright",
+        "uplifting",
+        "lush",
+        "atmospheric",
+        "psychedelic",
+        "male vocalist",
+        "complex",
+        "chaotic",
+        "melodic",
+        "vocal chops",
+        "political",
+        "suburban",
+        "energetic",
+        "avant-garde",
+        "domestic",
+        "aquatic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5qv5TSja6MaBA9GwL7mewJ",
+        "appleMusic": "https://geo.music.apple.com/nz/album/cantu-of-the-sower/6796075558",
+        "youtube": "https://www.youtube.com/watch?v=IVuwNCCjLWI",
+        "bandcamp": "https://officialauthks.bandcamp.com/album/cantu-of-the-sower"
+      },
+      "enrichedAt": "2026-10-28T11:43:27.744Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/heligoland/heligoland",
       "title": "Heligoland",
       "artist": "Heligoland",
@@ -4282,30 +4368,6 @@
         "bandcamp": "https://jacobroberge.bandcamp.com/album/the-passing-2"
       },
       "enrichedAt": "2026-05-21T08:58:03.553Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/james-byrd/octoglomerate",
-      "title": "Octoglomerate",
-      "artist": "James Byrd",
-      "year": 1994,
-      "genres": [
-        "Neoclassical Metal"
-      ],
-      "dateAdded": "2025-06-08",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/0364d022d7ddd943332d32d0d530add0/1429933",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/102ceafee53718bb1c43d17034c566b9/1429933",
-      "rymRating": 3.34,
-      "primaryGenres": [
-        "Neoclassical Metal"
-      ],
-      "descriptors": [
-        "instrumental"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0e7iRCe8rbtcpaSt9q0fUh",
-        "appleMusic": "https://geo.music.apple.com/us/album/octoglomerate/1049053742"
-      },
-      "enrichedAt": "2026-05-21T08:58:11.258Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/jargon/the-fading-thought",
@@ -5132,6 +5194,66 @@
         "youtube": "https://www.youtube.com/watch?v=0BB7a89wiNc"
       },
       "enrichedAt": "2026-05-21T10:50:17.931Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/marina-herlop/dja-dja",
+      "title": "Dja Dja",
+      "artist": "Marina Herlop",
+      "year": 2026,
+      "genres": [
+        "Avant-Folk",
+        "Electronic"
+      ],
+      "dateAdded": "2026-10-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1211afe963dbad8cd7c061fbbc13f46b/14778914",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/466b366352160228643405306b2870fc/14778914/marina-herlop-dja-dja-Cover-Art.jpg",
+      "rymRating": 3.63,
+      "primaryGenres": [
+        "Avant-Folk",
+        "Electronic"
+      ],
+      "secondaryGenres": [
+        "Choral",
+        "Glitch Pop",
+        "Post-Minimalism",
+        "IDM",
+        "Folktronica"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "avant-garde",
+        "hypnotic",
+        "ethereal",
+        "ritualistic",
+        "surreal",
+        "lush",
+        "complex",
+        "martial",
+        "mysterious",
+        "nature",
+        "birds",
+        "nonlexical vocables",
+        "leitmotif",
+        "poetic",
+        "suite",
+        "polyrhythm",
+        "dense",
+        "epic",
+        "progressive",
+        "choral",
+        "occult",
+        "suspenseful",
+        "atmospheric",
+        "abstract",
+        "twinkling",
+        "cryptic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ",
+        "appleMusic": "https://geo.music.apple.com/es/album/dja-dja/6793133608",
+        "bandcamp": "https://marinaherlop.bandcamp.com/album/dja-dja"
+      },
+      "enrichedAt": "2026-10-28T11:43:32.335Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/marvin-gaye/whats-going-on",
@@ -8051,6 +8173,71 @@
       "enrichedAt": "2026-10-01T11:04:25.440Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/the-olivia-tremor-control/the-same-place",
+      "title": "The Same Place",
+      "artist": "The Olivia Tremor Control",
+      "year": 2026,
+      "genres": [
+        "Neo-Psychedelia",
+        "Psychedelic Pop",
+        "Psychedelic Rock"
+      ],
+      "dateAdded": "2026-10-28",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/bda3943b5eaff295043bc0e9be5aa86c/14834814",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d45bdd6cb5a870d05a05a3a9b9b3dc04/14834814",
+      "rymRating": 3.93,
+      "primaryGenres": [
+        "Neo-Psychedelia",
+        "Psychedelic Pop",
+        "Psychedelic Rock"
+      ],
+      "secondaryGenres": [
+        "Sunshine Pop",
+        "Chamber Pop",
+        "Slacker Rock",
+        "Psychedelic Folk",
+        "Sound Collage",
+        "Baroque Pop",
+        "Progressive Pop"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "male vocalist",
+        "time",
+        "bittersweet",
+        "progressive",
+        "afterlife",
+        "cryptic",
+        "existential",
+        "mysterious",
+        "surreal",
+        "introspective",
+        "farewell",
+        "maximalist",
+        "uplifting",
+        "hypnotic",
+        "bright",
+        "dense",
+        "melodic",
+        "abstract",
+        "atmospheric",
+        "hazy",
+        "playful",
+        "concept album",
+        "suite",
+        "death",
+        "nature",
+        "triumphant",
+        "epic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat",
+        "appleMusic": "https://geo.music.apple.com/us/album/the-same-place/6799141482",
+        "bandcamp": "https://oliviatremorcontrol.bandcamp.com/album/the-same-place"
+      },
+      "enrichedAt": "2026-10-28T11:43:37.097Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/the-pains-of-being-pure-at-heart/the-pains-of-being-pure-at-heart",
       "title": "The Pains of Being Pure at Heart",
       "artist": "The Pains of Being Pure at Heart",
@@ -9243,46 +9430,6 @@
         "youtube": "https://www.youtube.com/watch?v=RQKhUWcVxnA"
       },
       "enrichedAt": "2026-07-08T13:26:51.616Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/yes/aurora",
-      "title": "Aurora",
-      "artist": "Yes",
-      "year": 2026,
-      "genres": [
-        "Symphonic Prog"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ba5da0d4f4313451475a260681736d70/14485906",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5f10f8e5602ff0d458e5b5d5d0fcbb4d/14485906",
-      "rymRating": 2.68,
-      "primaryGenres": [
-        "Symphonic Prog"
-      ],
-      "secondaryGenres": [
-        "Progressive Pop"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "uncommon time signatures",
-        "melodic",
-        "optimistic",
-        "lush",
-        "conscious",
-        "complex",
-        "philosophical",
-        "ethereal",
-        "uplifting"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5TDltjAh03cwDinX4SXwnR",
-        "appleMusic": "https://geo.music.apple.com/es/album/aurora-bonus-tracks-edition/1888238949",
-        "bandcamp": "https://insideoutmusic.bandcamp.com/album/aurora-bonus-tracks-edition-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-26T12:05:39.845Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-25T22:15:08.432Z",
-      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/yeule/serotonin-ii",
