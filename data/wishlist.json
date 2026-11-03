@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-10-30T14:22:33.358Z",
+  "lastScrapedAt": "2026-11-03T23:25:53.257Z",
   "source": "rym",
   "albums": [
     {
@@ -564,44 +564,6 @@
       "enrichedAt": "2026-10-19T09:22:38.015Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/at-the-gates/the-ghost-of-a-future-dead",
-      "title": "The Ghost of a Future Dead",
-      "artist": "At the Gates",
-      "year": 2026,
-      "genres": [
-        "Melodic Death Metal",
-        "Gothenburg Sound"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/c99cee565c93eb0fcc66d8eccf4228ec/14303164",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8d93c7343530933bb18d3c71068b07d7/14303164",
-      "rymRating": 3.43,
-      "primaryGenres": [
-        "Melodic Death Metal",
-        "Gothenburg Sound"
-      ],
-      "descriptors": [
-        "harsh vocals",
-        "melodic",
-        "heavy",
-        "male vocalist",
-        "aggressive",
-        "dark",
-        "sombre",
-        "pessimistic",
-        "atmospheric",
-        "death",
-        "energetic",
-        "decay"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C",
-        "appleMusic": "https://geo.music.apple.com/nz/album/the-ghost-of-a-future-dead/1873364809",
-        "bandcamp": "https://centurymedia.bandcamp.com/album/the-ghost-of-a-future-dead-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-20T20:11:48.808Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/ep/atomic-guava/beach-episode",
       "title": "Beach Episode",
       "artist": "Atomic Guava",
@@ -934,6 +896,50 @@
       "enrichedAt": "2026-05-20T23:53:04.217Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/bo-hansson/music-inspired-by-lord-of-the-rings-2",
+      "title": "Music Inspired by Lord of the Rings",
+      "artist": "Bo Hansson",
+      "year": 1970,
+      "genres": [
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/53f857eece4916e79442e36de3a09975/4943763",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/17e2f1d723eb47bb7efa57ac53632e2f/4943763",
+      "rymRating": 3.58,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Progg"
+      ],
+      "secondaryGenres": [
+        "Psychedelic Rock",
+        "Symphonic Prog",
+        "Psychedelic Folk"
+      ],
+      "descriptors": [
+        "instrumental",
+        "concept album",
+        "forest",
+        "mellow",
+        "fantasy",
+        "atmospheric",
+        "autumn",
+        "pastoral",
+        "progressive",
+        "psychedelic",
+        "literature",
+        "complex",
+        "lush",
+        "mysterious"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/53Kza6wgdncv71KNcpN6Y9",
+        "appleMusic": "https://geo.music.apple.com/de/album/lord-of-the-rings/1751911374",
+        "youtube": "https://www.youtube.com/watch?v=n_GdD3Kwtj8"
+      },
+      "enrichedAt": "2026-11-03T23:24:44.366Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/bruno-pernadas/those-who-throw-objects-at-the-crocodiles-will-be-asked-to-retrieve-them",
       "title": "Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them",
       "artist": "Bruno Pernadas",
@@ -1097,6 +1103,55 @@
         "bandcamp": "https://caladanbrood.bandcamp.com/album/echoes-of-battle"
       },
       "enrichedAt": "2026-05-20T23:53:31.774Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/camel/the-snow-goose",
+      "title": "The Snow Goose",
+      "artist": "Camel",
+      "year": 1975,
+      "genres": [
+        "Symphonic Prog",
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/4c4bc864b7125cde472e86e75b9ca4ef/6235559",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d39b1e8c3c10025dc924fda09f55ac98/6235559",
+      "rymRating": 3.85,
+      "primaryGenres": [
+        "Symphonic Prog",
+        "Progressive Rock"
+      ],
+      "descriptors": [
+        "instrumental",
+        "concept album",
+        "melodic",
+        "epic",
+        "mellow",
+        "progressive",
+        "winter",
+        "lush",
+        "atmospheric",
+        "fantasy",
+        "complex",
+        "pastoral",
+        "soothing",
+        "technical",
+        "uncommon time signatures",
+        "sentimental",
+        "war",
+        "friendship",
+        "narrative",
+        "triumphant",
+        "death",
+        "literature",
+        "birds",
+        "uplifting"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0BD0bKRAFt8Z5q2NqCTPsN",
+        "appleMusic": "https://geo.music.apple.com/us/album/the-snow-goose/1408870777"
+      },
+      "enrichedAt": "2026-11-03T23:24:56.416Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/candlemass/candlemass",
@@ -1478,10 +1533,7 @@
       "year": 2013,
       "genres": [
         "Darkwave",
-        "Ethereal Wave",
-        "Singer-Songwriter",
-        "Contemporary Folk",
-        "Neofolk"
+        "Ethereal Wave"
       ],
       "dateAdded": "2025-10-18",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/a960d393745ce7f9394e1d217c0d03db/12299701",
@@ -1489,50 +1541,46 @@
       "rymRating": 3.65,
       "primaryGenres": [
         "Darkwave",
-        "Ethereal Wave",
-        "Singer-Songwriter",
-        "Contemporary Folk",
-        "Neofolk"
+        "Ethereal Wave"
       ],
       "secondaryGenres": [
         "Gothic Rock",
-        "Psychedelic Folk",
         "Post-Industrial"
       ],
       "descriptors": [
-        "sombre",
-        "nocturnal",
         "ethereal",
-        "female vocalist",
+        "nocturnal",
+        "sombre",
         "melancholic",
+        "female vocalist",
         "atmospheric",
-        "cold",
         "dark",
+        "cold",
         "ominous",
         "death",
         "apocalyptic",
-        "lonely",
-        "funereal",
         "introspective",
-        "passionate",
-        "cryptic",
+        "funereal",
+        "lonely",
         "love",
         "poetic",
+        "cryptic",
+        "passionate",
         "hypnotic",
         "surreal",
-        "eclectic",
         "gothic",
-        "epic",
-        "macabre",
+        "eclectic",
         "decay",
-        "fuzzy"
+        "macabre",
+        "fuzzy",
+        "epic"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/4rpm9Ez8nfVsQvNmHDbgyp",
         "appleMusic": "https://geo.music.apple.com/us/album/pain-is-beauty/1808567966",
         "bandcamp": "https://chelseawolfe.bandcamp.com/album/pain-is-beauty"
       },
-      "enrichedAt": "2026-10-28T11:43:14.714Z"
+      "enrichedAt": "2026-11-03T23:25:00.811Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/chelsea-wolfe/abyss",
@@ -1541,8 +1589,7 @@
       "year": 2015,
       "genres": [
         "Darkwave",
-        "Gothic Rock",
-        "Contemporary Folk"
+        "Gothic Rock"
       ],
       "dateAdded": "2026-10-02",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/831e8efc7570d101e79ca81172e74b86/14676875",
@@ -1550,8 +1597,7 @@
       "rymRating": 3.71,
       "primaryGenres": [
         "Darkwave",
-        "Gothic Rock",
-        "Contemporary Folk"
+        "Gothic Rock"
       ],
       "secondaryGenres": [
         "Ethereal Wave",
@@ -1592,7 +1638,7 @@
         "appleMusic": "https://geo.music.apple.com/mx/album/abyss/1808585211",
         "bandcamp": "https://chelseawolfe.bandcamp.com/album/abyss"
       },
-      "enrichedAt": "2026-10-28T11:43:18.963Z"
+      "enrichedAt": "2026-11-03T23:25:06.645Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/choir-boy/passive-with-desire",
@@ -2166,36 +2212,6 @@
       "enrichedAt": "2026-10-28T11:43:23.397Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/dreadnought/wars-of-spirit-wards-of-light",
-      "title": "Wars of Spirit // Wards of Light",
-      "artist": "Dreadnought",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/692c3c8bda403b75682e87a932b425d4/14876188",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9b14d75fb49f1c63eb57dc2dc9e31fda/14876188",
-      "rymRating": 3.58,
-      "primaryGenres": [
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Post-Metal"
-      ],
-      "descriptors": [
-        "female vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9",
-        "appleMusic": "https://geo.music.apple.com/it/album/wars-of-spirit-wards-of-light/6784840480",
-        "bandcamp": "https://dreadnoughtdenver.bandcamp.com/album/wars-of-spirit-wards-of-light-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-20T20:12:03.009Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-30T14:18:11.072Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
       "title": "Eros",
       "artist": "Dün",
@@ -2389,6 +2405,33 @@
         "bandcamp": "https://elefecto.bandcamp.com/album/mem-rias-do-fogo"
       },
       "enrichedAt": "2026-05-21T08:49:41.445Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/electra/adaptionen",
+      "title": "Adaptionen",
+      "artist": "Electra",
+      "year": 1975,
+      "genres": [
+        "Progressive Rock",
+        "Classical Crossover"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/0170e6712b590396a70908d302dd633c/1938438",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/036fbd349baa0bf102b7e96e1d8d7bd8/1938438",
+      "rymRating": 3.47,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Classical Crossover"
+      ],
+      "secondaryGenres": [
+        "Jazz-Rock"
+      ],
+      "descriptors": [
+        "playful",
+        "instrumental",
+        "progressive"
+      ],
+      "enrichedAt": "2026-11-03T23:25:10.891Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/electric-wizard/dopethrone",
@@ -2904,6 +2947,44 @@
         "appleMusic": "https://geo.music.apple.com/il/album/idler-wheel-is-wiser-than-driver-screw-whipping-cords/1462213924"
       },
       "enrichedAt": "2026-10-19T09:22:57.223Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/focus/focus-3",
+      "title": "Focus 3",
+      "artist": "Focus",
+      "year": 1972,
+      "genres": [
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/c6cc541b5dc491d408484dee1b1e8ea2/3778341",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a0e91306e8cc9333fb633869a5669b1f/3778341",
+      "rymRating": 3.76,
+      "primaryGenres": [
+        "Progressive Rock"
+      ],
+      "secondaryGenres": [
+        "Jazz-Rock",
+        "Symphonic Prog"
+      ],
+      "descriptors": [
+        "technical",
+        "progressive",
+        "improvisation",
+        "male vocalist",
+        "melodic",
+        "playful",
+        "uncommon time signatures",
+        "rhythmic",
+        "instrumental",
+        "spring",
+        "jamming"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3N4wCf74U6Ye2c2MbLr9hv",
+        "appleMusic": "https://geo.music.apple.com/ru/album/focus-3/96837670"
+      },
+      "enrichedAt": "2026-11-03T23:25:15.191Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/fonderia/fonderia",
@@ -3746,68 +3827,6 @@
       "enrichedAt": "2026-05-21T08:57:18.578Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/heavensouls/cantu-of-the-sower",
-      "title": "Cantu of the Sower",
-      "artist": "heavensouls",
-      "year": 2026,
-      "genres": [
-        "IDM",
-        "Epic Collage"
-      ],
-      "dateAdded": "2026-10-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/90ee044af9aaeecd81a319ce18357ff8/15120304",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/abaea252201cb5fda6049a4bdf34cfe1/15120304",
-      "rymRating": 3.74,
-      "primaryGenres": [
-        "IDM",
-        "Epic Collage"
-      ],
-      "secondaryGenres": [
-        "Nu Jazz",
-        "Glitch",
-        "Deconstructed Club",
-        "Ambient",
-        "Experimental Hip Hop",
-        "Neo-Psychedelia"
-      ],
-      "descriptors": [
-        "progressive",
-        "dense",
-        "twinkling",
-        "ethereal",
-        "playful",
-        "sampling",
-        "eclectic",
-        "surreal",
-        "maximalist",
-        "futuristic",
-        "bright",
-        "uplifting",
-        "lush",
-        "atmospheric",
-        "psychedelic",
-        "male vocalist",
-        "complex",
-        "chaotic",
-        "melodic",
-        "vocal chops",
-        "political",
-        "suburban",
-        "domestic",
-        "energetic",
-        "avant-garde",
-        "aquatic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5qv5TSja6MaBA9GwL7mewJ",
-        "appleMusic": "https://geo.music.apple.com/nz/album/cantu-of-the-sower/6796075558",
-        "youtube": "https://www.youtube.com/watch?v=IVuwNCCjLWI",
-        "bandcamp": "https://officialauthks.bandcamp.com/album/cantu-of-the-sower"
-      },
-      "enrichedAt": "2026-10-30T11:59:07.520Z",
-      "myRating": 3
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/heligoland/heligoland",
       "title": "Heligoland",
       "artist": "Heligoland",
@@ -3867,6 +3886,51 @@
         "bandcamp": "https://helloweenofficial.bandcamp.com/album/7-sinners-remaster"
       },
       "enrichedAt": "2026-05-21T08:57:28.957Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/henry-cow/western-culture",
+      "title": "Western Culture",
+      "artist": "Henry Cow",
+      "year": 1979,
+      "genres": [
+        "Avant-Prog"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/6c44442326b354a39edb12cc9dbe44af/10183636",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/938922a725cad9ac403635b68ee87479/10183636",
+      "rymRating": 3.72,
+      "primaryGenres": [
+        "Avant-Prog",
+        "Rock in Opposition"
+      ],
+      "descriptors": [
+        "complex",
+        "instrumental",
+        "uncommon time signatures",
+        "avant-garde",
+        "dissonant",
+        "improvisation",
+        "technical",
+        "eclectic",
+        "anxious",
+        "political",
+        "dense",
+        "ominous",
+        "concept album",
+        "mechanical",
+        "suspenseful",
+        "socialism",
+        "progressive",
+        "cold",
+        "decay",
+        "urban"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5nqDXYiJvy1Md86YtMAyzk",
+        "appleMusic": "https://geo.music.apple.com/us/album/western-culture/62459773",
+        "bandcamp": "https://henrycow.bandcamp.com/album/western-culture"
+      },
+      "enrichedAt": "2026-11-03T23:25:19.960Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/hermanos-gutierrez/sonido-cosmico",
@@ -4209,29 +4273,6 @@
         "bandcamp": "https://infinien.bandcamp.com/album/beyond-the-veil"
       },
       "enrichedAt": "2026-05-21T08:57:52.815Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/insomnium/netherworlds",
-      "title": "Netherworlds",
-      "artist": "Insomnium",
-      "year": 2026,
-      "genres": [
-        "Melodic Death Metal"
-      ],
-      "dateAdded": "2026-10-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a84267a7cca2159cdc372ef5d8d1426b/14856986",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9e7e7e7554156c76f623602a1c762427/14856986",
-      "rymRating": 4,
-      "primaryGenres": [
-        "Melodic Death Metal"
-      ],
-      "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/de/album/netherworlds/6789116125",
-        "bandcamp": "https://centurymedia.bandcamp.com/album/netherworlds-24-bit-hd-audio"
-      },
-      "enrichedAt": "2026-10-11T21:23:42.027Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-20T14:01:57.542Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/insomnium/above-the-weeping-world",
@@ -5596,7 +5637,9 @@
         "appleMusic": "https://geo.music.apple.com/us/album/you-be-good-i-love-you/6768406736",
         "bandcamp": "https://millionmoons.bandcamp.com/album/you-be-good-i-love-you"
       },
-      "enrichedAt": "2026-10-30T14:21:26.024Z"
+      "enrichedAt": "2026-10-30T14:21:26.024Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-03T23:22:15.551Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/mingus/the-black-saint-and-the-sinner-lady",
@@ -5950,16 +5993,14 @@
       "artist": "Moron Police",
       "year": 2014,
       "genres": [
-        "Alternative Metal",
-        "Progressive Rock"
+        "Alternative Metal"
       ],
       "dateAdded": "2024-11-12",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/ccf6b935a5187b3253ab16c8e797a5d4/5210817",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/14958251828dd743ac65d581a5b3cae6/5210817",
-      "rymRating": 3.55,
+      "rymRating": 3.54,
       "primaryGenres": [
-        "Alternative Metal",
-        "Progressive Rock"
+        "Alternative Metal"
       ],
       "secondaryGenres": [
         "Funk Metal",
@@ -5989,7 +6030,7 @@
         "appleMusic": "https://geo.music.apple.com/it/album/defenders-of-the-small-yard/853298935",
         "bandcamp": "https://moronpolice1.bandcamp.com/album/defenders-of-the-small-yard"
       },
-      "enrichedAt": "2026-09-16T13:26:44.390Z"
+      "enrichedAt": "2026-11-03T23:25:25.319Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/mors-principium-est/the-unborn",
@@ -6341,65 +6382,6 @@
         "appleMusic": "https://geo.music.apple.com/us/album/oh-land/422175589"
       },
       "enrichedAt": "2026-09-29T12:35:31.566Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/ok-goodnight/stop-go",
-      "title": "Stop / Go",
-      "artist": "Ok Goodnight",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-08-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/639b8aba1963f7f31ed4e1a6e88e6637/14622382",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3238253fc91e502ad6db09544a89d350/14622382",
-      "rymRating": 3.53,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Math Rock",
-        "Djent",
-        "Art Rock",
-        "Alternative Metal"
-      ],
-      "descriptors": [
-        "eclectic",
-        "female vocalist",
-        "progressive",
-        "lush",
-        "uncommon time signatures",
-        "complex",
-        "passionate",
-        "love",
-        "maximalist",
-        "energetic",
-        "dissonant",
-        "chaotic",
-        "rhythmic",
-        "aggressive",
-        "menacing",
-        "introspective",
-        "theatrical",
-        "melodic",
-        "yarling",
-        "poetic",
-        "epic",
-        "angular",
-        "belting",
-        "atmospheric",
-        "friendship"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/590LB7k50yVQWY25sfC2Kt",
-        "appleMusic": "https://geo.music.apple.com/us/album/stop-go/6769273489",
-        "bandcamp": "https://okgoodnight.bandcamp.com/album/stop-go"
-      },
-      "enrichedAt": "2026-08-19T09:22:38.273Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-06T12:11:17.403Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/orphaned-land/mabool-the-story-of-the-three-sons-of-seven",
@@ -7385,6 +7367,77 @@
       "enrichedAt": "2026-05-28T08:40:10.884Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/sbb/jerzyk",
+      "title": "Jerzyk",
+      "artist": "SBB",
+      "year": 1977,
+      "genres": [
+        "Progressive Rock",
+        "Jazz-Funk"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/fe2ff59427e2a66fd31a23bb8cf3e459/3071724",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/da162cd518775f770895d3eac6f92f7c/3071724",
+      "rymRating": 2.91,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Jazz-Funk"
+      ],
+      "secondaryGenres": [
+        "Jazz-Rock"
+      ],
+      "enrichedAt": "2026-11-03T23:25:30.215Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/sebastian-hardie/four-moments",
+      "title": "Four Moments",
+      "artist": "Sebastian Hardie",
+      "year": 1975,
+      "genres": [
+        "Symphonic Prog",
+        "Progressive Rock"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/4b3964a2f40de36df4642c62d403b0a4/6260672",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/170b380b6fe38b3f5917377c5e43a3a1/6260672",
+      "rymRating": 3.7,
+      "primaryGenres": [
+        "Symphonic Prog",
+        "Progressive Rock"
+      ],
+      "secondaryGenres": [
+        "Funk Rock"
+      ],
+      "descriptors": [
+        "progressive",
+        "technical",
+        "psychedelic",
+        "party",
+        "playful",
+        "sentimental",
+        "complex",
+        "happy",
+        "warm",
+        "memory",
+        "uplifting",
+        "philosophical",
+        "epic",
+        "love",
+        "bittersweet",
+        "triumphant",
+        "passionate",
+        "existential",
+        "repetitive",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/18pVMj6TfxkBO9xMmqJx1J",
+        "appleMusic": "https://geo.music.apple.com/us/album/four-moments/976472109",
+        "youtube": "https://www.youtube.com/watch?v=DkVsMKL-zog"
+      },
+      "enrichedAt": "2026-11-03T23:25:34.954Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/seven-kingdoms/decennium",
       "title": "Decennium",
       "artist": "Seven Kingdoms",
@@ -7411,33 +7464,15 @@
       "enrichedAt": "2026-05-28T08:40:14.535Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/sgaile/onwards-to-embrace-the-echo",
-      "title": "Onwards to Embrace the Echo",
-      "artist": "Sgàile",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal"
-      ],
+      "url": "https://rateyourmusic.com/release/album/seventh-wonder/vii",
+      "title": "VII",
+      "artist": "Seventh Wonder",
+      "year": 2027,
+      "genres": [],
       "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5f3fd04ea6e559d9f9531874fe9a039e/15106515",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5d1b863c6500b14d54e3154c3587cf4d/15106515",
-      "rymRating": 3.55,
-      "primaryGenres": [
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Post-Metal"
-      ],
-      "descriptors": [
-        "complex",
-        "melodic",
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4YysGpo1CLNeIpbb0gNjz9",
-        "bandcamp": "https://sgaile.bandcamp.com/album/onwards-to-embrace-the-echo"
-      },
-      "enrichedAt": "2026-10-30T14:22:02.939Z"
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/808b781bbce6de66a3c829f21dd690e9/15144505",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/85c36efc80422ab6ed9af0e331b5dcfd/15144505",
+      "enrichedAt": "2026-11-03T23:25:42.473Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/skyfire/spectral",
@@ -7988,6 +8023,34 @@
         "bandcamp": "https://fatherrobin.bandcamp.com/album/the-songs-tales-of-airoea-book-1"
       },
       "enrichedAt": "2026-05-21T12:07:41.294Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/the-enid/in-the-region-of-the-summer-stars",
+      "title": "In the Region of the Summer Stars",
+      "artist": "The Enid",
+      "year": 1976,
+      "genres": [
+        "Symphonic Prog"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/441ef93b2959f47a353beb5c6b4da9fe/3298671",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/72b29bfc82dda4c0941a22da7f0c451e/3298671",
+      "rymRating": 3.57,
+      "primaryGenres": [
+        "Symphonic Prog"
+      ],
+      "descriptors": [
+        "instrumental",
+        "concept album",
+        "progressive",
+        "romantic",
+        "mysterious"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/21fXHzQwC9ob7ifRNOKZ40",
+        "appleMusic": "https://geo.music.apple.com/se/album/in-the-region-of-the-summer-stars-original/1527958727"
+      },
+      "enrichedAt": "2026-11-03T23:25:48.507Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-family-crest/beneath-the-brine",
@@ -9164,6 +9227,49 @@
         "bandcamp": "https://unitopia.bandcamp.com/album/seven-chambers-24-bit-hi-res"
       },
       "enrichedAt": "2026-05-21T12:28:55.492Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/univers-zero/univers-zero",
+      "title": "Univers Zero",
+      "artist": "Univers Zero",
+      "year": 1977,
+      "genres": [
+        "Avant-Prog"
+      ],
+      "dateAdded": "2026-10-30",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/cea5f96357af5a7be0c25cf6d2c57bf4/1450600",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c2ab1950c58072d27f78832fd54bbe4f/1450600",
+      "rymRating": 3.62,
+      "primaryGenres": [
+        "Avant-Prog",
+        "Rock in Opposition"
+      ],
+      "secondaryGenres": [
+        "Chamber Music",
+        "Modern Classical"
+      ],
+      "descriptors": [
+        "instrumental",
+        "dark",
+        "avant-garde",
+        "ominous",
+        "dissonant",
+        "suspenseful",
+        "progressive",
+        "mysterious",
+        "hypnotic",
+        "repetitive",
+        "cold",
+        "scary",
+        "rhythmic",
+        "through-composed"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5RR8HGBBHCqFwElMrkrKrB",
+        "appleMusic": "https://geo.music.apple.com/be/album/univers-z%C3%A9ro/919165360",
+        "bandcamp": "https://universzero.bandcamp.com/album/univers-zero"
+      },
+      "enrichedAt": "2026-11-03T23:25:53.257Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/van-halen/for-unlawful-carnal-knowledge",
