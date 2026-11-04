@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-03T23:25:53.257Z",
+  "lastScrapedAt": "2026-11-04T22:53:26.053Z",
   "source": "rym",
   "albums": [
     {
@@ -243,62 +243,6 @@
       "dateAdded": "2025-07-21",
       "rymRating": 2,
       "enrichedAt": "2026-05-19T22:25:49.671Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/angerer/palingenaeon",
-      "title": "Palingenæon",
-      "artist": "Angerer",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Avant-Garde Metal",
-        "Djent",
-        "Symphonic Metal"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/5be287f06f6f9cd5a870b00f43f81d5a/14350219",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/b058ca7f8b0b31fa9309c4fef7ffb380/14350219",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Avant-Garde Metal",
-        "Djent",
-        "Symphonic Metal"
-      ],
-      "secondaryGenres": [
-        "Jazz Fusion",
-        "Cinematic Classical",
-        "Funk Metal",
-        "Progressive Folk",
-        "Deathcore"
-      ],
-      "descriptors": [
-        "surreal",
-        "complex",
-        "progressive",
-        "uncommon time signatures",
-        "eclectic",
-        "quirky",
-        "manic",
-        "humorous",
-        "maximalist",
-        "chaotic",
-        "ominous",
-        "avant-garde",
-        "harsh vocals",
-        "orchestral",
-        "theatrical",
-        "technical",
-        "dense",
-        "existential",
-        "dark"
-      ],
-      "streamingLinks": {
-        "bandcamp": "https://angerer.bandcamp.com/album/palingen-on"
-      },
-      "enrichedAt": "2026-10-20T20:11:41.527Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-29T19:11:24.296Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/anthill-cinema/cycle_s-a-life-chronicle",
@@ -2168,50 +2112,6 @@
       "enrichedAt": "2026-10-25T22:14:30.648Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/dissimulator/artifice-dissolves",
-      "title": "Artifice Dissolves",
-      "artist": "Dissimulator",
-      "year": 2026,
-      "genres": [
-        "Technical Thrash Metal",
-        "Technical Death Metal"
-      ],
-      "dateAdded": "2026-10-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/9b57feb33e320c7144eeb9b0d50ef286/14955202",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cb6c4a71e23fd0b220c0acd55f373fb0/14955202",
-      "rymRating": 3.66,
-      "primaryGenres": [
-        "Technical Thrash Metal",
-        "Technical Death Metal"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal"
-      ],
-      "descriptors": [
-        "energetic",
-        "heavy",
-        "technical",
-        "aggressive",
-        "science fiction",
-        "futuristic",
-        "uncommon time signatures",
-        "technology",
-        "male vocalist",
-        "progressive",
-        "chaotic",
-        "complex",
-        "dense",
-        "blast beats",
-        "harsh vocals"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3p7BS3uCYqy4qRwGoLa0kh",
-        "appleMusic": "https://geo.music.apple.com/de/album/artifice-dissolves/6802273352",
-        "youtube": "https://www.youtube.com/watch?v=ECUVNU_ncNs"
-      },
-      "enrichedAt": "2026-10-28T11:43:23.397Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
       "title": "Eros",
       "artist": "Dün",
@@ -2782,35 +2682,6 @@
         "appleMusic": "https://geo.music.apple.com/us/album/the-year-of-madness/1768603242"
       },
       "enrichedAt": "2026-08-25T14:21:18.603Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/fervence/constructs",
-      "title": "Constructs",
-      "artist": "Fervence",
-      "year": 2026,
-      "genres": [
-        "Alternative Metal"
-      ],
-      "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/ed35a97aff49ffc4204d9e615d81f6ad/14945078",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/cfe971579c3543ed011114776068f0d4/14945078",
-      "rymRating": 2.96,
-      "primaryGenres": [
-        "Alternative Metal"
-      ],
-      "secondaryGenres": [
-        "Metalcore"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "melodic"
-      ],
-      "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/us/album/constructs/6783971196",
-        "youtube": "https://www.youtube.com/watch?v=s_vt0-ubZZ4",
-        "bandcamp": "https://fervence.bandcamp.com/album/constructs"
-      },
-      "enrichedAt": "2026-10-30T14:20:56.838Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/fiction/lucifer-%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E3%81%8A%E4%BA%BA%E5%BD%A2",
@@ -3984,7 +3855,7 @@
         "Progressive Metal"
       ],
       "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/63866f9782e5b929b12e3537b3a80f5f/14919435",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/a41d6229dd718963dc31874760a9e0be/15221670",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5dfee5a2b4439ba17867daa737a68287/14919435",
       "rymRating": 3.53,
       "primaryGenres": [
@@ -4273,49 +4144,6 @@
         "bandcamp": "https://infinien.bandcamp.com/album/beyond-the-veil"
       },
       "enrichedAt": "2026-05-21T08:57:52.815Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/insomnium/above-the-weeping-world",
-      "title": "Above the Weeping World",
-      "artist": "Insomnium",
-      "year": 2006,
-      "genres": [
-        "Melodic Death Metal"
-      ],
-      "dateAdded": "2018-11-11",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/bac6a3f659eda8d0fbd53037c04d582b/1957267",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/203e03fc91d265a451280809734f8f89/1957267",
-      "rymRating": 3.73,
-      "primaryGenres": [
-        "Melodic Death Metal"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal"
-      ],
-      "descriptors": [
-        "melancholic",
-        "sombre",
-        "male vocalist",
-        "melodic",
-        "death",
-        "atmospheric",
-        "dark",
-        "epic",
-        "poetic",
-        "pessimistic",
-        "energetic",
-        "passionate",
-        "nocturnal",
-        "concept album",
-        "harsh vocals"
-      ],
-      "myRating": 3.5,
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0iXAfc9KqQZSW7s3Z5ugoE",
-        "appleMusic": "https://geo.music.apple.com/pt/album/above-the-weeping-world/1660162295",
-        "bandcamp": "https://candlelightrecordsuk.bandcamp.com/album/above-the-weeping-world"
-      },
-      "enrichedAt": "2026-10-20T20:12:33.993Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/invisible/el-jardin-de-los-presentes",
@@ -6568,7 +6396,9 @@
         "melodic",
         "male vocalist"
       ],
-      "enrichedAt": "2026-10-30T14:21:36.438Z"
+      "enrichedAt": "2026-10-30T14:21:36.438Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-04T22:51:36.819Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
