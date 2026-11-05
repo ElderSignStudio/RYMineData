@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-04T22:53:26.053Z",
+  "lastScrapedAt": "2026-11-05T15:13:27.611Z",
   "source": "rym",
   "albums": [
     {
@@ -3856,8 +3856,8 @@
       ],
       "dateAdded": "2026-10-30",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/a41d6229dd718963dc31874760a9e0be/15221670",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5dfee5a2b4439ba17867daa737a68287/14919435",
-      "rymRating": 3.53,
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/2b14a75e7153a45cb067493c82cc5906/15221670",
+      "rymRating": 3.52,
       "primaryGenres": [
         "Progressive Metal"
       ],
@@ -3868,18 +3868,20 @@
       "descriptors": [
         "male vocalist",
         "heavy",
+        "dark",
         "growling",
         "melodic",
         "harsh vocals",
-        "dark",
         "blast beats"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/52PAn8vUovx1ZLdfPymklZ",
         "appleMusic": "https://geo.music.apple.com/it/album/annihilist/6769066264",
-        "bandcamp": "https://hippotraktor.bandcamp.com/album/annihilist"
+        "bandcamp": "https://hippotraktor.bandcamp.com/album/annihilist",
+        "youtube": "https://www.youtube.com/watch?v=Dy1ZJfUmq-s"
       },
-      "enrichedAt": "2026-10-30T14:21:04.986Z"
+      "enrichedAt": "2026-11-05T15:13:27.611Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/home/odyssey",
@@ -8238,7 +8240,9 @@
         "bandcamp": "https://oliviatremorcontrol.bandcamp.com/album/the-same-place"
       },
       "enrichedAt": "2026-10-28T14:14:37.709Z",
-      "myRating": 3.5
+      "myRating": 3.5,
+      "onDeck": true,
+      "onDeckAt": "2026-11-04T22:54:15.767Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/the-pains-of-being-pure-at-heart/the-pains-of-being-pure-at-heart",
