@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-05T15:13:27.611Z",
+  "lastScrapedAt": "2026-11-06T13:09:59.769Z",
   "source": "rym",
   "albums": [
     {
@@ -6398,9 +6398,8 @@
         "melodic",
         "male vocalist"
       ],
-      "enrichedAt": "2026-10-30T14:21:36.438Z",
-      "onDeck": true,
-      "onDeckAt": "2026-11-04T22:51:36.819Z"
+      "enrichedAt": "2026-11-06T12:59:59.679Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
@@ -7527,11 +7526,34 @@
       "dateAdded": "2026-10-30",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/50a3c53ddffc259ee6e8e3cf840bd6c1/15027864",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ca2de169c77ee9d22ada2f38cf8003c5/15027864",
-      "rymRating": 3.19,
+      "rymRating": 3.47,
       "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/it/album/requiem-for-a-village/6779529412"
+        "appleMusic": "https://geo.music.apple.com/it/album/requiem-for-a-village/6779529412",
+        "spotify": "https://open.spotify.com/album/6SRNqCA1HogMn38sM1nd8Q",
+        "bandcamp": "https://stevenwilson.bandcamp.com/album/requiem-for-a-village"
       },
-      "enrichedAt": "2026-10-30T14:22:24.390Z"
+      "enrichedAt": "2026-11-06T13:09:59.769Z",
+      "primaryGenres": [
+        "Art Rock",
+        "Progressive Rock"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal",
+        "Spoken Word",
+        "Dark Folk"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "dark",
+        "progressive",
+        "folklore",
+        "concept album",
+        "uncommon time signatures",
+        "psychedelic",
+        "atmospheric",
+        "ominous",
+        "narrative"
+      ]
     },
     {
       "url": "https://rateyourmusic.com/release/album/strange-boutique/the-loved-one",
