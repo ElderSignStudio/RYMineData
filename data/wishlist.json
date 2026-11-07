@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-06T13:09:59.769Z",
+  "lastScrapedAt": "2026-11-07T00:26:17.178Z",
   "source": "rym",
   "albums": [
     {
@@ -3847,43 +3847,6 @@
       "enrichedAt": "2026-08-19T09:22:22.984Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/hippotraktor/annihilist",
-      "title": "Annihilist",
-      "artist": "Hippotraktor",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/a41d6229dd718963dc31874760a9e0be/15221670",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/2b14a75e7153a45cb067493c82cc5906/15221670",
-      "rymRating": 3.52,
-      "primaryGenres": [
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Post-Metal",
-        "Djent"
-      ],
-      "descriptors": [
-        "male vocalist",
-        "heavy",
-        "dark",
-        "growling",
-        "melodic",
-        "harsh vocals",
-        "blast beats"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/52PAn8vUovx1ZLdfPymklZ",
-        "appleMusic": "https://geo.music.apple.com/it/album/annihilist/6769066264",
-        "bandcamp": "https://hippotraktor.bandcamp.com/album/annihilist",
-        "youtube": "https://www.youtube.com/watch?v=Dy1ZJfUmq-s"
-      },
-      "enrichedAt": "2026-11-05T15:13:27.611Z",
-      "myRating": 3
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/home/odyssey",
       "title": "Odyssey",
       "artist": "HOME",
@@ -5273,70 +5236,6 @@
       "enrichedAt": "2026-05-21T10:50:35.093Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/mastodon/marrow-deep",
-      "title": "Marrow Deep",
-      "artist": "Mastodon",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-09-14",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/2368a606e0450177161388dd6cd05c9f/14819622",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/dc136795b6713aeb0e4104e6c30e7eb8/14819622",
-      "rymRating": 3.76,
-      "primaryGenres": [
-        "Progressive Metal"
-      ],
-      "secondaryGenres": [
-        "Sludge Metal",
-        "Stoner Metal"
-      ],
-      "descriptors": [
-        "grief",
-        "technical",
-        "heavy",
-        "progressive",
-        "male vocalist",
-        "death",
-        "melancholic",
-        "sombre",
-        "dense",
-        "psychedelic",
-        "lush",
-        "uncommon time signatures",
-        "punchy",
-        "introspective",
-        "atmospheric",
-        "melodic",
-        "passionate",
-        "regret",
-        "ominous",
-        "complex",
-        "paranormal",
-        "angry",
-        "ghosts",
-        "epic",
-        "fantasy",
-        "dark",
-        "aggressive",
-        "anxious",
-        "existential",
-        "serious",
-        "poetic",
-        "mythology",
-        "sad",
-        "belting"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz",
-        "appleMusic": "https://geo.music.apple.com/us/album/marrow-deep/6781040477",
-        "bandcamp": "https://mastodon.bandcamp.com/album/marrow-deep"
-      },
-      "enrichedAt": "2026-09-16T13:26:36.537Z",
-      "onDeck": true,
-      "onDeckAt": "2026-09-29T12:36:53.177Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/meer/playing-house",
       "title": "Playing House",
       "artist": "MEER",
@@ -5441,35 +5340,6 @@
         "bandcamp": "https://emotional-rescue.bandcamp.com/album/planetary-unfolding"
       },
       "enrichedAt": "2026-09-16T13:26:40.354Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/million-moons/you-be-good-i-love-you",
-      "title": "You Be Good, I Love You",
-      "artist": "Million Moons",
-      "year": 2026,
-      "genres": [
-        "Post-Rock",
-        "Post-Metal"
-      ],
-      "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/520ae8609362f751f6cbad6e2333d345/14703961",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/bfb96a698182034b0bab92b29e754cd3/14703961",
-      "rymRating": 3.68,
-      "primaryGenres": [
-        "Post-Rock",
-        "Post-Metal"
-      ],
-      "descriptors": [
-        "instrumental"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/0RrEy78I1ewgBKSUvRRn8W",
-        "appleMusic": "https://geo.music.apple.com/us/album/you-be-good-i-love-you/6768406736",
-        "bandcamp": "https://millionmoons.bandcamp.com/album/you-be-good-i-love-you"
-      },
-      "enrichedAt": "2026-10-30T14:21:26.024Z",
-      "onDeck": true,
-      "onDeckAt": "2026-11-03T23:22:15.551Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/mingus/the-black-saint-and-the-sinner-lady",
@@ -6375,33 +6245,6 @@
       "enrichedAt": "2026-05-21T11:05:56.698Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/paul-laine/the-long-road-back",
-      "title": "The Long Road Back",
-      "artist": "Paul Laine",
-      "year": 2026,
-      "genres": [
-        "AOR",
-        "Hard Rock"
-      ],
-      "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/bdfdaf94a9e10097fefac7205f0dbfc4/14794605",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/59335470dcaec45807fde359467aab80/14794605",
-      "rymRating": 3.36,
-      "primaryGenres": [
-        "AOR",
-        "Hard Rock"
-      ],
-      "secondaryGenres": [
-        "Pop Rock"
-      ],
-      "descriptors": [
-        "melodic",
-        "male vocalist"
-      ],
-      "enrichedAt": "2026-11-06T12:59:59.679Z",
-      "myRating": 3.5
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
       "title": "Keesojen lehto",
       "artist": "Pekka Pohjola",
@@ -6626,50 +6469,6 @@
         "bandcamp": "https://planningforburial.bandcamp.com/album/below-the-house-2"
       },
       "enrichedAt": "2026-10-07T22:21:36.320Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/playgrounded/a-flower-to-water",
-      "title": "A Flower to Water",
-      "artist": "Playgrounded",
-      "year": 2026,
-      "genres": [
-        "Progressive Rock"
-      ],
-      "dateAdded": "2026-10-30",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1fc14cbb47f7a65287df21f3b2fcc748/15145013",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/006c1ced148184e36eafda5db1a00f86/15145013",
-      "rymRating": 3.42,
-      "primaryGenres": [
-        "Progressive Rock"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal",
-        "Post-Rock",
-        "Alternative Rock"
-      ],
-      "descriptors": [
-        "hypnotic",
-        "repetitive",
-        "dark",
-        "ethereal",
-        "sad",
-        "calm",
-        "flowers",
-        "existential",
-        "sombre",
-        "plodding",
-        "polyrhythm",
-        "technical",
-        "progressive",
-        "ominous"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/3v0xwaGan0milpz8EOceDa",
-        "appleMusic": "https://geo.music.apple.com/ca/album/a-flower-to-water/1885611788",
-        "youtube": "https://www.youtube.com/watch?v=KstZ0WY4Y-g",
-        "bandcamp": "https://playgrounded.bandcamp.com/album/a-flower-to-water"
-      },
-      "enrichedAt": "2026-10-30T14:21:42.153Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
@@ -7522,38 +7321,89 @@
       "title": "Requiem for a Village",
       "artist": "Steven Wilson",
       "year": 2026,
-      "genres": [],
+      "genres": [
+        "Art Rock",
+        "Progressive Rock"
+      ],
       "dateAdded": "2026-10-30",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/50a3c53ddffc259ee6e8e3cf840bd6c1/15027864",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ca2de169c77ee9d22ada2f38cf8003c5/15027864",
-      "rymRating": 3.47,
-      "streamingLinks": {
-        "appleMusic": "https://geo.music.apple.com/it/album/requiem-for-a-village/6779529412",
-        "spotify": "https://open.spotify.com/album/6SRNqCA1HogMn38sM1nd8Q",
-        "bandcamp": "https://stevenwilson.bandcamp.com/album/requiem-for-a-village"
-      },
-      "enrichedAt": "2026-11-06T13:09:59.769Z",
+      "rymRating": 3.46,
       "primaryGenres": [
         "Art Rock",
         "Progressive Rock"
       ],
       "secondaryGenres": [
-        "Progressive Metal",
         "Spoken Word",
-        "Dark Folk"
+        "Wyrd Folk",
+        "Alternative Metal"
       ],
       "descriptors": [
-        "male vocalist",
-        "dark",
-        "progressive",
         "folklore",
-        "concept album",
+        "male vocalist",
+        "progressive",
         "uncommon time signatures",
+        "concept album",
+        "atmospheric",
         "psychedelic",
+        "dark",
+        "narrative",
+        "ominous"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6SRNqCA1HogMn38sM1nd8Q",
+        "appleMusic": "https://geo.music.apple.com/it/album/requiem-for-a-village/6779529412",
+        "bandcamp": "https://stevenwilson.bandcamp.com/album/requiem-for-a-village"
+      },
+      "enrichedAt": "2026-11-07T00:26:10.967Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/steven-wilson/insurgentes",
+      "title": "Insurgentes",
+      "artist": "Steven Wilson",
+      "year": 2008,
+      "genres": [
+        "Progressive Rock",
+        "Art Rock"
+      ],
+      "dateAdded": "2026-11-06",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/fab49ef87f472d5b05e0bedf6c20cf8d/2535293",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7f97c9ba89b992fe0873d416b0637248/2535293",
+      "rymRating": 3.63,
+      "primaryGenres": [
+        "Progressive Rock",
+        "Art Rock"
+      ],
+      "secondaryGenres": [
+        "Ambient",
+        "Shoegaze",
+        "Experimental Rock",
+        "Noise Rock"
+      ],
+      "descriptors": [
+        "dense",
+        "depressive",
+        "melancholic",
+        "dark",
         "atmospheric",
         "ominous",
-        "narrative"
-      ]
+        "male vocalist",
+        "mysterious",
+        "abstract",
+        "sombre",
+        "progressive",
+        "bittersweet",
+        "complex",
+        "eclectic",
+        "noisy",
+        "nocturnal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3psPvfJX0dMn05RK7fqcIL",
+        "appleMusic": "https://geo.music.apple.com/us/album/insurgentes-remastered/1119733844",
+        "bandcamp": "https://kscopemusic.bandcamp.com/album/insurgentes-remastered"
+      },
+      "enrichedAt": "2026-11-07T00:26:17.178Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/strange-boutique/the-loved-one",
