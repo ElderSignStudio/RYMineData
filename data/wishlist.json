@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-07T00:26:17.178Z",
+  "lastScrapedAt": "2026-11-09T12:04:26.508Z",
   "source": "rym",
   "albums": [
     {
@@ -1407,7 +1407,9 @@
         "appleMusic": "https://geo.music.apple.com/es/album/caspian/6798810882",
         "bandcamp": "https://caspiantheband.bandcamp.com/album/caspian"
       },
-      "enrichedAt": "2026-10-30T14:20:49.071Z"
+      "enrichedAt": "2026-10-30T14:20:49.071Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-07T20:27:56.184Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/cell/live-in-poland",
@@ -5073,7 +5075,7 @@
       "dateAdded": "2026-10-28",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/1211afe963dbad8cd7c061fbbc13f46b/14778914",
       "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/466b366352160228643405306b2870fc/14778914/marina-herlop-dja-dja-Cover-Art.jpg",
-      "rymRating": 3.63,
+      "rymRating": 3.64,
       "primaryGenres": [
         "Avant-Folk",
         "Electronic"
@@ -5119,9 +5121,8 @@
         "appleMusic": "https://geo.music.apple.com/es/album/dja-dja/6793133608",
         "bandcamp": "https://marinaherlop.bandcamp.com/album/dja-dja"
       },
-      "enrichedAt": "2026-10-28T11:43:32.335Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-30T11:58:32.204Z"
+      "enrichedAt": "2026-11-09T12:04:26.508Z",
+      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/marvin-gaye/whats-going-on",
@@ -7355,7 +7356,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/requiem-for-a-village/6779529412",
         "bandcamp": "https://stevenwilson.bandcamp.com/album/requiem-for-a-village"
       },
-      "enrichedAt": "2026-11-07T00:26:10.967Z"
+      "enrichedAt": "2026-11-07T00:26:10.967Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-09T12:06:32.356Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/steven-wilson/insurgentes",
