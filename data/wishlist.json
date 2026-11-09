@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-09T12:04:26.508Z",
+  "lastScrapedAt": "2026-11-09T17:30:22.471Z",
   "source": "rym",
   "albums": [
     {
@@ -4292,20 +4292,21 @@
       "artist": "Jethro Tull",
       "year": 1987,
       "genres": [
-        "Progressive Rock"
+        "Progressive Rock",
+        "AOR"
       ],
       "dateAdded": "2024-12-24",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/6c0e7979ba51d35684af8d68a9cfa17b/1698469",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/080eb0f226dcdd4e3ceafc26dd5ada4d/1698469",
       "rymRating": 3.2,
       "primaryGenres": [
-        "Progressive Rock"
+        "Progressive Rock",
+        "AOR"
       ],
       "secondaryGenres": [
         "Folk Rock",
         "Hard Rock",
-        "AOR",
-        "British Folk Rock"
+        "AOR"
       ],
       "descriptors": [
         "progressive",
@@ -4317,7 +4318,7 @@
         "spotify": "https://open.spotify.com/album/7alK1pZj8wz5sg2Wm0nIYG",
         "appleMusic": "https://geo.music.apple.com/gb/album/crest-of-a-knave/699616724"
       },
-      "enrichedAt": "2026-08-19T09:22:30.985Z"
+      "enrichedAt": "2026-11-09T17:30:22.471Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/john-raymond-s-carey/shadowlands",
@@ -5062,67 +5063,6 @@
         "youtube": "https://www.youtube.com/watch?v=0BB7a89wiNc"
       },
       "enrichedAt": "2026-05-21T10:50:17.931Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/marina-herlop/dja-dja",
-      "title": "Dja Dja",
-      "artist": "Marina Herlop",
-      "year": 2026,
-      "genres": [
-        "Avant-Folk",
-        "Electronic"
-      ],
-      "dateAdded": "2026-10-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/1211afe963dbad8cd7c061fbbc13f46b/14778914",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/466b366352160228643405306b2870fc/14778914/marina-herlop-dja-dja-Cover-Art.jpg",
-      "rymRating": 3.64,
-      "primaryGenres": [
-        "Avant-Folk",
-        "Electronic"
-      ],
-      "secondaryGenres": [
-        "Choral",
-        "Glitch Pop",
-        "Post-Minimalism",
-        "IDM",
-        "Folktronica"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "avant-garde",
-        "hypnotic",
-        "ethereal",
-        "ritualistic",
-        "surreal",
-        "lush",
-        "complex",
-        "martial",
-        "mysterious",
-        "nature",
-        "birds",
-        "nonlexical vocables",
-        "leitmotif",
-        "poetic",
-        "suite",
-        "polyrhythm",
-        "dense",
-        "epic",
-        "progressive",
-        "choral",
-        "occult",
-        "suspenseful",
-        "atmospheric",
-        "abstract",
-        "twinkling",
-        "cryptic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2EzFFqkhvaXUaTzcWwWUDZ",
-        "appleMusic": "https://geo.music.apple.com/es/album/dja-dja/6793133608",
-        "bandcamp": "https://marinaherlop.bandcamp.com/album/dja-dja"
-      },
-      "enrichedAt": "2026-11-09T12:04:26.508Z",
-      "myRating": 4
     },
     {
       "url": "https://rateyourmusic.com/release/album/marvin-gaye/whats-going-on",
@@ -8689,39 +8629,6 @@
         "spotify": "https://open.spotify.com/album/1WOdvu6BxPOi0VGSXJISx7"
       },
       "enrichedAt": "2026-05-21T12:27:52.260Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/triosphere/oceans-above-stars-below",
-      "title": "Oceans Above, Stars Below",
-      "artist": "Triosphere",
-      "year": 2026,
-      "genres": [
-        "Power Metal",
-        "Progressive Metal"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/b4ee1924ac89aee5b2f35843a1d2d79a/14583840",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c258f662203f5189f1ec434cfd719fd6/14583840",
-      "rymRating": 3.68,
-      "primaryGenres": [
-        "Power Metal",
-        "Progressive Metal"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "energetic",
-        "technical",
-        "melodic",
-        "heavy",
-        "passionate"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ",
-        "appleMusic": "https://geo.music.apple.com/ca/album/oceans-above-stars-below/1895034965"
-      },
-      "enrichedAt": "2026-10-20T20:12:49.109Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-25T22:15:07.159Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tripswitch/memento-mori",
