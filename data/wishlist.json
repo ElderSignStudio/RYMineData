@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-09T17:30:22.471Z",
+  "lastScrapedAt": "2026-11-13T12:12:47.394Z",
   "source": "rym",
   "albums": [
     {
@@ -1391,7 +1391,7 @@
       "dateAdded": "2026-10-30",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/e759d6b1af129f9d6d277d100ffeb2f6/15028377",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/9716dbc2ff255cefd1420b2699a0429f/15028377",
-      "rymRating": 3.47,
+      "rymRating": 3.45,
       "primaryGenres": [
         "Post-Rock"
       ],
@@ -1407,9 +1407,10 @@
         "appleMusic": "https://geo.music.apple.com/es/album/caspian/6798810882",
         "bandcamp": "https://caspiantheband.bandcamp.com/album/caspian"
       },
-      "enrichedAt": "2026-10-30T14:20:49.071Z",
+      "enrichedAt": "2026-11-11T11:09:37.702Z",
       "onDeck": true,
-      "onDeckAt": "2026-11-07T20:27:56.184Z"
+      "onDeckAt": "2026-11-07T20:27:56.184Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/cell/live-in-poland",
@@ -2078,42 +2079,6 @@
       "onDeckAt": "2026-06-12T13:56:06.145Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/dirt-poor-robins/firebird",
-      "title": "Firebird",
-      "artist": "Dirt Poor Robins",
-      "year": 2024,
-      "genres": [
-        "Progressive Pop",
-        "Art Pop",
-        "Dark Cabaret"
-      ],
-      "dateAdded": "2026-10-25",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/16e1ebfd732c6f60ed3ca6952b1e48ce/11853978",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3af7ecc0ffb773858a0ac6b8b4ff0546/11853978",
-      "rymRating": 3.39,
-      "primaryGenres": [
-        "Progressive Pop",
-        "Art Pop",
-        "Dark Cabaret"
-      ],
-      "secondaryGenres": [
-        "Synthpop",
-        "Progressive Rock",
-        "Rock Opera"
-      ],
-      "descriptors": [
-        "female vocalist",
-        "male vocalist",
-        "progressive"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2W4OTm8a7op7GYbAXYKl3g",
-        "youtube": "https://www.youtube.com/watch?v=vXlJyFUUxq0",
-        "bandcamp": "https://dirtpoorrobins.bandcamp.com/album/firebird"
-      },
-      "enrichedAt": "2026-10-25T22:14:30.648Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/dun/eros",
       "title": "Eros",
       "artist": "Dün",
@@ -2544,6 +2509,43 @@
         "bandcamp": "https://esotericuk.bandcamp.com/album/metamorphogenesis"
       },
       "enrichedAt": "2026-05-21T08:49:58.219Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/eternitys-end/titanblood",
+      "title": "Titanblood",
+      "artist": "Eternity's End",
+      "year": 2026,
+      "genres": [
+        "Power Metal",
+        "Neoclassical Metal"
+      ],
+      "dateAdded": "2026-11-12",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/0fba22d09a98f43525a9370598c59169/15044076",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/809376e4449343ef188f7fe99cebbeb1/15044076",
+      "rymRating": 3.6,
+      "primaryGenres": [
+        "Power Metal",
+        "Neoclassical Metal"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal"
+      ],
+      "descriptors": [
+        "energetic",
+        "male vocalist",
+        "heavy",
+        "fantasy",
+        "technical",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1Y5iwGxWJ2r27UjGdu4mH5",
+        "appleMusic": "https://geo.music.apple.com/it/album/titanblood/6807803155",
+        "bandcamp": "https://scarletrecords.bandcamp.com/album/titanblood"
+      },
+      "enrichedAt": "2026-11-13T12:12:29.217Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-13T12:12:57.719Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/evership/the-uncrowned-king-act-1",
@@ -5845,42 +5847,6 @@
       "enrichedAt": "2026-10-20T08:56:10.223Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/noor/mothers-guilty-pleasure-part-one",
-      "title": "Mother's Guilty Pleasure Part One",
-      "artist": "Noor",
-      "year": 2023,
-      "genres": [
-        "Progressive Metal",
-        "US Power Metal"
-      ],
-      "dateAdded": "2026-05-27",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/07d150648dc12077f660c80736ad5c67/11896892",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/ebade46edcd0867ca211b65009663806/11896892/noor-mothers-guilty-pleasure-part-one-Cover-Art.jpg",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Progressive Metal",
-        "US Power Metal"
-      ],
-      "descriptors": [
-        "passionate",
-        "heavy",
-        "progressive",
-        "melodic",
-        "technical",
-        "aggressive",
-        "energetic",
-        "male vocalist",
-        "sombre",
-        "raw"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/25LpMQeQBqZOpNNBZ4udzk",
-        "appleMusic": "https://geo.music.apple.com/ca/album/mothers-guilty-pleasure-pt-1/1721546017",
-        "bandcamp": "https://noorband.bandcamp.com/album/mothers-guilty-pleasure-part-one"
-      },
-      "enrichedAt": "2026-05-28T08:39:47.884Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/norther/dreams-of-endless-war",
       "title": "Dreams of Endless War",
       "artist": "Norther",
@@ -6148,6 +6114,69 @@
         "bandcamp": "https://kscopemusic.bandcamp.com/album/the-hidden-step"
       },
       "enrichedAt": "2026-10-19T09:23:22.117Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/parius/alchestronomy",
+      "title": "Alchestronomy",
+      "artist": "Parius",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-11-12",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/797706b25a27a0f859e4ba0193b59db6/15007391",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/2b6e2ee1d6c2dd17551d3257296b2b38/15007391",
+      "rymRating": 3.69,
+      "primaryGenres": [
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Rock Opera"
+      ],
+      "streamingLinks": {
+        "appleMusic": "https://geo.music.apple.com/it/album/alchestronomy/6805555953",
+        "youtube": "https://www.youtube.com/watch?v=hvZsdlCFN94",
+        "bandcamp": "https://parius.bandcamp.com/album/alchestronomy"
+      },
+      "enrichedAt": "2026-11-13T12:12:32.807Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-13T12:12:58.750Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/parius/the-eldritch-realm",
+      "title": "The Eldritch Realm",
+      "artist": "Parius",
+      "year": 2018,
+      "genres": [
+        "Progressive Metal",
+        "Melodic Death Metal"
+      ],
+      "dateAdded": "2026-11-13",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/91db3a3a24b9fd740c69e11c372e912e/7086006",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/7367a0014a665eca5e70a82aa110178b/7086006",
+      "rymRating": 3.43,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Melodic Death Metal"
+      ],
+      "descriptors": [
+        "mythology",
+        "progressive",
+        "concept album",
+        "monologue",
+        "technical",
+        "ethereal",
+        "aggressive",
+        "heavy",
+        "male vocalist",
+        "existential"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6uiakspVKLhsFyvO4RegMC",
+        "appleMusic": "https://geo.music.apple.com/us/album/the-eldritch-realm/1619391545",
+        "bandcamp": "https://parius.bandcamp.com/album/the-eldritch-realm"
+      },
+      "enrichedAt": "2026-11-13T12:12:40.028Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pattern-seeking-animals/prehensile-tales",
@@ -7992,74 +8021,6 @@
       "enrichedAt": "2026-10-01T11:04:25.440Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/the-olivia-tremor-control/the-same-place",
-      "title": "The Same Place",
-      "artist": "The Olivia Tremor Control",
-      "year": 2026,
-      "genres": [
-        "Neo-Psychedelia",
-        "Psychedelic Pop",
-        "Psychedelic Rock"
-      ],
-      "dateAdded": "2026-10-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/bda3943b5eaff295043bc0e9be5aa86c/14834814",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d45bdd6cb5a870d05a05a3a9b9b3dc04/14834814",
-      "rymRating": 3.93,
-      "primaryGenres": [
-        "Neo-Psychedelia",
-        "Psychedelic Pop",
-        "Psychedelic Rock"
-      ],
-      "secondaryGenres": [
-        "Sunshine Pop",
-        "Chamber Pop",
-        "Slacker Rock",
-        "Psychedelic Folk",
-        "Sound Collage",
-        "Baroque Pop",
-        "Progressive Pop"
-      ],
-      "descriptors": [
-        "psychedelic",
-        "male vocalist",
-        "time",
-        "bittersweet",
-        "progressive",
-        "afterlife",
-        "cryptic",
-        "existential",
-        "mysterious",
-        "surreal",
-        "introspective",
-        "farewell",
-        "maximalist",
-        "uplifting",
-        "hypnotic",
-        "bright",
-        "dense",
-        "melodic",
-        "abstract",
-        "atmospheric",
-        "hazy",
-        "playful",
-        "concept album",
-        "suite",
-        "death",
-        "nature",
-        "triumphant",
-        "epic"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat",
-        "appleMusic": "https://geo.music.apple.com/us/album/the-same-place/6799141482",
-        "bandcamp": "https://oliviatremorcontrol.bandcamp.com/album/the-same-place"
-      },
-      "enrichedAt": "2026-10-28T14:14:37.709Z",
-      "myRating": 3.5,
-      "onDeck": true,
-      "onDeckAt": "2026-11-04T22:54:15.767Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/the-pains-of-being-pure-at-heart/the-pains-of-being-pure-at-heart",
       "title": "The Pains of Being Pure at Heart",
       "artist": "The Pains of Being Pure at Heart",
@@ -8382,6 +8343,32 @@
         "spotify": "https://open.spotify.com/album/0Ug5EnJH0wl1DFPC8HAtpK"
       },
       "enrichedAt": "2026-05-21T12:25:46.835Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/thy-catafalque/xiii-sarga-erdo",
+      "title": "XIII: Sárga erdő",
+      "artist": "Thy Catafalque",
+      "year": 2026,
+      "genres": [],
+      "dateAdded": "2026-11-12",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/9fa54f430f35d2b28820fcee4571e4ee/15020358",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8db1ffdf0c5f2e4b06bb2830bd49867c/15251992",
+      "rymRating": 4.15,
+      "primaryGenres": [
+        "Avant-Garde Metal"
+      ],
+      "secondaryGenres": [
+        "Alternative Metal",
+        "Heavy Metal",
+        "Nu Jazz",
+        "Gothic Metal",
+        "Folk Metal"
+      ],
+      "streamingLinks": {
+        "appleMusic": "https://geo.music.apple.com/it/album/xiii-s%C3%A1rga-erd%C5%91/6798033431",
+        "bandcamp": "https://thycatafalqueuk.bandcamp.com/album/xiii-s-rga-erdo"
+      },
+      "enrichedAt": "2026-11-13T12:12:43.947Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
@@ -9392,6 +9379,32 @@
       "enrichedAt": "2026-05-21T12:35:17.732Z",
       "onDeck": true,
       "onDeckAt": "2026-10-07T23:18:13.421Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/yngwie-malmsteen/hell-or-high-water",
+      "title": "Hell or High Water",
+      "artist": "Yngwie Malmsteen",
+      "year": 2026,
+      "genres": [
+        "Neoclassical Metal"
+      ],
+      "dateAdded": "2026-11-12",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/6749f930d3dbd19e64efe0de8e32335e/14901757",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f92208208eeef001fab843422401346b/14901757",
+      "rymRating": 2.55,
+      "primaryGenres": [
+        "Neoclassical Metal"
+      ],
+      "secondaryGenres": [
+        "Power Metal"
+      ],
+      "descriptors": [
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
+      },
+      "enrichedAt": "2026-11-13T12:12:47.394Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/%D0%BC%D1%8B%D1%81-%D0%BB%D1%83%D0%BD%D1%8B/%D0%BC%D1%8B-%D1%81-%D0%BB%D1%83%D0%BD%D1%8B-just-lunatics",
