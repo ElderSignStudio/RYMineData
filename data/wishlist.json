@@ -4043,7 +4043,9 @@
         "introspective",
         "manic"
       ],
-      "myRating": 4.5
+      "myRating": 4.5,
+      "onDeck": true,
+      "onDeckAt": "2026-11-18T12:59:46.154Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/in-the-woods/strange-in-stereo",
