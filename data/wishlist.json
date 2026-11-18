@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-17T14:09:13.608Z",
+  "lastScrapedAt": "2026-11-18T12:55:10.277Z",
   "source": "rym",
   "albums": [
     {
@@ -4022,8 +4022,6 @@
         "bandcamp": "https://iapetus1.bandcamp.com/album/the-mother-void"
       },
       "enrichedAt": "2026-11-17T14:06:58.807Z",
-      "onDeck": true,
-      "onDeckAt": "2026-10-25T22:15:03.092Z",
       "secondaryGenres": [
         "Atmospheric Black Metal"
       ],
@@ -9386,7 +9384,7 @@
       "dateAdded": "2026-11-12",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/6749f930d3dbd19e64efe0de8e32335e/14901757",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f92208208eeef001fab843422401346b/14901757",
-      "rymRating": 2.55,
+      "rymRating": 2.77,
       "primaryGenres": [
         "Neoclassical Metal"
       ],
@@ -9399,9 +9397,8 @@
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
       },
-      "enrichedAt": "2026-11-13T12:12:47.394Z",
-      "onDeck": true,
-      "onDeckAt": "2026-11-17T13:11:00.060Z"
+      "enrichedAt": "2026-11-18T12:55:10.277Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/%D0%BC%D1%8B%D1%81-%D0%BB%D1%83%D0%BD%D1%8B/%D0%BC%D1%8B-%D1%81-%D0%BB%D1%83%D0%BD%D1%8B-just-lunatics",
