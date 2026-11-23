@@ -2288,7 +2288,9 @@
         "appleMusic": "https://geo.music.apple.com/fi/album/echo/6830945395",
         "bandcamp": "https://ecco2k.bandcamp.com/album/echo"
       },
-      "enrichedAt": "2026-11-23T00:38:10.561Z"
+      "enrichedAt": "2026-11-23T00:38:10.561Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-23T11:26:30.334Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/ed-wynne-and-gre-vanderloo/tumbling-through-the-floativerse",
