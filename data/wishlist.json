@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-23T00:39:44.681Z",
+  "lastScrapedAt": "2026-11-23T12:25:19.250Z",
   "source": "rym",
   "albums": [
     {
@@ -6901,14 +6901,13 @@
       "dateAdded": "2026-11-23",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/1ee7901da823bf39fa73844458a2db05/15231865",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4380a2af48bb45108b6c20eca80de97d/15231865",
-      "rymRating": 3.72,
+      "rymRating": 3.71,
       "primaryGenres": [
         "Slowcore",
         "Post-Rock"
       ],
       "secondaryGenres": [
-        "Chamber Music",
-        "Indie Rock"
+        "Chamber Music"
       ],
       "descriptors": [
         "male vocalist",
@@ -6936,7 +6935,8 @@
         "youtube": "https://www.youtube.com/watch?v=mc3Ie9VqWRQ",
         "bandcamp": "https://ramper.bandcamp.com/album/dos-criaturas"
       },
-      "enrichedAt": "2026-11-23T00:39:05.745Z"
+      "enrichedAt": "2026-11-23T12:25:19.250Z",
+      "myRating": 3.5
     },
     {
       "url": "https://rateyourmusic.com/release/album/rata-blanca/magos-espadas-y-rosas",
@@ -8883,7 +8883,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/xiii-s%C3%A1rga-erd%C5%91/6798033431",
         "bandcamp": "https://thycatafalqueuk.bandcamp.com/album/xiii-s-rga-erdo"
       },
-      "enrichedAt": "2026-11-23T00:39:30.312Z"
+      "enrichedAt": "2026-11-23T00:39:30.312Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-23T13:20:07.753Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
