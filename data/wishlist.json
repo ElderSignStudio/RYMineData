@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-18T12:55:10.277Z",
+  "lastScrapedAt": "2026-11-23T00:39:44.681Z",
   "source": "rym",
   "albums": [
     {
@@ -162,6 +162,48 @@
         "bandcamp": "https://alcest.bandcamp.com/album/spiritual-instinct",
         "appleMusic": "https://geo.music.apple.com/au/album/spiritual-instinct/1474788010"
       }
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/alio-die/under-an-holy-ritual",
+      "title": "Under an Holy Ritual",
+      "artist": "Alio Die",
+      "year": 1992,
+      "genres": [
+        "Ambient",
+        "Tribal Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/04768f88ad06f8fbac84e826488de153/1704384",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/c9c53d38710ca79c7f0313274e457edb/1704384",
+      "rymRating": 3.13,
+      "primaryGenres": [
+        "Ambient",
+        "Tribal Ambient"
+      ],
+      "secondaryGenres": [
+        "Ritual Ambient"
+      ],
+      "descriptors": [
+        "warm",
+        "tribal",
+        "atmospheric",
+        "instrumental",
+        "ritualistic",
+        "meditative",
+        "natural",
+        "mysterious",
+        "hypnotic",
+        "mellow",
+        "surreal",
+        "sparse",
+        "psychedelic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5gQwXpdMi9PjKTOVQns1f9",
+        "appleMusic": "https://geo.music.apple.com/us/album/under-an-holy-ritual/616319679",
+        "bandcamp": "https://projektrecords.bandcamp.com/album/under-an-holy-ritual"
+      },
+      "enrichedAt": "2026-11-23T00:37:54.284Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/alvvays/blue-rev",
@@ -399,50 +441,6 @@
       "enrichedAt": "2026-05-20T23:46:39.484Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/mixtape/artemas/yustyna",
-      "title": "Yustyna",
-      "artist": "Artemas",
-      "year": 2024,
-      "genres": [
-        "Alternative R&B",
-        "Darkwave",
-        "Alt-Pop"
-      ],
-      "dateAdded": "2025-12-04",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/dc3708b28d2bc2ab18681b7e8587fe9d/13309862",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/898cdc1b6e72054061f62c11406d6eef/13309862",
-      "rymRating": 2.82,
-      "primaryGenres": [
-        "Alternative R&B",
-        "Darkwave",
-        "Alt-Pop"
-      ],
-      "secondaryGenres": [
-        "Coldwave",
-        "Synthpop",
-        "Electro-Industrial"
-      ],
-      "descriptors": [
-        "sexual",
-        "male vocalist",
-        "hedonism",
-        "cold",
-        "dense",
-        "sad",
-        "manic",
-        "noisy",
-        "melodic",
-        "love",
-        "atmospheric",
-        "bittersweet"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD",
-        "appleMusic": "https://geo.music.apple.com/us/album/yustyna/1756056965"
-      },
-      "enrichedAt": "2026-05-20T23:37:11.524Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/artificial-silence/negative-space",
       "title": "Negative Space",
       "artist": "Artificial Silence",
@@ -598,41 +596,6 @@
         "bandcamp": "https://autumnsgreysolace.bandcamp.com/album/within-the-depths-of-a-darkened-forest"
       },
       "enrichedAt": "2026-05-20T23:46:51.032Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/axel-rudi-pell/magic",
-      "title": "Magic",
-      "artist": "Axel Rudi Pell",
-      "year": 1997,
-      "genres": [
-        "Heavy Metal",
-        "Power Metal"
-      ],
-      "dateAdded": "2026-08-29",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/03b84136dc1bc4c5e70d721fcafbd244/2705437",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/86c97cfb42a753a1f8d362db475a5467/2705437",
-      "rymRating": 3.62,
-      "primaryGenres": [
-        "Heavy Metal",
-        "Power Metal"
-      ],
-      "secondaryGenres": [
-        "Power Metal",
-        "Hard Rock"
-      ],
-      "descriptors": [
-        "melodic",
-        "fantasy",
-        "male vocalist",
-        "technical",
-        "energetic",
-        "passionate"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/2HRKnfpnqdE23ysrSblt4e",
-        "appleMusic": "https://geo.music.apple.com/ru/album/magic/1448480909"
-      },
-      "enrichedAt": "2026-09-08T17:40:11.715Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/battles/mirrored",
@@ -1774,6 +1737,60 @@
       "enrichedAt": "2026-05-20T23:59:41.148Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/cluster/cluster-ii-2",
+      "title": "Cluster II",
+      "artist": "Cluster",
+      "year": 1972,
+      "genres": [
+        "Progressive Electronic",
+        "Ambient",
+        "Krautrock"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/a3517ec0b0c9bbd8e9c02edfbd7683fd/12772637",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/375beb1d704a501029ca68031d466b4e/12772637",
+      "rymRating": 3.52,
+      "primaryGenres": [
+        "Progressive Electronic",
+        "Ambient",
+        "Krautrock",
+        "Düsseldorf School"
+      ],
+      "secondaryGenres": [
+        "Drone",
+        "Space Rock",
+        "Space Ambient"
+      ],
+      "descriptors": [
+        "ominous",
+        "hypnotic",
+        "psychedelic",
+        "atmospheric",
+        "instrumental",
+        "surreal",
+        "cold",
+        "dark",
+        "mysterious",
+        "space",
+        "futuristic",
+        "nocturnal",
+        "suspenseful",
+        "dissonant",
+        "anxious",
+        "mechanical",
+        "repetitive",
+        "dense",
+        "avant-garde",
+        "progressive",
+        "buzzy"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1z02tw6fbqEsXDnBI1d6v9",
+        "appleMusic": "https://geo.music.apple.com/gb/album/cluster-ii/1443283071"
+      },
+      "enrichedAt": "2026-11-23T00:38:06.277Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/consider-the-source/the-stare",
       "title": "The Stare",
       "artist": "Consider the Source",
@@ -2204,6 +2221,76 @@
       "enrichedAt": "2026-05-21T08:49:33.477Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/ecco2k/echo",
+      "title": "Echo",
+      "artist": "Ecco2k",
+      "year": 2026,
+      "genres": [
+        "Electronic",
+        "Art Pop"
+      ],
+      "dateAdded": "2026-11-23",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/86d67f8e01b2eae79108341d4f2f99f4/15253136",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/14d6512b83f707e38f5d965a4c5f4729/15253136",
+      "rymRating": 3.74,
+      "primaryGenres": [
+        "Electronic",
+        "Art Pop"
+      ],
+      "secondaryGenres": [
+        "Glitch Pop",
+        "Alternative R&B",
+        "Indietronica",
+        "Alt-Pop",
+        "Post-Dubstep",
+        "Ambient"
+      ],
+      "descriptors": [
+        "eclectic",
+        "hazy",
+        "atmospheric",
+        "ethereal",
+        "androgynous vocals",
+        "male vocalist",
+        "futuristic",
+        "abstract",
+        "punchy",
+        "nocturnal",
+        "travel",
+        "cold",
+        "concept album",
+        "mysterious",
+        "crime",
+        "noisy",
+        "paranoia",
+        "bittersweet",
+        "lonely",
+        "falsetto",
+        "twinkling",
+        "conscious",
+        "love",
+        "drugs",
+        "minimalistic",
+        "melancholic",
+        "whispering",
+        "sentimental",
+        "introspective",
+        "rhythmic",
+        "cryptic",
+        "avant-garde",
+        "existential",
+        "soft",
+        "muffled",
+        "poetic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3u58jGUdXH3ofvTWzFewDp",
+        "appleMusic": "https://geo.music.apple.com/fi/album/echo/6830945395",
+        "bandcamp": "https://ecco2k.bandcamp.com/album/echo"
+      },
+      "enrichedAt": "2026-11-23T00:38:10.561Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/ed-wynne-and-gre-vanderloo/tumbling-through-the-floativerse",
       "title": "Tumbling Through the Floativerse",
       "artist": "Ed Wynne and Gre VanderlooEd WynneGracerooms",
@@ -2328,80 +2415,6 @@
         "progressive"
       ],
       "enrichedAt": "2026-11-03T23:25:10.891Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/electric-wizard/dopethrone",
-      "title": "Dopethrone",
-      "artist": "Electric Wizard",
-      "year": 2000,
-      "genres": [
-        "Stoner Metal",
-        "Doom Metal"
-      ],
-      "dateAdded": "2026-10-10",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/7b6cd734fbbd06eed1598084ebc9aa4d/2689526",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/96183f984a42ea5a46dcf17d3d1a71b5/2689526",
-      "rymRating": 4.07,
-      "primaryGenres": [
-        "Stoner Metal",
-        "Doom Metal"
-      ],
-      "secondaryGenres": [
-        "Sludge Metal"
-      ],
-      "descriptors": [
-        "heavy",
-        "drugs",
-        "occult",
-        "psychedelic",
-        "noisy",
-        "misanthropic",
-        "dense",
-        "nihilistic",
-        "cannabis",
-        "male vocalist",
-        "raw",
-        "hateful",
-        "dark",
-        "repetitive",
-        "apocalyptic",
-        "atmospheric",
-        "ominous",
-        "infernal",
-        "aggressive",
-        "hypnotic",
-        "pessimistic",
-        "fantasy",
-        "bassy",
-        "epic",
-        "angry",
-        "rhythmic",
-        "lethargic",
-        "fuzzy",
-        "hazy",
-        "nocturnal",
-        "passionate",
-        "funereal",
-        "violence",
-        "menacing",
-        "cynical",
-        "plodding",
-        "hallucinogens",
-        "apathetic",
-        "horror",
-        "desolate",
-        "decay",
-        "harsh vocals",
-        "cosmic horror",
-        "serious",
-        "nature",
-        "rubato"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4xaTRMLbZdmAWtUnoYvaTF",
-        "appleMusic": "https://geo.music.apple.com/pl/album/dopethrone/178985072"
-      },
-      "enrichedAt": "2026-10-11T21:23:26.081Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/eluveitie/slania",
@@ -3491,6 +3504,50 @@
       "enrichedAt": "2026-09-25T12:36:55.345Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/hans-joachim-roedelius/selbstportrait",
+      "title": "Selbstportrait",
+      "artist": "Hans-Joachim Roedelius",
+      "year": 1979,
+      "genres": [
+        "Ambient",
+        "Electronic"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/cd96594fb322b83572a362ffc55a514b/2682754",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/758aa38c0889f0516e76998037e7eac2/2682754",
+      "rymRating": 3.47,
+      "primaryGenres": [
+        "Ambient",
+        "Electronic",
+        "Düsseldorf School"
+      ],
+      "secondaryGenres": [
+        "Progressive Electronic",
+        "Minimal Synth"
+      ],
+      "descriptors": [
+        "calm",
+        "atmospheric",
+        "instrumental",
+        "soft",
+        "peaceful",
+        "pastoral",
+        "melodic",
+        "meditative",
+        "ethereal",
+        "futuristic",
+        "soothing",
+        "nocturnal",
+        "minimalistic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5eKLLEROcuW2Ho3a1pgTxE",
+        "appleMusic": "https://geo.music.apple.com/gb/album/selbstportrait-i/1185004688",
+        "bandcamp": "https://roedelius-official.bandcamp.com/album/selbstportrait-i"
+      },
+      "enrichedAt": "2026-11-23T00:38:15.052Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/happy-the-man/happy-the-man",
       "title": "Happy the Man",
       "artist": "Happy the Man",
@@ -3999,55 +4056,6 @@
       "enrichedAt": "2026-06-05T09:55:12.919Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/iapetus/the-mother-void",
-      "title": "The Mother Void",
-      "artist": "Iapetus",
-      "year": 2026,
-      "genres": [
-        "Progressive Metal",
-        "Melodic Death Metal"
-      ],
-      "dateAdded": "2026-10-20",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/3606f330eac34ca3864110d8fd199bda/15150115",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/1261aa9473229e06b3a60c9e6b5377c1/15150115",
-      "rymRating": 3.65,
-      "primaryGenres": [
-        "Progressive Metal",
-        "Melodic Death Metal"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/6ipNjJ6lW6m3NnaZ3SAIEJ",
-        "appleMusic": "https://geo.music.apple.com/nz/album/the-mother-void/6790585327",
-        "youtube": "https://www.youtube.com/watch?v=zgUnC_OHmK0",
-        "bandcamp": "https://iapetus1.bandcamp.com/album/the-mother-void"
-      },
-      "enrichedAt": "2026-11-17T14:06:58.807Z",
-      "secondaryGenres": [
-        "Atmospheric Black Metal"
-      ],
-      "descriptors": [
-        "energetic",
-        "blast beats",
-        "female vocalist",
-        "existential",
-        "concept album",
-        "progressive",
-        "punchy",
-        "rhythmic",
-        "space",
-        "melodic",
-        "sombre",
-        "harsh vocals",
-        "rejection",
-        "male vocalist",
-        "introspective",
-        "manic"
-      ],
-      "myRating": 4.5,
-      "onDeck": true,
-      "onDeckAt": "2026-11-18T12:59:46.154Z"
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/in-the-woods/strange-in-stereo",
       "title": "Strange in Stereo",
       "artist": "In the Woods...",
@@ -4185,6 +4193,49 @@
         "appleMusic": "https://geo.music.apple.com/us/album/el-jardin-de-los-presentes/401686454"
       },
       "enrichedAt": "2026-10-11T21:23:46.976Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/j-greinke/cities-in-fog",
+      "title": "Cities in Fog",
+      "artist": "J. Greinke",
+      "year": 1985,
+      "genres": [
+        "Dark Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/2db92e4abe523c8ddd408294d03fc630/2226789",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/574758027aeb1a58fc9b833351204945/2226789",
+      "rymRating": 3.54,
+      "primaryGenres": [
+        "Dark Ambient"
+      ],
+      "secondaryGenres": [
+        "Drone"
+      ],
+      "descriptors": [
+        "cold",
+        "mechanical",
+        "instrumental",
+        "urban",
+        "dark",
+        "aquatic",
+        "atmospheric",
+        "hazy",
+        "ominous",
+        "nocturnal",
+        "sombre",
+        "mysterious",
+        "desolate",
+        "disturbing",
+        "minimalistic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/6HxGCVZaUtU56q35tOvWKV",
+        "appleMusic": "https://geo.music.apple.com/ca/album/cities-in-fog-1-2/210667094",
+        "youtube": "https://www.youtube.com/watch?v=at6cBxXX7CY",
+        "bandcamp": "https://jeffgreinke.bandcamp.com/album/cities-in-fog-1"
+      },
+      "enrichedAt": "2026-11-23T00:38:19.012Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/jacob-roberge/the-passing",
@@ -4368,6 +4419,53 @@
       "enrichedAt": "2026-05-21T10:48:34.170Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/jon-hassell/fourth-world-volume-two-dream-theory-in-malaya",
+      "title": "Fourth World Volume Two: Dream Theory in Malaya",
+      "artist": "Jon Hassell",
+      "year": 1981,
+      "genres": [
+        "Tribal Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/d09b6efc5e1da013963b522dc7d2fedd/10180689",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/391411a086e02fe15c4185fae44d5e88/10180689",
+      "rymRating": 3.63,
+      "primaryGenres": [
+        "Tribal Ambient"
+      ],
+      "secondaryGenres": [
+        "Malay Folk Music",
+        "New Age",
+        "Javanese Gamelan",
+        "Electroacoustic"
+      ],
+      "descriptors": [
+        "psychedelic",
+        "instrumental",
+        "tribal",
+        "atmospheric",
+        "repetitive",
+        "rhythmic",
+        "surreal",
+        "hypnotic",
+        "spiritual",
+        "natural",
+        "avant-garde",
+        "warbly",
+        "forest",
+        "bouncy",
+        "tropical",
+        "squelchy",
+        "travel",
+        "mysterious",
+        "aquatic"
+      ],
+      "streamingLinks": {
+        "youtube": "https://www.youtube.com/watch?v=UMWhT5nAJkw"
+      },
+      "enrichedAt": "2026-11-23T00:38:24.863Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/kalax/iii",
       "title": "III",
       "artist": "Kalax",
@@ -4507,6 +4605,53 @@
         "energetic"
       ],
       "enrichedAt": "2026-10-19T09:23:12.834Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/klaus-schulze/timewind",
+      "title": "Timewind",
+      "artist": "Klaus Schulze",
+      "year": 1975,
+      "genres": [
+        "Berlin School",
+        "Space Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/47d85d932093fdb0fcf746d7594dc3d5/6385694",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/2ae8dec4dbc26697c51268d1638cc105/6385694",
+      "rymRating": 3.75,
+      "primaryGenres": [
+        "Berlin School",
+        "Space Ambient"
+      ],
+      "descriptors": [
+        "atmospheric",
+        "space",
+        "ethereal",
+        "meditative",
+        "instrumental",
+        "hypnotic",
+        "futuristic",
+        "mysterious",
+        "psychedelic",
+        "melancholic",
+        "lush",
+        "nocturnal",
+        "calm",
+        "wind",
+        "surreal",
+        "time",
+        "twinkling",
+        "suspenseful",
+        "piercing",
+        "cold",
+        "peaceful"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0QG1Ty8ld4wVl8YcPFOgUT",
+        "appleMusic": "https://geo.music.apple.com/de/album/timewind-remastered-2017/1444212130",
+        "youtube": "https://www.youtube.com/watch?v=8tV5Q9WlIZ8"
+      },
+      "enrichedAt": "2026-11-23T00:38:28.994Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/lamp/%E3%82%86%E3%82%81",
@@ -5191,6 +5336,49 @@
         "bandcamp": "https://tompkinssquare.bandcamp.com/album/kissing-rosy-in-the-rain"
       },
       "enrichedAt": "2026-05-21T10:50:35.093Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/mastodon/emperor-of-sand",
+      "title": "Emperor of Sand",
+      "artist": "Mastodon",
+      "year": 2017,
+      "genres": [
+        "Progressive Metal"
+      ],
+      "dateAdded": "2026-11-17",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/8ed696ac841a160093c5563a23b96524/6461304",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/3aa5f4eab02c959e027997dbd0319778/6461304",
+      "rymRating": 3.27,
+      "primaryGenres": [
+        "Progressive Metal"
+      ],
+      "secondaryGenres": [
+        "Stoner Metal",
+        "Sludge Metal",
+        "Alternative Metal"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "desert",
+        "concept album",
+        "progressive",
+        "heavy",
+        "existential",
+        "melodic",
+        "death",
+        "energetic",
+        "epic",
+        "narrative",
+        "ominous",
+        "cryptic",
+        "occult",
+        "dark"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF",
+        "appleMusic": "https://geo.music.apple.com/ru/album/emperor-of-sand/1195230194"
+      },
+      "enrichedAt": "2026-11-23T00:38:33.832Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/meer/playing-house",
@@ -6041,6 +6229,71 @@
       "enrichedAt": "2026-09-29T12:35:31.566Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/orb/the-orbs-adventures-beyond-the-ultraworld",
+      "title": "The Orb's Adventures Beyond the Ultraworld",
+      "artist": "Orb",
+      "year": 1991,
+      "genres": [
+        "Ambient House",
+        "Ambient Dub"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/dfb4494c6ad2063e5c5579c3671f9b63/1733407",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/a1d0c5bdd1ca81f1ac7db5509495d1ac/1733407",
+      "rymRating": 3.58,
+      "primaryGenres": [
+        "Ambient House",
+        "Ambient Dub"
+      ],
+      "secondaryGenres": [
+        "Space Ambient",
+        "Breakbeat",
+        "Field Recording",
+        "Berlin School",
+        "Downtempo",
+        "Dub"
+      ],
+      "descriptors": [
+        "space",
+        "psychedelic",
+        "atmospheric",
+        "sampling",
+        "hypnotic",
+        "science fiction",
+        "rhythmic",
+        "futuristic",
+        "repetitive",
+        "nocturnal",
+        "concept album",
+        "soothing",
+        "surreal",
+        "playful",
+        "ethereal",
+        "instrumental",
+        "lush",
+        "warm",
+        "aquatic",
+        "meditative",
+        "mysterious",
+        "peaceful",
+        "eclectic",
+        "energetic",
+        "urban",
+        "mechanical",
+        "mellow",
+        "progressive",
+        "pastoral",
+        "dense",
+        "uplifting"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk",
+        "appleMusic": "https://geo.music.apple.com/ru/album/the-orbs-adventures-beyond-the-ultraworld/14158411",
+        "youtube": "https://www.youtube.com/watch?v=AaXT3raG5gY"
+      },
+      "enrichedAt": "2026-11-23T00:38:45.712Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/orphaned-land/mabool-the-story-of-the-three-sons-of-seven",
       "title": "Mabool: The Story of the Three Sons of Seven",
       "artist": "Orphaned Land",
@@ -6236,6 +6489,53 @@
         "bandcamp": "https://insideoutmusic.bandcamp.com/album/prehensile-tales"
       },
       "enrichedAt": "2026-05-21T11:05:56.698Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/pauline-oliveros-stuart-dempster-panaiotis/deep-listening",
+      "title": "Deep Listening",
+      "artist": "Pauline Oliveros, Stuart Dempster & Panaiotis",
+      "year": 1989,
+      "genres": [
+        "Drone",
+        "Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/97e02b25ae8a03eccc1acf59e6289afa/3923622",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/395ec13d8e33f0f3faf07d4676140662/3923622",
+      "rymRating": 3.68,
+      "primaryGenres": [
+        "Drone",
+        "Ambient"
+      ],
+      "secondaryGenres": [
+        "Dark Ambient",
+        "Minimalism"
+      ],
+      "descriptors": [
+        "instrumental",
+        "atmospheric",
+        "meditative",
+        "hypnotic",
+        "sombre",
+        "space",
+        "nocturnal",
+        "sparse",
+        "ominous",
+        "calm",
+        "mysterious",
+        "repetitive",
+        "cavernous",
+        "dark",
+        "improvisation",
+        "acoustic",
+        "avant-garde"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC",
+        "appleMusic": "https://geo.music.apple.com/in/album/deep-listening/51221050",
+        "youtube": "https://www.youtube.com/watch?v=U__lpPDTUS4"
+      },
+      "enrichedAt": "2026-11-23T00:38:53.948Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/pekka-pohjola/keesojen-lehto",
@@ -6478,6 +6778,49 @@
       "enrichedAt": "2026-10-07T22:21:36.320Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/popol-vuh/affenstunde",
+      "title": "Affenstunde",
+      "artist": "Popol Vuh",
+      "year": 1971,
+      "genres": [
+        "Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/99237f4078d4eb05136014dc02db3868/3116747",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/965f6b194b76c740f755b3a941edf56f/3116747",
+      "rymRating": 3.27,
+      "primaryGenres": [
+        "Ambient"
+      ],
+      "secondaryGenres": [
+        "Tribal Ambient",
+        "Progressive Electronic",
+        "Drone"
+      ],
+      "descriptors": [
+        "atmospheric",
+        "instrumental",
+        "hypnotic",
+        "mysterious",
+        "meditative",
+        "tribal",
+        "spiritual",
+        "progressive",
+        "space",
+        "psychedelic",
+        "sparse",
+        "minimalistic",
+        "ominous",
+        "surreal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1nXXBeysRVdlSoZjAmAlDf",
+        "appleMusic": "https://geo.music.apple.com/us/album/affenstunde/1357269972",
+        "youtube": "https://www.youtube.com/watch?v=TJ1zW3_hH7o"
+      },
+      "enrichedAt": "2026-11-23T00:38:59.844Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/quantum-fantay/ugisiunsi",
       "title": "Ugisiunsi",
       "artist": "Quantum Fantay",
@@ -6543,6 +6886,55 @@
         "bandcamp": "https://quidampl.bandcamp.com/album/alone-together"
       },
       "enrichedAt": "2026-05-21T11:06:35.249Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/ramper/dos-criaturas",
+      "title": "Dos criaturas",
+      "artist": "Ramper",
+      "year": 2026,
+      "genres": [
+        "Slowcore",
+        "Post-Rock"
+      ],
+      "dateAdded": "2026-11-23",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1ee7901da823bf39fa73844458a2db05/15231865",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/4380a2af48bb45108b6c20eca80de97d/15231865",
+      "rymRating": 3.72,
+      "primaryGenres": [
+        "Slowcore",
+        "Post-Rock"
+      ],
+      "secondaryGenres": [
+        "Chamber Music",
+        "Indie Rock"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "lush",
+        "bittersweet",
+        "melancholic",
+        "atmospheric",
+        "mellow",
+        "pets",
+        "ethereal",
+        "nature",
+        "jamming",
+        "minimalistic",
+        "animals",
+        "longing",
+        "twinkling",
+        "androgynous vocals",
+        "peaceful",
+        "lethargic",
+        "nocturnal"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7mtWIDE68bc08Mi15vgFG5",
+        "appleMusic": "https://geo.music.apple.com/ca/album/dos-criaturas/6824711899",
+        "youtube": "https://www.youtube.com/watch?v=mc3Ie9VqWRQ",
+        "bandcamp": "https://ramper.bandcamp.com/album/dos-criaturas"
+      },
+      "enrichedAt": "2026-11-23T00:39:05.745Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/rata-blanca/magos-espadas-y-rosas",
@@ -6765,6 +7157,42 @@
         "bandcamp": "https://riversea.bandcamp.com/album/the-tide-2"
       },
       "enrichedAt": "2026-05-21T12:05:17.945Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/robert-rich/trances",
+      "title": "Trances",
+      "artist": "Robert Rich",
+      "year": 1984,
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/c961e35f4e42bc43050ff4614e901516/1899776",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/55bc9632917f5aebed01ff0269f4a612/1899776",
+      "rymRating": 3.47,
+      "primaryGenres": [
+        "Ambient",
+        "Drone"
+      ],
+      "secondaryGenres": [
+        "Dark Ambient"
+      ],
+      "descriptors": [
+        "instrumental",
+        "dark",
+        "meditative",
+        "atmospheric",
+        "suspenseful",
+        "natural",
+        "nocturnal",
+        "soothing",
+        "minimalistic"
+      ],
+      "streamingLinks": {
+        "bandcamp": "https://robertrich.bandcamp.com/album/trances-drones"
+      },
+      "enrichedAt": "2026-11-23T00:39:13.261Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/ross-jennings/a-shadow-of-my-future-self",
@@ -7197,6 +7625,60 @@
       "enrichedAt": "2026-05-21T12:06:05.552Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/stars-of-the-lid/the-ballasted-orchestra",
+      "title": "The Ballasted Orchestra",
+      "artist": "Stars of the Lid",
+      "year": 1997,
+      "genres": [
+        "Drone",
+        "Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/4c4b3c5c856371504933a30eb84c13cc/3372472",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/404160e085f53d6461da5a6600355ac5/3372472",
+      "rymRating": 3.72,
+      "primaryGenres": [
+        "Drone",
+        "Ambient"
+      ],
+      "secondaryGenres": [
+        "Dark Ambient"
+      ],
+      "descriptors": [
+        "dark",
+        "ethereal",
+        "nocturnal",
+        "instrumental",
+        "atmospheric",
+        "cold",
+        "ominous",
+        "calm",
+        "repetitive",
+        "soothing",
+        "hypnotic",
+        "sparse",
+        "sombre",
+        "hazy",
+        "lonely",
+        "lethargic",
+        "melancholic",
+        "desolate",
+        "cavernous",
+        "surreal",
+        "dissonant",
+        "droning",
+        "television",
+        "mysterious"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/7sKtEM0XcdniOZL50Opz74",
+        "appleMusic": "https://geo.music.apple.com/us/album/the-ballasted-orchestra/40883238",
+        "youtube": "https://www.youtube.com/watch?v=LZJOymJVP9k",
+        "bandcamp": "https://starsofthelid.bandcamp.com/album/the-ballasted-orchestra"
+      },
+      "enrichedAt": "2026-11-23T00:39:20.027Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/stephen-wilson-jr/son-of-dad",
       "title": "Søn of Dad",
       "artist": "Stephen Wilson Jr.",
@@ -7324,6 +7806,55 @@
       "enrichedAt": "2026-10-11T21:25:38.192Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/steve-roach/the-dream-circle",
+      "title": "The Dream Circle",
+      "artist": "Steve Roach",
+      "year": 1994,
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/a06755bedbc34bd89a3e48557776e864/2689030",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ada5f453c7bb2136307f82d6f8760906/2689030",
+      "rymRating": 3.61,
+      "primaryGenres": [
+        "Ambient",
+        "Drone"
+      ],
+      "secondaryGenres": [
+        "Nature Recordings",
+        "New Age"
+      ],
+      "descriptors": [
+        "instrumental",
+        "repetitive",
+        "psychedelic",
+        "hypnotic",
+        "ethereal",
+        "soothing",
+        "mysterious",
+        "natural",
+        "spiritual",
+        "atmospheric",
+        "meditative",
+        "surreal",
+        "nocturnal",
+        "peaceful",
+        "calm",
+        "hazy",
+        "shamanism",
+        "dreams"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/5Omrwwpln2zGs8QVwpRrU8",
+        "appleMusic": "https://geo.music.apple.com/gb/album/the-dream-circle/1063566010",
+        "youtube": "https://www.youtube.com/watch?v=ZAQhuetZdhc",
+        "bandcamp": "https://steveroach.bandcamp.com/album/the-dream-circle-2020-remastered-edition"
+      },
+      "enrichedAt": "2026-11-23T00:39:25.094Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/steven-wilson/insurgentes",
       "title": "Insurgentes",
       "artist": "Steven Wilson",
@@ -7417,44 +7948,6 @@
         "bandcamp": "https://strangeboutique.bandcamp.com/album/the-loved-one"
       },
       "enrichedAt": "2026-05-21T12:06:17.376Z"
-    },
-    {
-      "url": "https://rateyourmusic.com/release/album/stratovarius/nemesis",
-      "title": "Nemesis",
-      "artist": "Stratovarius",
-      "year": 2013,
-      "genres": [
-        "Power Metal"
-      ],
-      "dateAdded": "2015-12-28",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/7b05bee7d430abdc2cb3443e2f582513/4486718",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/93fd0b71de166e05e7e8cf142ebd9580/4486718",
-      "rymRating": 3.51,
-      "primaryGenres": [
-        "Power Metal"
-      ],
-      "secondaryGenres": [
-        "Progressive Metal",
-        "Trance Metal"
-      ],
-      "descriptors": [
-        "energetic",
-        "melodic",
-        "anthemic",
-        "triumphant",
-        "uplifting",
-        "epic",
-        "passionate",
-        "male vocalist",
-        "fantasy",
-        "technical",
-        "heavy"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La",
-        "appleMusic": "https://geo.music.apple.com/us/album/nemesis-special-edition/1308547892"
-      },
-      "enrichedAt": "2026-08-19T09:22:46.299Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/stratus-luna/stratus-luna",
@@ -8346,24 +8839,49 @@
       "artist": "Thy Catafalque",
       "year": 2026,
       "genres": [
-        "Avant-Garde Metal"
+        "Avant-Garde Metal",
+        "Progressive Metal"
       ],
       "dateAdded": "2026-11-12",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/ea6dbc70670034e902335423c8746073/15251992",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8db1ffdf0c5f2e4b06bb2830bd49867c/15251992",
-      "rymRating": 3.77,
+      "rymRating": 3.79,
       "primaryGenres": [
-        "Avant-Garde Metal"
+        "Avant-Garde Metal",
+        "Progressive Metal"
       ],
       "secondaryGenres": [
-        "Folk Metal"
+        "Hungarian Folk Music",
+        "Folk Metal",
+        "Black Metal"
+      ],
+      "descriptors": [
+        "progressive",
+        "male vocalist",
+        "melodic",
+        "ethereal",
+        "lush",
+        "avant-garde",
+        "eclectic",
+        "energetic",
+        "rhythmic",
+        "psychedelic",
+        "heavy",
+        "epic",
+        "female vocalist",
+        "sombre",
+        "atmospheric",
+        "harsh vocals",
+        "chugging",
+        "aggressive",
+        "natural"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/7xcuUTuXqVLUwDItIW8J8p",
         "appleMusic": "https://geo.music.apple.com/it/album/xiii-s%C3%A1rga-erd%C5%91/6798033431",
         "bandcamp": "https://thycatafalqueuk.bandcamp.com/album/xiii-s-rga-erdo"
       },
-      "enrichedAt": "2026-11-17T14:09:13.608Z"
+      "enrichedAt": "2026-11-23T00:39:30.312Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
@@ -8905,6 +9423,41 @@
       "enrichedAt": "2026-05-21T12:29:04.323Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/vangelis/soil-festivities",
+      "title": "Soil Festivities",
+      "artist": "Vangelis",
+      "year": 1984,
+      "genres": [
+        "Progressive Electronic"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/3695912c5387af93f25fbbdf220ca115/2177868",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/d8a62c6be9633169b9c632dccce661c8/2177868",
+      "rymRating": 3.5,
+      "primaryGenres": [
+        "Progressive Electronic"
+      ],
+      "secondaryGenres": [
+        "Ambient",
+        "Modern Classical"
+      ],
+      "descriptors": [
+        "rain",
+        "aquatic",
+        "mysterious",
+        "instrumental",
+        "nature",
+        "complex",
+        "atmospheric",
+        "progressive"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/79IlwWTziJbkzjN8qio1KC",
+        "appleMusic": "https://geo.music.apple.com/se/album/soil-festivities/1445663259"
+      },
+      "enrichedAt": "2026-11-23T00:39:35.329Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/vangelis-papathanassiou/lapocalypse-des-animaux",
       "title": "L'apocalypse des animaux",
       "artist": "Vangelis Papathanassiou",
@@ -9017,6 +9570,39 @@
         "appleMusic": "https://geo.music.apple.com/ar/album/digital-dictator/1049048121"
       },
       "enrichedAt": "2026-05-21T12:34:43.168Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/vidna-obmana/passage-in-beauty",
+      "title": "Passage in Beauty",
+      "artist": "Vidna Obmana",
+      "year": 1991,
+      "genres": [
+        "Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/1d2fa10d9769fc2906ba39b3ca042f16/2783503",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/17e7e44c46af7b02411e1f0ff9b7fc49/2783503",
+      "rymRating": 3.44,
+      "primaryGenres": [
+        "Ambient"
+      ],
+      "secondaryGenres": [
+        "Tribal Ambient",
+        "Drone",
+        "Space Ambient"
+      ],
+      "descriptors": [
+        "repetitive",
+        "meditative",
+        "cold",
+        "atmospheric",
+        "instrumental",
+        "ethereal"
+      ],
+      "streamingLinks": {
+        "bandcamp": "https://vidnaobmana.bandcamp.com/album/passage-in-beauty"
+      },
+      "enrichedAt": "2026-11-23T00:39:40.078Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/vinnie-moore/minds-eye",
@@ -9376,33 +9962,6 @@
       "onDeckAt": "2026-10-07T23:18:13.421Z"
     },
     {
-      "url": "https://rateyourmusic.com/release/album/yngwie-malmsteen/hell-or-high-water",
-      "title": "Hell or High Water",
-      "artist": "Yngwie Malmsteen",
-      "year": 2026,
-      "genres": [
-        "Neoclassical Metal"
-      ],
-      "dateAdded": "2026-11-12",
-      "coverUrl": "https://cdn.sonemic.net/i/75/w/6749f930d3dbd19e64efe0de8e32335e/14901757",
-      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/f92208208eeef001fab843422401346b/14901757",
-      "rymRating": 2.77,
-      "primaryGenres": [
-        "Neoclassical Metal"
-      ],
-      "secondaryGenres": [
-        "Power Metal"
-      ],
-      "descriptors": [
-        "male vocalist"
-      ],
-      "streamingLinks": {
-        "spotify": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
-      },
-      "enrichedAt": "2026-11-18T12:55:10.277Z",
-      "myRating": 3.5
-    },
-    {
       "url": "https://rateyourmusic.com/release/album/%D0%BC%D1%8B%D1%81-%D0%BB%D1%83%D0%BD%D1%8B/%D0%BC%D1%8B-%D1%81-%D0%BB%D1%83%D0%BD%D1%8B-just-lunatics",
       "title": "Мы с Луны (Just Lunatics)",
       "artist": "Мыс Луны [Lunar Cape]",
@@ -9474,6 +10033,62 @@
         "youtube": "https://www.youtube.com/watch?v=nhqmV_-awmE"
       },
       "enrichedAt": "2026-07-27T08:57:34.802Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/%E5%90%89%E6%9D%91%E5%BC%98/wave-notation-1-music-for-nine-post-cards",
+      "title": "Wave Notation 1: Music for Nine Post Cards",
+      "artist": "吉村弘 [Hiroshi Yoshimura]",
+      "year": 1982,
+      "genres": [
+        "Ambient"
+      ],
+      "dateAdded": "2026-11-18",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/512e00b3efb01ba60382d9170c8bf405/7433338",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/ed6d7de7072a1a89b772f6016de89b99/7433338",
+      "rymRating": 3.85,
+      "primaryGenres": [
+        "Ambient"
+      ],
+      "secondaryGenres": [
+        "New Age",
+        "Minimalism",
+        "Impressionism",
+        "Electronic"
+      ],
+      "descriptors": [
+        "calm",
+        "minimalistic",
+        "meditative",
+        "peaceful",
+        "sparse",
+        "instrumental",
+        "soothing",
+        "mellow",
+        "soft",
+        "atmospheric",
+        "winter",
+        "lonely",
+        "ethereal",
+        "melancholic",
+        "bittersweet",
+        "hypnotic",
+        "mysterious",
+        "repetitive",
+        "lush",
+        "progressive",
+        "twinkling",
+        "cozy",
+        "nocturnal",
+        "bright",
+        "melodic"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/2vgc3dNLfceYv2k1vxK2zA",
+        "appleMusic": "https://geo.music.apple.com/us/album/music-for-nine-post-cards/1298272642",
+        "youtube": "https://www.youtube.com/watch?v=zyY7NU4cbtY",
+        "bandcamp": "https://hiroshiyoshimura.bandcamp.com/album/music-for-nine-post-cards"
+      },
+      "enrichedAt": "2026-11-23T00:39:44.681Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/%E5%B9%B3%E6%B2%A2%E9%80%B2/%E6%95%91%E6%B8%88%E3%81%AE%E6%8A%80%E6%B3%95",
