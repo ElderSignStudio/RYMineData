@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-24T13:55:12.088Z",
+  "lastScrapedAt": "2026-11-24T14:37:47.783Z",
   "source": "rym",
   "albums": [
     {
@@ -6672,7 +6672,9 @@
       "streamingLinks": {
         "bandcamp": "https://petergabriel.bandcamp.com/album/o-i"
       },
-      "enrichedAt": "2026-11-17T14:09:04.069Z"
+      "enrichedAt": "2026-11-17T14:09:04.069Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-24T14:37:58.665Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/peter-hammill/chameleon-in-the-shadow-of-the-night",
@@ -8976,7 +8978,9 @@
         "appleMusic": "https://geo.music.apple.com/it/album/xiii-s%C3%A1rga-erd%C5%91/6798033431",
         "bandcamp": "https://thycatafalqueuk.bandcamp.com/album/xiii-s-rga-erdo"
       },
-      "enrichedAt": "2026-11-24T13:55:08.622Z"
+      "enrichedAt": "2026-11-24T13:55:08.622Z",
+      "onDeck": true,
+      "onDeckAt": "2026-11-24T14:38:00.174Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
@@ -9545,7 +9549,8 @@
         "spotify": "https://open.spotify.com/album/3L9gyvj1dJzfOCK0zibGW2",
         "bandcamp": "https://ff-vanaheim.bandcamp.com/album/roede-voor-de-borst"
       },
-      "enrichedAt": "2026-11-24T13:55:12.088Z"
+      "enrichedAt": "2026-11-24T14:37:47.783Z",
+      "myRating": 3
     },
     {
       "url": "https://rateyourmusic.com/release/album/vangelis/soil-festivities",
