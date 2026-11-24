@@ -1,5 +1,5 @@
 {
-  "lastScrapedAt": "2026-11-23T12:25:19.250Z",
+  "lastScrapedAt": "2026-11-24T13:55:12.088Z",
   "source": "rym",
   "albums": [
     {
@@ -3383,7 +3383,8 @@
       "genres": [
         "Downtempo",
         "Art Pop",
-        "Neo-Psychedelia"
+        "Neo-Psychedelia",
+        "Art Rock"
       ],
       "dateAdded": "2026-10-10",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/8c3f0ada786229a814b79f2778cb0b85/10058214",
@@ -3393,6 +3394,7 @@
         "Downtempo",
         "Art Pop",
         "Neo-Psychedelia",
+        "Art Rock",
         "Rock sónico"
       ],
       "secondaryGenres": [
@@ -3418,8 +3420,8 @@
         "melancholic",
         "mellow",
         "love",
-        "bittersweet",
         "longing",
+        "bittersweet",
         "passionate",
         "urban",
         "sensual",
@@ -3448,7 +3450,7 @@
         "spotify": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC",
         "appleMusic": "https://geo.music.apple.com/us/album/bocanada/304792998"
       },
-      "enrichedAt": "2026-10-11T21:23:35.974Z"
+      "enrichedAt": "2026-11-24T13:54:58.294Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/hana-stretton/soon",
@@ -5002,6 +5004,36 @@
         "spotify": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
       },
       "enrichedAt": "2026-06-05T09:55:17.381Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/lyrre/nothing-is-promised",
+      "title": "Nothing Is Promised",
+      "artist": "LYRRE",
+      "year": 2026,
+      "genres": [
+        "Folk Metal"
+      ],
+      "dateAdded": "2026-11-24",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/f527c551aff1007982bab264abeb6cdd/14383221",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/5082eec6f14a446b12f8f7b00b2ce431/14383221",
+      "rymRating": 3.38,
+      "primaryGenres": [
+        "Folk Metal"
+      ],
+      "secondaryGenres": [
+        "Progressive Metal",
+        "Gothic Metal"
+      ],
+      "descriptors": [
+        "female vocalist",
+        "energetic",
+        "atmospheric",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/11nC2HygJI0MtAu2kDQXzF"
+      },
+      "enrichedAt": "2026-11-24T13:55:01.502Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/m-efekt/svitanie",
@@ -7542,6 +7574,66 @@
       "enrichedAt": "2026-11-03T23:25:42.473Z"
     },
     {
+      "url": "https://rateyourmusic.com/release/album/sigh/goh-ka",
+      "title": "Goh-Ka",
+      "artist": "Sigh",
+      "year": 2026,
+      "genres": [
+        "Progressive Metal",
+        "Avant-Garde Metal",
+        "Folk Metal"
+      ],
+      "dateAdded": "2026-11-24",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/cffbf8ec8c11748e095fdc0aedadfe4a/14784439",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/600/w/b20b493ec59134125b9f7deb6d7d73d8/14784439/sigh-goh-ka-Cover-Art.jpg",
+      "rymRating": 3.67,
+      "primaryGenres": [
+        "Progressive Metal",
+        "Avant-Garde Metal",
+        "Folk Metal"
+      ],
+      "secondaryGenres": [
+        "Japanese Folk Music",
+        "Black Metal",
+        "Doom Metal",
+        "Thrash Metal"
+      ],
+      "descriptors": [
+        "male vocalist",
+        "progressive",
+        "avant-garde",
+        "folklore",
+        "melodic",
+        "dense",
+        "epic",
+        "heavy",
+        "death",
+        "harsh vocals",
+        "Buddhist",
+        "female vocalist",
+        "surreal",
+        "aggressive",
+        "psychedelic",
+        "blast beats",
+        "poetic",
+        "spiritual",
+        "maximalist",
+        "concept album",
+        "nihilistic",
+        "punchy",
+        "macabre",
+        "dark",
+        "afterlife",
+        "existential"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q",
+        "appleMusic": "https://geo.music.apple.com/it/album/goh-ka/6786781347",
+        "bandcamp": "https://peaceville.bandcamp.com/album/goh-ka"
+      },
+      "enrichedAt": "2026-11-24T13:55:05.226Z"
+    },
+    {
       "url": "https://rateyourmusic.com/release/album/skyfire/spectral",
       "title": "Spectral",
       "artist": "Skyfire",
@@ -8841,51 +8933,50 @@
       "artist": "Thy Catafalque",
       "year": 2026,
       "genres": [
-        "Avant-Garde Metal",
-        "Progressive Metal"
+        "Progressive Metal",
+        "Avant-Garde Metal"
       ],
       "dateAdded": "2026-11-12",
       "coverUrl": "https://cdn.sonemic.net/i/75/w/ea6dbc70670034e902335423c8746073/15251992",
       "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/8db1ffdf0c5f2e4b06bb2830bd49867c/15251992",
       "rymRating": 3.79,
       "primaryGenres": [
-        "Avant-Garde Metal",
-        "Progressive Metal"
+        "Progressive Metal",
+        "Avant-Garde Metal"
       ],
       "secondaryGenres": [
         "Hungarian Folk Music",
-        "Folk Metal",
-        "Black Metal"
+        "Black Metal",
+        "Folk Metal"
       ],
       "descriptors": [
-        "progressive",
         "male vocalist",
         "melodic",
+        "progressive",
         "ethereal",
-        "lush",
+        "heavy",
         "avant-garde",
         "eclectic",
-        "energetic",
+        "lush",
         "rhythmic",
         "psychedelic",
-        "heavy",
+        "energetic",
         "epic",
         "female vocalist",
         "sombre",
         "atmospheric",
         "harsh vocals",
-        "chugging",
         "aggressive",
-        "natural"
+        "chugging",
+        "natural",
+        "grief"
       ],
       "streamingLinks": {
         "spotify": "https://open.spotify.com/album/7xcuUTuXqVLUwDItIW8J8p",
         "appleMusic": "https://geo.music.apple.com/it/album/xiii-s%C3%A1rga-erd%C5%91/6798033431",
         "bandcamp": "https://thycatafalqueuk.bandcamp.com/album/xiii-s-rga-erdo"
       },
-      "enrichedAt": "2026-11-23T00:39:30.312Z",
-      "onDeck": true,
-      "onDeckAt": "2026-11-23T13:20:07.753Z"
+      "enrichedAt": "2026-11-24T13:55:08.622Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/tillison-reingold-tiranti/allium-una-storia",
@@ -9425,6 +9516,36 @@
         "appleMusic": "https://geo.music.apple.com/gb/album/for-unlawful-carnal-knowledge/368011586"
       },
       "enrichedAt": "2026-05-21T12:29:04.323Z"
+    },
+    {
+      "url": "https://rateyourmusic.com/release/album/vanaheim/roede-voor-de-borst",
+      "title": "Roede voor de borst",
+      "artist": "Vanaheim",
+      "year": 2026,
+      "genres": [
+        "Folk Metal"
+      ],
+      "dateAdded": "2026-11-24",
+      "coverUrl": "https://cdn.sonemic.net/i/75/w/7ceab03d6fd09ab0642fdad5ad7eb5bc/15143327",
+      "largeCoverUrl": "https://cdn.sonemic.net/i/1200/w/49141f7b67382c4794c6acf8ce7f5b0f/15143327",
+      "rymRating": 3.47,
+      "primaryGenres": [
+        "Folk Metal"
+      ],
+      "secondaryGenres": [
+        "Symphonic Metal",
+        "Melodic Death Metal"
+      ],
+      "descriptors": [
+        "anthemic",
+        "melodic",
+        "male vocalist"
+      ],
+      "streamingLinks": {
+        "spotify": "https://open.spotify.com/album/3L9gyvj1dJzfOCK0zibGW2",
+        "bandcamp": "https://ff-vanaheim.bandcamp.com/album/roede-voor-de-borst"
+      },
+      "enrichedAt": "2026-11-24T13:55:12.088Z"
     },
     {
       "url": "https://rateyourmusic.com/release/album/vangelis/soil-festivities",
